@@ -5,7 +5,7 @@
   ],
   "PortalKey": {
     "PortalType": "The_Aqua_Subterrain",
-    "TimeLimitSeconds": 600
+    "TimeLimitSeconds": 1800
   },
   "BlockType": {
     "DrawType": "Model",
