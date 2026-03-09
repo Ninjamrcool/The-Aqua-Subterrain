@@ -1,0 +1,40 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [{
+      "Biome" : "The_Aqua_Subterrain",
+      "Min" : -1,
+      "Max" : 0.1
+    },
+    {
+      "Biome" : "The_Aqua_Subterrain",
+      "Min" : 0.1,
+      "Max" : 1
+    }
+  ],
+  "DefaultBiome": "Basic",
+  "DefaultTransitionDistance": 32,
+  "MaxBiomeEdgeDistance" : 32,
+  "Density": {
+    "Type" : "Imported",
+    "Name" : "The_Aqua_Subterrain_Biome_Map"
+	},
+  "Framework" : [
+    {
+      "Type" : "DecimalConstants",
+      "Entries" : [
+        {
+          "Name" : "Base",
+          "Value" : 100
+        },
+        {
+          "Name" : "Water",
+          "Value" : 82
+        },
+        {
+          "Name" : "Bedrock",
+          "Value" : 0
+        }
+      ]
+    }
+  ]
+}
