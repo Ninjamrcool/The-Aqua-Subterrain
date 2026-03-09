@@ -38,6 +38,10 @@
         {
           "Name": "CeilingBedrock",
           "Value": 320
+        },
+        {
+          "Name": "Water",
+          "Value": 125
         }
       ]
     }

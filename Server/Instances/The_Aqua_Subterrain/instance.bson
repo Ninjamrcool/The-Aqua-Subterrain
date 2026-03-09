@@ -4,6 +4,17 @@
   "ChunkStorage": {
     "Type": "Hytale"
   },
+  "SpawnProvider": {
+    "Id": "Global",
+    "SpawnPoint": {
+      "X": 0.5,
+      "Y": 90,
+      "Z": 0.5,
+      "Pitch": 0,
+      "Yaw": 180,
+      "Roll": 0.0
+    }
+  },
   "GameMode": "Adventure",
   "IsPvpEnabled": false,
   "IsSpawningNPC": true,
