@@ -1,3 +1,9 @@
+Ingredient_Crystal_Orange.name = Orange Crystal Shards
+Rock_Crystal_Orange_Small.name = Orange Crystal - Small
+Rock_Crystal_Orange_Medium.name = Orange Crystal - Medium
+Rock_Crystal_Orange_Large.name = Orange Crystal - Large
+Rock_Crystal_Orange.name = Orange Crystal
+
 PortalKey_The_Aqua_Subterrain.name = Fragment: Orbis - The Aqua Subterrain
 PortalKey_The_Aqua_Subterrain.description = [TMP] <msg key="server.items.PortalKey.description"/>\n\
 \n\
