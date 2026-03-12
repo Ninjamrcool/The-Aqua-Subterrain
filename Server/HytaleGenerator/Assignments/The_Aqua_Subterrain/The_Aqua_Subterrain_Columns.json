@@ -49,12 +49,28 @@
 								"$NodeId":	"BlockSet.BlockMask-55211f0b-ba7b-408b-8cca-fbe34ca82bd0",
 								"Inclusive":	true,
 								"Materials":	[{
-										"$NodeId":	"Material-0a79c367-f4dc-4601-9646-d6800407897a",
-										"Solid":	"Rock_Salt",
-										"SolidBottomUp":	false
-									}, {
 										"$NodeId":	"Material-cfafff20-dda8-406a-951a-21372b436b2e",
 										"Solid":	"Plant_Coral_Block_Blue",
+										"SolidBottomUp":	false
+									}, {
+										"$NodeId":	"Material-0a79c367-f4dc-4601-9646-d6800407897a",
+										"Solid":	"Soil_Clay_Cyan",
+										"SolidBottomUp":	false
+									}, {
+										"$NodeId":	"Material-4c6d03c2-b593-4434-ab71-55d695dd1683",
+										"Solid":	"Rock_Aqua",
+										"SolidBottomUp":	false
+									}, {
+										"$NodeId":	"Material-96c80d7a-fc2c-4ba6-a8de-561f71a8c209",
+										"Solid":	"Rock_Aqua_Cobble",
+										"SolidBottomUp":	false
+									}, {
+										"$NodeId":	"Material-abfbf5de-c53f-440f-be67-477084a4455b",
+										"Solid":	"Soil_Clay_Ocean",
+										"SolidBottomUp":	false
+									}, {
+										"$NodeId":	"Material-e18ed37c-b121-49c7-b9a4-728daa79ef38",
+										"Solid":	"Soil_Clay_Smooth_Green",
 										"SolidBottomUp":	false
 									}]
 							}
@@ -182,14 +198,14 @@
 			},
 			"Material-0a79c367-f4dc-4601-9646-d6800407897a":	{
 				"$Position":	{
-					"$x":	4076,
-					"$y":	4842
+					"$x":	4091,
+					"$y":	5030
 				}
 			},
 			"Material-cfafff20-dda8-406a-951a-21372b436b2e":	{
 				"$Position":	{
-					"$x":	4083,
-					"$y":	5037
+					"$x":	4080,
+					"$y":	4848
 				}
 			},
 			"ColumnLinear.Scanner-b4b71c22-7a1b-4481-9dc5-1c580665219e":	{
@@ -268,6 +284,30 @@
 				"$Position":	{
 					"$x":	747937,
 					"$y":	774565
+				}
+			},
+			"Material-4c6d03c2-b593-4434-ab71-55d695dd1683":	{
+				"$Position":	{
+					"$x":	4094,
+					"$y":	5245
+				}
+			},
+			"Material-96c80d7a-fc2c-4ba6-a8de-561f71a8c209":	{
+				"$Position":	{
+					"$x":	4092,
+					"$y":	5455
+				}
+			},
+			"Material-abfbf5de-c53f-440f-be67-477084a4455b":	{
+				"$Position":	{
+					"$x":	4092,
+					"$y":	5656
+				}
+			},
+			"Material-e18ed37c-b121-49c7-b9a4-728daa79ef38":	{
+				"$Position":	{
+					"$x":	4086,
+					"$y":	5848
 				}
 			}
 		},
