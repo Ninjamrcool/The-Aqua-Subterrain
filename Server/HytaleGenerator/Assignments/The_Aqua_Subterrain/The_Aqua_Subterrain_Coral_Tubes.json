@@ -1,14 +1,14 @@
 {
 	"$NodeId":	"Constant.Assignments-16cda3e6-5070-4b8b-b297-8041404eace6",
 	"Type":	"Constant",
-	"ExportAs":	"The_Aqua_Subterrain_Orange_Tubes",
+	"ExportAs":	"The_Aqua_Subterrain_Coral_Tubes",
 	"Prop":	{
 		"$NodeId":	"Prefab.Prop-a5fdb2c1-b6a1-4e09-b4d4-ded7d86a2c0d",
 		"Type":	"Prefab",
 		"Skip":	false,
 		"WeightedPrefabPaths":	[{
 				"$NodeId":	"WeightedPath.Prefab.Prop-89bc703d-3db5-4e97-b1fd-45f088109d06",
-				"Path":	"The_Aqua_Subterrain/Coral_Tubes/Orange",
+				"Path":	"The_Aqua_Subterrain/Coral_Tubes",
 				"Weight":	100
 			}],
 		"LegacyPath":	false,
