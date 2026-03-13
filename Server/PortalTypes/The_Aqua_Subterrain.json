@@ -10,5 +10,13 @@
       "Bring appropriate diving equipment!"
     ]
   },
-  "VoidInvasionEnabled": false
+  "VoidInvasionEnabled": false,
+  "PlayerSpawn": {
+    "X": -5,
+    "Y": 118,
+    "Z": -5,
+    "ScanHeight": 16,
+    "MinRadius": 0,
+    "MaxRadius": 300
+  }
 }
