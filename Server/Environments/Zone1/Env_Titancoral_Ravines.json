@@ -1,0 +1,150 @@
+{
+  "WaterTint": "#1983d9",
+  "SpawnDensity": 0.5,
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 32
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 35
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 35
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 35
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Zone1_Sunny",
+        "Weight": 52
+      }
+    ]
+  }
+}

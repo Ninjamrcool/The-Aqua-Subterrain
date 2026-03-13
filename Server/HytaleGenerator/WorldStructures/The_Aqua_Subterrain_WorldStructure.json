@@ -2,12 +2,12 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome": "The_Aqua_Subterrain",
+      "Biome": "Titancoral_Ravines",
       "Min": -1,
       "Max": 0.1
     },
     {
-      "Biome": "The_Aqua_Subterrain",
+      "Biome": "Titancoral_Ravines",
       "Min": 0.1,
       "Max": 1
     }
