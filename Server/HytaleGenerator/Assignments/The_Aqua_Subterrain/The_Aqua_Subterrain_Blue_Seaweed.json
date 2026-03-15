@@ -1,14 +1,14 @@
 {
 	"$NodeId":	"Constant.Assignments-16cda3e6-5070-4b8b-b297-8041404eace6",
 	"Type":	"Constant",
-	"ExportAs":	"The_Aqua_Subterrain_Seaweed",
+	"ExportAs":	"The_Aqua_Subterrain_Blue_Seaweed",
 	"Prop":	{
 		"$NodeId":	"Prefab.Prop-c5bdbf0c-20fb-4dab-b6fe-35fe66ce421b",
 		"Type":	"Prefab",
 		"Skip":	false,
 		"WeightedPrefabPaths":	[{
 				"$NodeId":	"WeightedPath.Prefab.Prop-56992447-04f8-497f-8c4a-7204c1253874",
-				"Path":	"The_Aqua_Subterrain/Seaweed",
+				"Path":	"The_Aqua_Subterrain/Blue_Seaweed",
 				"Weight":	100
 			}],
 		"LegacyPath":	false,
@@ -105,6 +105,18 @@
 				},
 				"$Title":	"[ROOT] Constant Assignments"
 			},
+			"Prefab.Prop-c5bdbf0c-20fb-4dab-b6fe-35fe66ce421b":	{
+				"$Position":	{
+					"$x":	637,
+					"$y":	4482
+				}
+			},
+			"WeightedPath.Prefab.Prop-56992447-04f8-497f-8c4a-7204c1253874":	{
+				"$Position":	{
+					"$x":	1431,
+					"$y":	4465
+				}
+			},
 			"Random.Directionality-4d25c5c0-eb70-4f90-b1b4-d8814cb1d082":	{
 				"$Position":	{
 					"$x":	1428,
@@ -183,6 +195,24 @@
 					"$y":	4830
 				}
 			},
+			"BlockMask-89c1ded3-af0f-4bbe-a1e1-ce68b6690cb0":	{
+				"$Position":	{
+					"$x":	1395,
+					"$y":	5250
+				}
+			},
+			"BlockSet.BlockMask-d1cf6123-72f5-4998-91ea-8108de0bb0de":	{
+				"$Position":	{
+					"$x":	2164,
+					"$y":	5292
+				}
+			},
+			"Material-15cdea55-60da-421a-af63-8c6f05f0893c":	{
+				"$Position":	{
+					"$x":	2714,
+					"$y":	5290
+				}
+			},
 			"FieldFunction.Assignments-c050199a-0aba-4388-baa8-0ff30c9ad3b2":	{
 				"$Position":	{
 					"$x":	747155,
@@ -247,36 +277,6 @@
 				"$Position":	{
 					"$x":	0,
 					"$y":	0
-				}
-			},
-			"Prefab.Prop-c5bdbf0c-20fb-4dab-b6fe-35fe66ce421b":	{
-				"$Position":	{
-					"$x":	637,
-					"$y":	4482
-				}
-			},
-			"WeightedPath.Prefab.Prop-56992447-04f8-497f-8c4a-7204c1253874":	{
-				"$Position":	{
-					"$x":	1431,
-					"$y":	4465
-				}
-			},
-			"BlockMask-89c1ded3-af0f-4bbe-a1e1-ce68b6690cb0":	{
-				"$Position":	{
-					"$x":	1395,
-					"$y":	5250
-				}
-			},
-			"BlockSet.BlockMask-d1cf6123-72f5-4998-91ea-8108de0bb0de":	{
-				"$Position":	{
-					"$x":	2164,
-					"$y":	5292
-				}
-			},
-			"Material-15cdea55-60da-421a-af63-8c6f05f0893c":	{
-				"$Position":	{
-					"$x":	2714,
-					"$y":	5290
 				}
 			}
 		},

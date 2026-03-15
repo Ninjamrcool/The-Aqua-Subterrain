@@ -4,6 +4,8 @@ Rock_Crystal_Orange_Medium.name = Orange Crystal - Medium
 Rock_Crystal_Orange_Large.name = Orange Crystal - Large
 Rock_Crystal_Orange.name = Orange Crystal
 
+Plant_Seaweed_Blue_Stack.name = Blue Seaweed - Middle
+
 PortalKey_The_Aqua_Subterrain.name = Fragment: Orbis - The Aqua Subterrain
 PortalKey_The_Aqua_Subterrain.description = [TMP] <msg key="server.items.PortalKey.description"/>\n\
 \n\

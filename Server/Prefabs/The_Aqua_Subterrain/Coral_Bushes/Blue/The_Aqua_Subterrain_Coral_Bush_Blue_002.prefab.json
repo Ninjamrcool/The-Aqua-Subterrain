@@ -7,39 +7,9 @@
   "blocks": [
     {
       "x": -1,
-      "y": 0,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 0,
-      "name": "Empty"
+      "y": -1,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Blue"
     },
     {
       "x": -1,
@@ -48,34 +18,10 @@
       "name": "Plant_Coral_Model_Cyan"
     },
     {
-      "x": -1,
-      "y": 1,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
       "x": 0,
-      "y": 0,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 1,
-      "z": -2,
-      "name": "Empty"
+      "y": -1,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Blue"
     },
     {
       "x": 0,
@@ -85,9 +31,9 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": -1,
-      "name": "Empty"
+      "y": -1,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Cyan"
     },
     {
       "x": 0,
@@ -97,9 +43,9 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": 0,
-      "name": "Empty"
+      "y": -1,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Blue"
     },
     {
       "x": 0,
@@ -109,9 +55,9 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": 1,
-      "name": "Empty"
+      "y": -1,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Blue"
     },
     {
       "x": 0,
@@ -120,10 +66,10 @@
       "name": "Plant_Flower_Orchid_Blue"
     },
     {
-      "x": 0,
-      "y": 1,
-      "z": 2,
-      "name": "Empty"
+      "x": 1,
+      "y": -1,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Cyan"
     },
     {
       "x": 1,
@@ -133,7 +79,8 @@
       "components": {
         "Components": {
           "FarmingBlock": {
-            "LastTickGameTime": "0001-01-02T07:00:20.173407476Z",
+            "GrowthProgress": -6.176380634307861,
+            "LastTickGameTime": "0001-01-01T12:00:00Z",
             "SpreadRate": 0.5
           }
         }
@@ -141,9 +88,9 @@
     },
     {
       "x": 1,
-      "y": 1,
-      "z": -2,
-      "name": "Empty"
+      "y": -1,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Blue"
     },
     {
       "x": 1,
@@ -153,9 +100,9 @@
     },
     {
       "x": 1,
-      "y": 1,
-      "z": -1,
-      "name": "Empty"
+      "y": -1,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Cyan"
     },
     {
       "x": 1,
@@ -171,15 +118,21 @@
     },
     {
       "x": 1,
+      "y": -1,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Cyan"
+    },
+    {
+      "x": 1,
       "y": 0,
       "z": 1,
       "name": "Plant_Coral_Bush_Cyan"
     },
     {
       "x": 1,
-      "y": 1,
-      "z": 1,
-      "name": "Empty"
+      "y": -1,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Cyan"
     },
     {
       "x": 1,
@@ -188,22 +141,10 @@
       "name": "Plant_Coral_Model_Cyan"
     },
     {
-      "x": 1,
-      "y": 1,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
       "x": 2,
-      "y": 0,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": -2,
-      "name": "Empty"
+      "y": -1,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Cyan"
     },
     {
       "x": 2,
@@ -213,45 +154,15 @@
     },
     {
       "x": 2,
-      "y": 1,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 0,
-      "name": "Empty"
+      "y": -1,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Blue"
     },
     {
       "x": 2,
       "y": 0,
       "z": 1,
       "name": "Plant_Flower_Orchid_Blue"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 2,
-      "name": "Empty"
     }
   ],
   "fluids": [
@@ -299,6 +210,13 @@
     },
     {
       "x": -1,
+      "y": -1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
       "y": 0,
       "z": 1,
       "name": "Water_Source",
@@ -341,6 +259,13 @@
     },
     {
       "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
       "y": 0,
       "z": -1,
       "name": "Water_Source",
@@ -355,6 +280,13 @@
     },
     {
       "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
       "y": 0,
       "z": 0,
       "name": "Water_Source",
@@ -364,6 +296,13 @@
       "x": 0,
       "y": 1,
       "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 1,
       "name": "Water_Source",
       "level": 1
     },
@@ -383,6 +322,13 @@
     },
     {
       "x": 0,
+      "y": -1,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
       "y": 0,
       "z": 2,
       "name": "Water_Source",
@@ -397,6 +343,13 @@
     },
     {
       "x": 1,
+      "y": -1,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
       "y": 0,
       "z": -2,
       "name": "Water_Source",
@@ -406,6 +359,13 @@
       "x": 1,
       "y": 1,
       "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -1,
       "name": "Water_Source",
       "level": 1
     },
@@ -425,6 +385,13 @@
     },
     {
       "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
       "y": 0,
       "z": 0,
       "name": "Water_Source",
@@ -439,6 +406,13 @@
     },
     {
       "x": 1,
+      "y": -1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
       "y": 0,
       "z": 1,
       "name": "Water_Source",
@@ -448,6 +422,13 @@
       "x": 1,
       "y": 1,
       "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 2,
       "name": "Water_Source",
       "level": 1
     },
@@ -481,6 +462,13 @@
     },
     {
       "x": 2,
+      "y": -1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
       "y": 0,
       "z": -1,
       "name": "Water_Source",
@@ -504,6 +492,13 @@
       "x": 2,
       "y": 1,
       "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 1,
       "name": "Water_Source",
       "level": 1
     },

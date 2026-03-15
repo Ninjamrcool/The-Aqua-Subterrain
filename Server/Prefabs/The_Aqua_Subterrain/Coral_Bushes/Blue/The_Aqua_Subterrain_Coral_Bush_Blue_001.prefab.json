@@ -13,9 +13,9 @@
     },
     {
       "x": -1,
-      "y": 1,
-      "z": -1,
-      "name": "Empty"
+      "y": -1,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Blue"
     },
     {
       "x": -1,
@@ -24,34 +24,10 @@
       "name": "Plant_Coral_Bush_Blue"
     },
     {
-      "x": -1,
-      "y": 1,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 0,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 1,
-      "z": 2,
-      "name": "Empty"
+      "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Cyan"
     },
     {
       "x": 0,
@@ -61,9 +37,9 @@
     },
     {
       "x": 0,
-      "y": 1,
-      "z": -1,
-      "name": "Empty"
+      "y": -1,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Blue"
     },
     {
       "x": 0,
@@ -79,6 +55,12 @@
     },
     {
       "x": 0,
+      "y": -1,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Blue"
+    },
+    {
+      "x": 0,
       "y": 0,
       "z": 1,
       "name": "Plant_Coral_Bush_Blue"
@@ -96,10 +78,10 @@
       "name": "Plant_Coral_Model_Blue"
     },
     {
-      "x": 0,
-      "y": 1,
-      "z": 2,
-      "name": "Empty"
+      "x": 1,
+      "y": -1,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Cyan"
     },
     {
       "x": 1,
@@ -109,9 +91,9 @@
     },
     {
       "x": 1,
-      "y": 1,
-      "z": -1,
-      "name": "Empty"
+      "y": -1,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Blue"
     },
     {
       "x": 1,
@@ -121,81 +103,15 @@
     },
     {
       "x": 1,
-      "y": 1,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
       "y": 0,
       "z": 1,
       "name": "Plant_Coral_Model_Blue"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 0,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 1,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": 2,
       "y": 0,
       "z": 0,
       "name": "Plant_Coral_Model_Blue"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 0,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 1,
-      "z": 2,
-      "name": "Empty"
     }
   ],
   "fluids": [
@@ -215,6 +131,13 @@
     },
     {
       "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
       "y": 0,
       "z": 0,
       "name": "Water_Source",
@@ -257,6 +180,13 @@
     },
     {
       "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
       "y": 0,
       "z": -1,
       "name": "Water_Source",
@@ -271,6 +201,13 @@
     },
     {
       "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
       "y": 0,
       "z": 0,
       "name": "Water_Source",
@@ -280,6 +217,13 @@
       "x": 0,
       "y": 1,
       "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 1,
       "name": "Water_Source",
       "level": 1
     },
@@ -313,6 +257,13 @@
     },
     {
       "x": 1,
+      "y": -1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
       "y": 0,
       "z": -1,
       "name": "Water_Source",
@@ -322,6 +273,13 @@
       "x": 1,
       "y": 1,
       "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
       "name": "Water_Source",
       "level": 1
     },
