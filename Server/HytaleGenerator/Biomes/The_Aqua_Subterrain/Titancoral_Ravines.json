@@ -1073,6 +1073,70 @@
 					}]
 			}
 		}, {
+			"$NodeId":	"Runtime-500949a6-9f07-4c00-9c1c-e8ddb3ef12c5",
+			"Skip":	false,
+			"Runtime":	3,
+			"Positions":	{
+				"$NodeId":	"Mesh2DPositions-29aefa86-359d-46a9-b463-b2a9055fb1d2",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0,
+				"PointGenerator":	{
+					"$NodeId":	"MeshPointGenerator-84fb8deb-453c-4cd9-8ee3-958102d4cfdf",
+					"Type":	"Mesh",
+					"Jitter":	0.4,
+					"ScaleX":	65,
+					"ScaleY":	65,
+					"ScaleZ":	65,
+					"Seed":	"shurg"
+				}
+			},
+			"Assignments":	{
+				"$NodeId":	"FieldFunction.Assignments-a7454218-a54d-468b-ab73-44bd1d445d44",
+				"Type":	"FieldFunction",
+				"ExportAs":	"",
+				"FieldFunction":	{
+					"$NodeId":	"ImportedDensityNode-38e6e35b-f194-44b4-af3d-0c1426271736",
+					"Type":	"Imported",
+					"Skip":	false,
+					"Name":	"GroundPlateauDensity"
+				},
+				"Delimiters":	[{
+						"$NodeId":	"Delimiter.FieldFunction.Assignments-831a60db-e9f8-439b-a580-39837ddda32c",
+						"Max":	-0.05,
+						"Min":	-0.3,
+						"Assignments":	{
+							"$NodeId":	"Imported.Assignments-d6bd0a7c-b79a-4291-a051-8b9e31331a54",
+							"Type":	"Imported",
+							"Name":	"The_Aqua_Subterrain_Large_Rocks"
+						}
+					}]
+			}
+		}, {
+			"$NodeId":	"Runtime-eabfcab0-c513-406d-ad2c-1d732136c0d5",
+			"Skip":	false,
+			"Runtime":	3,
+			"Positions":	{
+				"$NodeId":	"Mesh2DPositions-0d6d63ef-ad9e-4b30-a595-2c859b16be23",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0,
+				"PointGenerator":	{
+					"$NodeId":	"MeshPointGenerator-384cb4f0-07a6-4ec1-9007-04279a220fc7",
+					"Type":	"Mesh",
+					"Jitter":	0.5,
+					"ScaleX":	35,
+					"ScaleY":	35,
+					"ScaleZ":	35,
+					"Seed":	"rok"
+				}
+			},
+			"Assignments":	{
+				"$NodeId":	"Imported.Assignments-afe14306-c8bc-49f6-817d-248bae88b6ba",
+				"Type":	"Imported",
+				"Name":	"The_Aqua_Subterrain_Small_Rocks"
+			}
+		}, {
 			"$NodeId":	"Runtime-d6b22893-c28c-416d-91df-ff1448ecf25d",
 			"Skip":	false,
 			"Runtime":	3,
@@ -2509,170 +2573,170 @@
 			},
 			"Runtime-23ded8f0-0418-4612-9c98-0854c369a6a4":	{
 				"$Position":	{
-					"$x":	-1842,
-					"$y":	23861
+					"$x":	-1546,
+					"$y":	21950
 				}
 			},
 			"CachePositions-e9d9f32a-d967-4e9e-b317-dbb797aec1f8":	{
 				"$Position":	{
-					"$x":	-1248,
-					"$y":	23824
+					"$x":	-952,
+					"$y":	21913
 				}
 			},
 			"Mesh2DPositions-07609244-3f34-41c5-a48c-d3636afdb937":	{
 				"$Position":	{
-					"$x":	-491,
-					"$y":	23821
+					"$x":	-195,
+					"$y":	21910
 				}
 			},
 			"MeshPointGenerator-1406aa52-b4ba-40a9-a9f8-bcd1fb7d5b77":	{
 				"$Position":	{
-					"$x":	281,
-					"$y":	23808
+					"$x":	576,
+					"$y":	21897
 				}
 			},
 			"FieldFunction.Assignments-0499250f-87ea-491e-92de-f7a1c408a0ce":	{
 				"$Position":	{
-					"$x":	-1248,
-					"$y":	24147
+					"$x":	-952,
+					"$y":	22236
 				}
 			},
 			"ImportedDensityNode-01188a50-2ee6-4bd8-86f9-7f145dc0adda":	{
 				"$Position":	{
-					"$x":	-466,
-					"$y":	24138
+					"$x":	-170,
+					"$y":	22227
 				}
 			},
 			"Delimiter.FieldFunction.Assignments-b90bd8a2-6670-4631-9626-af9314713b66":	{
 				"$Position":	{
-					"$x":	-472,
-					"$y":	24400
+					"$x":	-176,
+					"$y":	22489
 				}
 			},
 			"Imported.Assignments-52dd1403-d8c6-4cac-82ea-91446162d8b8":	{
 				"$Position":	{
-					"$x":	150,
-					"$y":	24412
+					"$x":	445,
+					"$y":	22501
 				}
 			},
 			"Runtime-87c573dd-e0dd-43b1-b8db-575f444b3550":	{
 				"$Position":	{
-					"$x":	-2017,
-					"$y":	24994
+					"$x":	-1713,
+					"$y":	23099
 				}
 			},
 			"ImportedPositions-34353f55-ea90-4507-b3f2-46248f6b9297":	{
 				"$Position":	{
-					"$x":	-1342,
-					"$y":	24997
+					"$x":	-1038,
+					"$y":	23102
 				}
 			},
 			"FieldFunction.Assignments-e0abfece-d603-4d89-ae5b-e445922e1f6e":	{
 				"$Position":	{
-					"$x":	-1423,
-					"$y":	25283
+					"$x":	-1119,
+					"$y":	23388
 				}
 			},
 			"ImportedDensityNode-332cae7d-c4d9-44a5-b51e-13e25becbc05":	{
 				"$Position":	{
-					"$x":	-641,
-					"$y":	25274
+					"$x":	-337,
+					"$y":	23379
 				}
 			},
 			"Delimiter.FieldFunction.Assignments-f3f0f79b-c207-45a1-8746-becfddca3bcb":	{
 				"$Position":	{
-					"$x":	-647,
-					"$y":	25536
+					"$x":	-343,
+					"$y":	23641
 				}
 			},
 			"Imported.Assignments-c5f579e8-f2ce-4f0f-81bc-2965846a4bc4":	{
 				"$Position":	{
-					"$x":	-24,
-					"$y":	25548
+					"$x":	279,
+					"$y":	23653
 				}
 			},
 			"Runtime-7d9f3ffb-f284-4a5c-9a18-69f8bf1e2c98":	{
 				"$Position":	{
-					"$x":	-2180,
-					"$y":	26122
+					"$x":	-1854,
+					"$y":	24231
 				}
 			},
 			"Mesh2DPositions-3e73886b-9fba-4095-a86d-f6e2cc4615d9":	{
 				"$Position":	{
-					"$x":	-1518,
-					"$y":	26088
+					"$x":	-1192,
+					"$y":	24197
 				}
 			},
 			"MeshPointGenerator-353321e8-eb4e-47f6-a5ca-7de2d795f638":	{
 				"$Position":	{
-					"$x":	-715,
-					"$y":	26065
+					"$x":	-389,
+					"$y":	24174
 				}
 			},
 			"FieldFunction.Assignments-cfb936b1-12ed-4849-84bf-f9c0b1fa5aab":	{
 				"$Position":	{
-					"$x":	-1586,
-					"$y":	26408
+					"$x":	-1260,
+					"$y":	24517
 				}
 			},
 			"ImportedDensityNode-03db1e0a-c688-4b69-a67f-0d0d05a12fdc":	{
 				"$Position":	{
-					"$x":	-804,
-					"$y":	26399
+					"$x":	-478,
+					"$y":	24508
 				}
 			},
 			"Delimiter.FieldFunction.Assignments-3bf95f7d-3a54-4e34-90b4-e1ed1255ad5f":	{
 				"$Position":	{
-					"$x":	-810,
-					"$y":	26661
+					"$x":	-484,
+					"$y":	24770
 				}
 			},
 			"Imported.Assignments-37e2649d-456f-4584-89f0-134c91b26fdf":	{
 				"$Position":	{
-					"$x":	-215,
-					"$y":	26664
+					"$x":	111,
+					"$y":	24773
 				}
 			},
 			"Runtime-3a18860d-eba6-40ab-94e7-a8b650d9ba0a":	{
 				"$Position":	{
-					"$x":	-2183,
-					"$y":	26994
+					"$x":	-1857,
+					"$y":	25103
 				}
 			},
 			"Mesh2DPositions-2a424bed-9672-483e-902d-2383abe61872":	{
 				"$Position":	{
-					"$x":	-1521,
-					"$y":	26960
+					"$x":	-1195,
+					"$y":	25069
 				}
 			},
 			"MeshPointGenerator-80bafad2-7fcd-4867-be29-637b3a3ef956":	{
 				"$Position":	{
-					"$x":	-718,
-					"$y":	26937
+					"$x":	-392,
+					"$y":	25046
 				}
 			},
 			"FieldFunction.Assignments-91ed3eed-044c-4543-9b0b-05fd5f2644ef":	{
 				"$Position":	{
-					"$x":	-1589,
-					"$y":	27280
+					"$x":	-1263,
+					"$y":	25389
 				}
 			},
 			"ImportedDensityNode-e05239ee-50c5-4153-87e8-ca11d98f2bb3":	{
 				"$Position":	{
-					"$x":	-807,
-					"$y":	27271
+					"$x":	-481,
+					"$y":	25380
 				}
 			},
 			"Delimiter.FieldFunction.Assignments-23901c14-250b-4930-adaf-95b541e29010":	{
 				"$Position":	{
-					"$x":	-813,
-					"$y":	27533
+					"$x":	-487,
+					"$y":	25642
 				}
 			},
 			"Imported.Assignments-3a5aed6e-4b49-42bc-9de3-1ba8d6dc2980":	{
 				"$Position":	{
-					"$x":	-218,
-					"$y":	27536
+					"$x":	108,
+					"$y":	25645
 				}
 			},
 			"Runtime-d6b22893-c28c-416d-91df-ff1448ecf25d":	{
@@ -2761,43 +2825,43 @@
 			},
 			"Runtime-8c06249b-cd14-425c-8d98-3c6b36ee0f0d":	{
 				"$Position":	{
-					"$x":	-2638,
+					"$x":	-2633,
 					"$y":	30192
 				}
 			},
 			"Mesh2DPositions-b2429c87-2b9d-4471-9c05-824c5cfe725b":	{
 				"$Position":	{
-					"$x":	-1976,
+					"$x":	-1971,
 					"$y":	30158
 				}
 			},
 			"MeshPointGenerator-d6e17da2-07c7-4ba5-bdc0-c5ddad8ec241":	{
 				"$Position":	{
-					"$x":	-1173,
+					"$x":	-1168,
 					"$y":	30135
 				}
 			},
 			"FieldFunction.Assignments-81018179-bde8-4afc-88e0-88d73821e05b":	{
 				"$Position":	{
-					"$x":	-2044,
+					"$x":	-2039,
 					"$y":	30478
 				}
 			},
 			"ImportedDensityNode-0f7cec70-138d-43d5-8f1f-95adb7cdcb9c":	{
 				"$Position":	{
-					"$x":	-1262,
+					"$x":	-1257,
 					"$y":	30469
 				}
 			},
 			"Delimiter.FieldFunction.Assignments-c8ecd3e8-b61b-41a0-8b0f-c4594262ffa6":	{
 				"$Position":	{
-					"$x":	-1268,
+					"$x":	-1263,
 					"$y":	30731
 				}
 			},
 			"Imported.Assignments-1d52b15e-1f19-4aa3-ab1e-c244cce940e7":	{
 				"$Position":	{
-					"$x":	-673,
+					"$x":	-668,
 					"$y":	30734
 				}
 			},
@@ -3082,6 +3146,72 @@
 					"$x":	-5402,
 					"$y":	18577
 				}
+			},
+			"Runtime-eabfcab0-c513-406d-ad2c-1d732136c0d5":	{
+				"$Position":	{
+					"$x":	-2162,
+					"$y":	27277
+				}
+			},
+			"Mesh2DPositions-0d6d63ef-ad9e-4b30-a595-2c859b16be23":	{
+				"$Position":	{
+					"$x":	-1500,
+					"$y":	27243
+				}
+			},
+			"MeshPointGenerator-384cb4f0-07a6-4ec1-9007-04279a220fc7":	{
+				"$Position":	{
+					"$x":	-697,
+					"$y":	27220
+				}
+			},
+			"Imported.Assignments-afe14306-c8bc-49f6-817d-248bae88b6ba":	{
+				"$Position":	{
+					"$x":	-1500,
+					"$y":	27514
+				}
+			},
+			"Runtime-500949a6-9f07-4c00-9c1c-e8ddb3ef12c5":	{
+				"$Position":	{
+					"$x":	-1995,
+					"$y":	26144
+				}
+			},
+			"Mesh2DPositions-29aefa86-359d-46a9-b463-b2a9055fb1d2":	{
+				"$Position":	{
+					"$x":	-1333,
+					"$y":	26110
+				}
+			},
+			"MeshPointGenerator-84fb8deb-453c-4cd9-8ee3-958102d4cfdf":	{
+				"$Position":	{
+					"$x":	-530,
+					"$y":	26087
+				}
+			},
+			"FieldFunction.Assignments-a7454218-a54d-468b-ab73-44bd1d445d44":	{
+				"$Position":	{
+					"$x":	-1401,
+					"$y":	26430
+				}
+			},
+			"ImportedDensityNode-38e6e35b-f194-44b4-af3d-0c1426271736":	{
+				"$Position":	{
+					"$x":	-619,
+					"$y":	26421
+				}
+			},
+			"Delimiter.FieldFunction.Assignments-831a60db-e9f8-439b-a580-39837ddda32c":	{
+				"$Position":	{
+					"$x":	-625,
+					"$y":	26683
+				}
+			},
+			"Imported.Assignments-d6bd0a7c-b79a-4291-a051-8b9e31331a54":	{
+				"$Position":	{
+					"$x":	-30,
+					"$y":	26686
+				}
 			}
 		},
 		"$FloatingNodes":	[],
@@ -3121,8 +3251,8 @@
 				"$name":	"Ocean Clay"
 			}, {
 				"$Position":	{
-					"$x":	-1989.125,
-					"$y":	23667
+					"$x":	-1694.0625,
+					"$y":	21756.0625
 				},
 				"$width":	2793.125,
 				"$height":	1002.125,
@@ -3241,7 +3371,7 @@
 				"$name":	"Smooth Green Clay"
 			}, {
 				"$Position":	{
-					"$x":	-2785.9375,
+					"$x":	-2781.75,
 					"$y":	30001.3125
 				},
 				"$width":	2793.125,
@@ -3289,8 +3419,8 @@
 				"$name":	"Blue Seaweed"
 			}, {
 				"$Position":	{
-					"$x":	-2163.4375,
-					"$y":	24803.875
+					"$x":	-1860.1875,
+					"$y":	22909.375
 				},
 				"$width":	2793.125,
 				"$height":	1002.125,
@@ -3305,8 +3435,8 @@
 				"$name":	"Coral Bushes"
 			}, {
 				"$Position":	{
-					"$x":	-2328.75,
-					"$y":	25932.3125
+					"$x":	-2002.75,
+					"$y":	24041.625
 				},
 				"$width":	2793.125,
 				"$height":	1786.75,
@@ -3335,6 +3465,22 @@
 				"$width":	6475.5,
 				"$height":	2386.3125,
 				"$name":	"Pillars"
+			}, {
+				"$Position":	{
+					"$x":	-2310.875,
+					"$y":	27087.0625
+				},
+				"$width":	2056.75,
+				"$height":	631.4375,
+				"$name":	"Small Rocks"
+			}, {
+				"$Position":	{
+					"$x":	-2144.3125,
+					"$y":	25953.9375
+				},
+				"$width":	2793.125,
+				"$height":	1002.125,
+				"$name":	"Large Rocks"
 			}],
 		"$Comments":	[{
 				"$Position":	{
