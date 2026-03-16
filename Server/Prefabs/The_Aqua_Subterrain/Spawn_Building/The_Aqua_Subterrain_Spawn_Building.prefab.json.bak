@@ -2619,9 +2619,7 @@
       "x": -5,
       "y": 15,
       "z": -1,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 1023,
-      "rotation": 1
+      "name": "Empty"
     },
     {
       "x": -5,
@@ -2837,9 +2835,7 @@
       "x": -5,
       "y": 15,
       "z": 0,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 31,
-      "rotation": 1
+      "name": "Empty"
     },
     {
       "x": -5,
@@ -3035,9 +3031,7 @@
       "x": -5,
       "y": 15,
       "z": 1,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 63,
-      "rotation": 1
+      "name": "Empty"
     },
     {
       "x": -5,
@@ -4691,9 +4685,7 @@
       "x": -4,
       "y": 15,
       "z": -1,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 992,
-      "rotation": 1
+      "name": "Empty"
     },
     {
       "x": -4,
@@ -4787,8 +4779,7 @@
       "x": -4,
       "y": 15,
       "z": 0,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "rotation": 1
+      "name": "Empty"
     },
     {
       "x": -4,
@@ -4882,9 +4873,7 @@
       "x": -4,
       "y": 15,
       "z": 1,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 32,
-      "rotation": 1
+      "name": "Empty"
     },
     {
       "x": -4,
@@ -6574,9 +6563,7 @@
       "x": -3,
       "y": 15,
       "z": -1,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 993,
-      "rotation": 1
+      "name": "Empty"
     },
     {
       "x": -3,
@@ -6662,9 +6649,7 @@
       "x": -3,
       "y": 15,
       "z": 0,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 1,
-      "rotation": 1
+      "name": "Empty"
     },
     {
       "x": -3,
@@ -6750,9 +6735,7 @@
       "x": -3,
       "y": 15,
       "z": 1,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 33,
-      "rotation": 1
+      "name": "Empty"
     },
     {
       "x": -3,
@@ -9278,8 +9261,7 @@
       "x": -1,
       "y": 15,
       "z": -4,
-      "name": "Plant_Moss_Short_Blue",
-      "support": 15
+      "name": "Empty"
     },
     {
       "x": -1,

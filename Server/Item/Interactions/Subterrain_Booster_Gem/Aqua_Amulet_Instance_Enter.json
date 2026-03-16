@@ -1,23 +1,9 @@
 {
   "Type": "TeleportInstance",
   "InstanceName": "The_Aqua_Subterrain",
-  "PositionOffset": {
-    "X": 0,
-    "Y": 0,
-    "Z": 0
-  },
-  "Rotation": {
-    "Pitch": 0,
-    "Yaw": 0,
-    "Roll": 0
-  },
-  "PersonalReturnPoint": true,
-  "CloseOnBlockRemove": false,
+  "InstanceKey": "The_Aqua_Subterrain_Main",
+  "PersonalReturnPoint": false,
   "Effects": {
-    "ItemAnimationId": "Interact",
-    "ClearAnimationOnFinish": true,
-    "LocalSoundEventId": "SFX_Portal_Neutral_Teleport_Local",
-    "WaitForAnimationToFinish": true
-  },
-  "InstanceKey": "The_Aqua_Subterrain_Main"
+    "LocalSoundEventId": "SFX_Portal_Neutral_Teleport_Local"
+  }
 }

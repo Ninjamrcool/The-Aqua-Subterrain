@@ -9166,8 +9166,7 @@
       "x": -1,
       "y": 15,
       "z": -5,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 1023
+      "name": "Empty"
     },
     {
       "x": -1,
@@ -9262,8 +9261,7 @@
       "x": -1,
       "y": 15,
       "z": -4,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 31
+      "name": "Empty"
     },
     {
       "x": -1,
@@ -9349,8 +9347,8 @@
       "x": -1,
       "y": 15,
       "z": -3,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 63
+      "name": "Plant_Moss_Rug_Blue",
+      "support": 15
     },
     {
       "x": -1,
@@ -9529,7 +9527,9 @@
       "x": -1,
       "y": 15,
       "z": -1,
-      "name": "Empty"
+      "name": "Aqua_Subterrain_Spawn_Pad",
+      "filler": 1023,
+      "rotation": 3
     },
     {
       "x": -1,
@@ -9615,7 +9615,9 @@
       "x": -1,
       "y": 15,
       "z": 0,
-      "name": "Empty"
+      "name": "Aqua_Subterrain_Spawn_Pad",
+      "filler": 31,
+      "rotation": 3
     },
     {
       "x": -1,
@@ -9703,7 +9705,9 @@
       "x": -1,
       "y": 15,
       "z": 1,
-      "name": "Empty"
+      "name": "Aqua_Subterrain_Spawn_Pad",
+      "filler": 63,
+      "rotation": 3
     },
     {
       "x": -1,
@@ -11045,8 +11049,7 @@
       "x": 0,
       "y": 15,
       "z": -5,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 992
+      "name": "Empty"
     },
     {
       "x": 0,
@@ -11140,7 +11143,7 @@
       "x": 0,
       "y": 15,
       "z": -4,
-      "name": "Forgotten_Temple_Portal_Exit"
+      "name": "Empty"
     },
     {
       "x": 0,
@@ -11226,8 +11229,7 @@
       "x": 0,
       "y": 15,
       "z": -3,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 32
+      "name": "Empty"
     },
     {
       "x": 0,
@@ -11399,7 +11401,9 @@
       "x": 0,
       "y": 15,
       "z": -1,
-      "name": "Empty"
+      "name": "Aqua_Subterrain_Spawn_Pad",
+      "filler": 992,
+      "rotation": 3
     },
     {
       "x": 0,
@@ -11488,7 +11492,8 @@
       "x": 0,
       "y": 15,
       "z": 0,
-      "name": "Empty"
+      "name": "Aqua_Subterrain_Spawn_Pad",
+      "rotation": 3
     },
     {
       "x": 0,
@@ -11598,7 +11603,9 @@
       "x": 0,
       "y": 15,
       "z": 1,
-      "name": "Empty"
+      "name": "Aqua_Subterrain_Spawn_Pad",
+      "filler": 32,
+      "rotation": 3
     },
     {
       "x": 0,
@@ -12930,8 +12937,7 @@
       "x": 1,
       "y": 15,
       "z": -5,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 993
+      "name": "Empty"
     },
     {
       "x": 1,
@@ -13025,8 +13031,7 @@
       "x": 1,
       "y": 15,
       "z": -4,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 1
+      "name": "Empty"
     },
     {
       "x": 1,
@@ -13112,8 +13117,7 @@
       "x": 1,
       "y": 15,
       "z": -3,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "filler": 33
+      "name": "Empty"
     },
     {
       "x": 1,
@@ -13285,7 +13289,9 @@
       "x": 1,
       "y": 15,
       "z": -1,
-      "name": "Empty"
+      "name": "Aqua_Subterrain_Spawn_Pad",
+      "filler": 993,
+      "rotation": 3
     },
     {
       "x": 1,
@@ -13371,7 +13377,9 @@
       "x": 1,
       "y": 15,
       "z": 0,
-      "name": "Empty"
+      "name": "Aqua_Subterrain_Spawn_Pad",
+      "filler": 1,
+      "rotation": 3
     },
     {
       "x": 1,
@@ -13459,7 +13467,9 @@
       "x": 1,
       "y": 15,
       "z": 1,
-      "name": "Empty"
+      "name": "Aqua_Subterrain_Spawn_Pad",
+      "filler": 33,
+      "rotation": 3
     },
     {
       "x": 1,
