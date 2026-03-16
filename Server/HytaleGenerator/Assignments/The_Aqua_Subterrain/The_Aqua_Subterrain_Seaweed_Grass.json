@@ -77,7 +77,7 @@
 			"Type":	"ColumnLinear",
 			"Skip":	false,
 			"MaxY":	35,
-			"MinY":	15,
+			"MinY":	-15,
 			"RelativeToPosition":	false,
 			"BaseHeightName":	"Base",
 			"TopDownOrder":	true,
@@ -183,6 +183,12 @@
 					"$y":	5672
 				}
 			},
+			"ColumnLinear.Scanner-da23bc96-3214-4b27-9437-313ba6c5c27a":	{
+				"$Position":	{
+					"$x":	1397,
+					"$y":	4886
+				}
+			},
 			"FieldFunction.Assignments-c050199a-0aba-4388-baa8-0ff30c9ad3b2":	{
 				"$Position":	{
 					"$x":	747155,
@@ -247,12 +253,6 @@
 				"$Position":	{
 					"$x":	0,
 					"$y":	0
-				}
-			},
-			"ColumnLinear.Scanner-da23bc96-3214-4b27-9437-313ba6c5c27a":	{
-				"$Position":	{
-					"$x":	1397,
-					"$y":	4886
 				}
 			}
 		},

@@ -1,14 +1,14 @@
 {
 	"$NodeId":	"Constant.Assignments-16cda3e6-5070-4b8b-b297-8041404eace6",
 	"Type":	"Constant",
-	"ExportAs":	"The_Aqua_Subterrain_Blue_Seaweed",
+	"ExportAs":	"The_Aqua_Subterrain_Coral_Shelves_Chasm",
 	"Prop":	{
 		"$NodeId":	"Prefab.Prop-c5bdbf0c-20fb-4dab-b6fe-35fe66ce421b",
 		"Type":	"Prefab",
 		"Skip":	false,
 		"WeightedPrefabPaths":	[{
 				"$NodeId":	"WeightedPath.Prefab.Prop-56992447-04f8-497f-8c4a-7204c1253874",
-				"Path":	"The_Aqua_Subterrain/Blue_Seaweed",
+				"Path":	"The_Aqua_Subterrain/Coral_Shelves",
 				"Weight":	100
 			}],
 		"LegacyPath":	false,
@@ -16,28 +16,12 @@
 		"Directionality":	{
 			"$NodeId":	"Random.Directionality-4d25c5c0-eb70-4f90-b1b4-d8814cb1d082",
 			"Type":	"Random",
-			"Seed":	"A",
+			"Seed":	"burger",
 			"Pattern":	{
-				"$NodeId":	"Floor.Pattern-fe187478-a210-4b05-a5d9-7cb5c42e2ad2",
-				"Type":	"Floor",
-				"ExportAs":	"",
+				"$NodeId":	"Wall.Pattern-510a57df-b822-4521-8b26-600282632417",
+				"Type":	"Wall",
 				"Skip":	false,
-				"Origin":	{
-					"$NodeId":	"BlockSet.Pattern-1877b479-2f66-40e8-83c7-e412b0e9e1de",
-					"Type":	"BlockSet",
-					"Skip":	false,
-					"BlockSet":	{
-						"$NodeId":	"BlockSet.BlockMask-35736ecf-ba20-4813-b862-4c98f9a9a65b",
-						"Inclusive":	true,
-						"Materials":	[{
-								"$NodeId":	"Material-2b569120-5b35-482a-8932-24887a0d5163",
-								"Solid":	"",
-								"Fluid":	"Water_Source",
-								"SolidBottomUp":	false
-							}]
-					}
-				},
-				"Floor":	{
+				"Wall":	{
 					"$NodeId":	"BlockSet.Pattern-17890eb2-3367-4492-94d1-c08d623c566e",
 					"Type":	"BlockSet",
 					"Skip":	false,
@@ -66,18 +50,36 @@
 								"SolidBottomUp":	false
 							}]
 					}
-				}
+				},
+				"Origin":	{
+					"$NodeId":	"BlockSet.Pattern-1877b479-2f66-40e8-83c7-e412b0e9e1de",
+					"Type":	"BlockSet",
+					"Skip":	false,
+					"BlockSet":	{
+						"$NodeId":	"BlockSet.BlockMask-35736ecf-ba20-4813-b862-4c98f9a9a65b",
+						"Inclusive":	true,
+						"Materials":	[{
+								"$NodeId":	"Material-2b569120-5b35-482a-8932-24887a0d5163",
+								"Solid":	"",
+								"Fluid":	"Water_Source",
+								"SolidBottomUp":	false
+							}]
+					}
+				},
+				"Directions":	["N", "S", "E", "W"],
+				"RequireAllDirections":	false
 			}
 		},
 		"Scanner":	{
-			"$NodeId":	"ColumnLinear.Scanner-8bb3a866-d51e-4bc4-89cd-ed2fb9c9c189",
-			"Type":	"ColumnLinear",
+			"$NodeId":	"ColumnRandom.Scanner-aef18916-4124-45a7-8653-fddf4a1701a0",
+			"Type":	"ColumnRandom",
 			"Skip":	false,
-			"MaxY":	35,
-			"MinY":	-15,
+			"MaxY":	85,
+			"MinY":	64,
+			"Strategy":	"DART_THROW",
+			"Seed":	"uhhhh hows ur day",
 			"RelativeToPosition":	false,
-			"BaseHeightName":	"Base",
-			"TopDownOrder":	true,
+			"BaseHeightName":	"",
 			"ResultCap":	1
 		},
 		"BlockMask":	{
@@ -123,76 +125,76 @@
 					"$y":	4637
 				}
 			},
-			"Floor.Pattern-fe187478-a210-4b05-a5d9-7cb5c42e2ad2":	{
+			"Wall.Pattern-510a57df-b822-4521-8b26-600282632417":	{
 				"$Position":	{
-					"$x":	2185,
-					"$y":	4631
-				}
-			},
-			"BlockSet.Pattern-1877b479-2f66-40e8-83c7-e412b0e9e1de":	{
-				"$Position":	{
-					"$x":	2849,
-					"$y":	4476
-				}
-			},
-			"BlockSet.BlockMask-35736ecf-ba20-4813-b862-4c98f9a9a65b":	{
-				"$Position":	{
-					"$x":	3481,
-					"$y":	4481
-				}
-			},
-			"Material-2b569120-5b35-482a-8932-24887a0d5163":	{
-				"$Position":	{
-					"$x":	4013,
-					"$y":	4480
+					"$x":	2142,
+					"$y":	4650
 				}
 			},
 			"BlockSet.Pattern-17890eb2-3367-4492-94d1-c08d623c566e":	{
 				"$Position":	{
-					"$x":	2871,
-					"$y":	4837
+					"$x":	2866,
+					"$y":	4648
 				}
 			},
 			"BlockSet.BlockMask-55211f0b-ba7b-408b-8cca-fbe34ca82bd0":	{
 				"$Position":	{
-					"$x":	3530,
-					"$y":	4847
+					"$x":	3525,
+					"$y":	4658
 				}
 			},
 			"Material-e29a0852-eba9-4a59-900a-d901e9e80fad":	{
 				"$Position":	{
-					"$x":	4086,
-					"$y":	4854
+					"$x":	4074,
+					"$y":	3842
 				}
 			},
 			"Material-6481cdcf-379b-4417-85d3-5df59a719da5":	{
 				"$Position":	{
-					"$x":	4089,
-					"$y":	5069
+					"$x":	4077,
+					"$y":	4057
 				}
 			},
 			"Material-3d7c5134-2d30-42ee-a0fc-bcc9df0c2357":	{
 				"$Position":	{
-					"$x":	4087,
-					"$y":	5279
+					"$x":	4075,
+					"$y":	4267
 				}
 			},
 			"Material-9a94e233-8321-4299-a291-6efe0f325153":	{
 				"$Position":	{
-					"$x":	4087,
-					"$y":	5480
+					"$x":	4075,
+					"$y":	4468
 				}
 			},
 			"Material-baedf486-0df4-4823-b80c-aba6bb8656bf":	{
 				"$Position":	{
-					"$x":	4081,
-					"$y":	5672
+					"$x":	4069,
+					"$y":	4660
 				}
 			},
-			"ColumnLinear.Scanner-8bb3a866-d51e-4bc4-89cd-ed2fb9c9c189":	{
+			"BlockSet.Pattern-1877b479-2f66-40e8-83c7-e412b0e9e1de":	{
 				"$Position":	{
-					"$x":	1401,
-					"$y":	4830
+					"$x":	2867,
+					"$y":	4862
+				}
+			},
+			"BlockSet.BlockMask-35736ecf-ba20-4813-b862-4c98f9a9a65b":	{
+				"$Position":	{
+					"$x":	3499,
+					"$y":	4867
+				}
+			},
+			"Material-2b569120-5b35-482a-8932-24887a0d5163":	{
+				"$Position":	{
+					"$x":	4031,
+					"$y":	4866
+				}
+			},
+			"ColumnRandom.Scanner-aef18916-4124-45a7-8653-fddf4a1701a0":	{
+				"$Position":	{
+					"$x":	1426,
+					"$y":	4798
 				}
 			},
 			"BlockMask-89c1ded3-af0f-4bbe-a1e1-ce68b6690cb0":	{
@@ -345,6 +347,16 @@
 				"$height":	150,
 				"$name":	"Comment",
 				"$text":	"For some reason using BaseHeightName \"Base\" wasnt working"
+			}, {
+				"$Position":	{
+					"$x":	582.875,
+					"$y":	4866.3125
+				},
+				"$width":	690.5625,
+				"$height":	478.125,
+				"$name":	"Comment",
+				"$text":	"Scanner Y is the only difference between this file and normal coral shelves file",
+				"$fontSize":	45
 			}],
 		"$WorkspaceID":	"HytaleGenerator - Assignments"
 	}

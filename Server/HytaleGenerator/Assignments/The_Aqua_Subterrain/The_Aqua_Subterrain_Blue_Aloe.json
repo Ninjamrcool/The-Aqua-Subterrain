@@ -1,22 +1,25 @@
 {
 	"$NodeId":	"Constant.Assignments-16cda3e6-5070-4b8b-b297-8041404eace6",
 	"Type":	"Constant",
-	"ExportAs":	"The_Aqua_Subterrain_Blue_Seaweed",
+	"ExportAs":	"The_Aqua_Subterrain_Blue_Aloe",
 	"Prop":	{
-		"$NodeId":	"Prefab.Prop-c5bdbf0c-20fb-4dab-b6fe-35fe66ce421b",
-		"Type":	"Prefab",
+		"$NodeId":	"Column.Prop-0ceffa73-10b1-4fce-85ee-760ffc7af922",
+		"Type":	"Column",
 		"Skip":	false,
-		"WeightedPrefabPaths":	[{
-				"$NodeId":	"WeightedPath.Prefab.Prop-56992447-04f8-497f-8c4a-7204c1253874",
-				"Path":	"The_Aqua_Subterrain/Blue_Seaweed",
-				"Weight":	100
+		"ColumnBlocks":	[{
+				"$NodeId":	"Block.Column.Prop-19560748-5cd8-4a47-b9fe-f6e7698fc985",
+				"Y":	0,
+				"Material":	{
+					"$NodeId":	"Material-030c19a5-8916-43ab-bd02-859b93e0055e",
+					"Solid":	"Plant_Flower_Common_Blue2",
+					"Fluid":	"Water_Source",
+					"SolidBottomUp":	false
+				}
 			}],
-		"LegacyPath":	false,
-		"LoadEntities":	true,
 		"Directionality":	{
 			"$NodeId":	"Random.Directionality-4d25c5c0-eb70-4f90-b1b4-d8814cb1d082",
 			"Type":	"Random",
-			"Seed":	"A",
+			"Seed":	"00000",
 			"Pattern":	{
 				"$NodeId":	"Floor.Pattern-fe187478-a210-4b05-a5d9-7cb5c42e2ad2",
 				"Type":	"Floor",
@@ -49,14 +52,6 @@
 								"Solid":	"Soil_Clay_Cyan",
 								"SolidBottomUp":	false
 							}, {
-								"$NodeId":	"Material-6481cdcf-379b-4417-85d3-5df59a719da5",
-								"Solid":	"Rock_Aqua",
-								"SolidBottomUp":	false
-							}, {
-								"$NodeId":	"Material-3d7c5134-2d30-42ee-a0fc-bcc9df0c2357",
-								"Solid":	"Rock_Aqua_Cobble",
-								"SolidBottomUp":	false
-							}, {
 								"$NodeId":	"Material-9a94e233-8321-4299-a291-6efe0f325153",
 								"Solid":	"Soil_Clay_Ocean",
 								"SolidBottomUp":	false
@@ -70,31 +65,16 @@
 			}
 		},
 		"Scanner":	{
-			"$NodeId":	"ColumnLinear.Scanner-8bb3a866-d51e-4bc4-89cd-ed2fb9c9c189",
+			"$NodeId":	"ColumnLinear.Scanner-da23bc96-3214-4b27-9437-313ba6c5c27a",
 			"Type":	"ColumnLinear",
 			"Skip":	false,
-			"MaxY":	35,
+			"MaxY":	18,
 			"MinY":	-15,
 			"RelativeToPosition":	false,
 			"BaseHeightName":	"Base",
 			"TopDownOrder":	true,
 			"ResultCap":	1
-		},
-		"BlockMask":	{
-			"$NodeId":	"BlockMask-89c1ded3-af0f-4bbe-a1e1-ce68b6690cb0",
-			"DontReplace":	{
-				"$NodeId":	"BlockSet.BlockMask-d1cf6123-72f5-4998-91ea-8108de0bb0de",
-				"Inclusive":	false,
-				"Materials":	[{
-						"$NodeId":	"Material-15cdea55-60da-421a-af63-8c6f05f0893c",
-						"Fluid":	"Water_Source",
-						"SolidBottomUp":	false
-					}]
-			},
-			"Advanced":	[]
-		},
-		"MoldingDirection":	"NONE",
-		"MoldingChildren":	false
+		}
 	},
 	"$NodeEditorMetadata":	{
 		"$Nodes":	{
@@ -105,28 +85,34 @@
 				},
 				"$Title":	"[ROOT] Constant Assignments"
 			},
-			"Prefab.Prop-c5bdbf0c-20fb-4dab-b6fe-35fe66ce421b":	{
+			"Column.Prop-0ceffa73-10b1-4fce-85ee-760ffc7af922":	{
 				"$Position":	{
-					"$x":	637,
-					"$y":	4482
+					"$x":	621,
+					"$y":	4480
 				}
 			},
-			"WeightedPath.Prefab.Prop-56992447-04f8-497f-8c4a-7204c1253874":	{
+			"Block.Column.Prop-19560748-5cd8-4a47-b9fe-f6e7698fc985":	{
 				"$Position":	{
-					"$x":	1431,
-					"$y":	4465
+					"$x":	1399,
+					"$y":	4286
+				}
+			},
+			"Material-030c19a5-8916-43ab-bd02-859b93e0055e":	{
+				"$Position":	{
+					"$x":	1867,
+					"$y":	4269
 				}
 			},
 			"Random.Directionality-4d25c5c0-eb70-4f90-b1b4-d8814cb1d082":	{
 				"$Position":	{
-					"$x":	1428,
-					"$y":	4637
+					"$x":	1393,
+					"$y":	4643
 				}
 			},
 			"Floor.Pattern-fe187478-a210-4b05-a5d9-7cb5c42e2ad2":	{
 				"$Position":	{
-					"$x":	2185,
-					"$y":	4631
+					"$x":	2201,
+					"$y":	4644
 				}
 			},
 			"BlockSet.Pattern-1877b479-2f66-40e8-83c7-e412b0e9e1de":	{
@@ -165,52 +151,22 @@
 					"$y":	4854
 				}
 			},
-			"Material-6481cdcf-379b-4417-85d3-5df59a719da5":	{
-				"$Position":	{
-					"$x":	4089,
-					"$y":	5069
-				}
-			},
-			"Material-3d7c5134-2d30-42ee-a0fc-bcc9df0c2357":	{
-				"$Position":	{
-					"$x":	4087,
-					"$y":	5279
-				}
-			},
 			"Material-9a94e233-8321-4299-a291-6efe0f325153":	{
 				"$Position":	{
-					"$x":	4087,
-					"$y":	5480
+					"$x":	4083,
+					"$y":	5056
 				}
 			},
 			"Material-baedf486-0df4-4823-b80c-aba6bb8656bf":	{
 				"$Position":	{
-					"$x":	4081,
-					"$y":	5672
+					"$x":	4077,
+					"$y":	5248
 				}
 			},
-			"ColumnLinear.Scanner-8bb3a866-d51e-4bc4-89cd-ed2fb9c9c189":	{
+			"ColumnLinear.Scanner-da23bc96-3214-4b27-9437-313ba6c5c27a":	{
 				"$Position":	{
-					"$x":	1401,
-					"$y":	4830
-				}
-			},
-			"BlockMask-89c1ded3-af0f-4bbe-a1e1-ce68b6690cb0":	{
-				"$Position":	{
-					"$x":	1395,
-					"$y":	5250
-				}
-			},
-			"BlockSet.BlockMask-d1cf6123-72f5-4998-91ea-8108de0bb0de":	{
-				"$Position":	{
-					"$x":	2164,
-					"$y":	5292
-				}
-			},
-			"Material-15cdea55-60da-421a-af63-8c6f05f0893c":	{
-				"$Position":	{
-					"$x":	2714,
-					"$y":	5290
+					"$x":	1397,
+					"$y":	4886
 				}
 			},
 			"FieldFunction.Assignments-c050199a-0aba-4388-baa8-0ff30c9ad3b2":	{
@@ -344,7 +300,7 @@
 				"$width":	250,
 				"$height":	150,
 				"$name":	"Comment",
-				"$text":	"For some reason using BaseHeightName \"Base\" wasnt working"
+				"$text":	"For some reason usinBaseHeightName \"Base\" wasnt working"
 			}],
 		"$WorkspaceID":	"HytaleGenerator - Assignments"
 	}
