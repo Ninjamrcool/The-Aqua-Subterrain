@@ -9521,15 +9521,13 @@
       "x": -1,
       "y": 14,
       "z": -1,
-      "name": "Rock_Aqua"
+      "name": "Rock_Aqua_Brick_Pillar_Base"
     },
     {
       "x": -1,
       "y": 15,
       "z": -1,
-      "name": "Aqua_Subterrain_Spawn_Pad",
-      "filler": 1023,
-      "rotation": 3
+      "name": "Empty"
     },
     {
       "x": -1,
@@ -9609,15 +9607,13 @@
       "x": -1,
       "y": 14,
       "z": 0,
-      "name": "Rock_Aqua"
+      "name": "Rock_Aqua_Brick_Pillar_Base"
     },
     {
       "x": -1,
       "y": 15,
       "z": 0,
-      "name": "Aqua_Subterrain_Spawn_Pad",
-      "filler": 31,
-      "rotation": 3
+      "name": "Empty"
     },
     {
       "x": -1,
@@ -9699,15 +9695,13 @@
       "x": -1,
       "y": 14,
       "z": 1,
-      "name": "Rock_Aqua"
+      "name": "Rock_Aqua_Brick_Pillar_Base"
     },
     {
       "x": -1,
       "y": 15,
       "z": 1,
-      "name": "Aqua_Subterrain_Spawn_Pad",
-      "filler": 63,
-      "rotation": 3
+      "name": "Empty"
     },
     {
       "x": -1,
@@ -11395,15 +11389,13 @@
       "x": 0,
       "y": 14,
       "z": -1,
-      "name": "Rock_Aqua"
+      "name": "Rock_Aqua_Brick_Pillar_Base"
     },
     {
       "x": 0,
       "y": 15,
       "z": -1,
-      "name": "Aqua_Subterrain_Spawn_Pad",
-      "filler": 992,
-      "rotation": 3
+      "name": "Empty"
     },
     {
       "x": 0,
@@ -11486,7 +11478,7 @@
       "x": 0,
       "y": 14,
       "z": 0,
-      "name": "Rock_Aqua_Brick_Ornate"
+      "name": "Rock_Aqua_Brick_Pillar_Base"
     },
     {
       "x": 0,
@@ -11597,15 +11589,13 @@
       "x": 0,
       "y": 14,
       "z": 1,
-      "name": "Rock_Aqua"
+      "name": "Rock_Aqua_Brick_Pillar_Base"
     },
     {
       "x": 0,
       "y": 15,
       "z": 1,
-      "name": "Aqua_Subterrain_Spawn_Pad",
-      "filler": 32,
-      "rotation": 3
+      "name": "Empty"
     },
     {
       "x": 0,
@@ -13283,15 +13273,13 @@
       "x": 1,
       "y": 14,
       "z": -1,
-      "name": "Rock_Aqua"
+      "name": "Rock_Aqua_Brick_Pillar_Base"
     },
     {
       "x": 1,
       "y": 15,
       "z": -1,
-      "name": "Aqua_Subterrain_Spawn_Pad",
-      "filler": 993,
-      "rotation": 3
+      "name": "Empty"
     },
     {
       "x": 1,
@@ -13371,15 +13359,13 @@
       "x": 1,
       "y": 14,
       "z": 0,
-      "name": "Rock_Aqua"
+      "name": "Rock_Aqua_Brick_Pillar_Base"
     },
     {
       "x": 1,
       "y": 15,
       "z": 0,
-      "name": "Aqua_Subterrain_Spawn_Pad",
-      "filler": 1,
-      "rotation": 3
+      "name": "Empty"
     },
     {
       "x": 1,
@@ -13461,15 +13447,13 @@
       "x": 1,
       "y": 14,
       "z": 1,
-      "name": "Rock_Aqua"
+      "name": "Rock_Aqua_Brick_Pillar_Base"
     },
     {
       "x": 1,
       "y": 15,
       "z": 1,
-      "name": "Aqua_Subterrain_Spawn_Pad",
-      "filler": 33,
-      "rotation": 3
+      "name": "Empty"
     },
     {
       "x": 1,
