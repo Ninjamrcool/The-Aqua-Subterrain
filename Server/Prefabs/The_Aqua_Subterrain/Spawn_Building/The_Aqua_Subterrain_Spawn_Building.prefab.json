@@ -4685,8 +4685,7 @@
       "x": -4,
       "y": 15,
       "z": -1,
-      "name": "Plant_Moss_Rug_Blue",
-      "support": 15
+      "name": "Empty"
     },
     {
       "x": -4,
@@ -6564,8 +6563,7 @@
       "x": -3,
       "y": 15,
       "z": -1,
-      "name": "Plant_Moss_Short_Blue",
-      "support": 15
+      "name": "Empty"
     },
     {
       "x": -3,
@@ -6675,7 +6673,7 @@
       "x": -3,
       "y": 19,
       "z": 0,
-      "name": "Furniture_Temple_Light_Lantern_Ceiling"
+      "name": "Empty"
     },
     {
       "x": -3,
@@ -9168,7 +9166,8 @@
       "x": -1,
       "y": 15,
       "z": -5,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 1023
     },
     {
       "x": -1,
@@ -9263,8 +9262,8 @@
       "x": -1,
       "y": 15,
       "z": -4,
-      "name": "Plant_Moss_Short_Blue",
-      "support": 15
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 31
     },
     {
       "x": -1,
@@ -9350,8 +9349,8 @@
       "x": -1,
       "y": 15,
       "z": -3,
-      "name": "Plant_Moss_Rug_Blue",
-      "support": 15
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 63
     },
     {
       "x": -1,
@@ -11046,7 +11045,8 @@
       "x": 0,
       "y": 15,
       "z": -5,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 992
     },
     {
       "x": 0,
@@ -11140,7 +11140,7 @@
       "x": 0,
       "y": 15,
       "z": -4,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit"
     },
     {
       "x": 0,
@@ -11226,7 +11226,8 @@
       "x": 0,
       "y": 15,
       "z": -3,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 32
     },
     {
       "x": 0,
@@ -12929,7 +12930,8 @@
       "x": 1,
       "y": 15,
       "z": -5,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 993
     },
     {
       "x": 1,
@@ -13023,7 +13025,8 @@
       "x": 1,
       "y": 15,
       "z": -4,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 1
     },
     {
       "x": 1,
@@ -13109,7 +13112,8 @@
       "x": 1,
       "y": 15,
       "z": -3,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 33
     },
     {
       "x": 1,

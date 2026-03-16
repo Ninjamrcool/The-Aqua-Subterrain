@@ -2619,7 +2619,9 @@
       "x": -5,
       "y": 15,
       "z": -1,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 1023,
+      "rotation": 1
     },
     {
       "x": -5,
@@ -2835,7 +2837,9 @@
       "x": -5,
       "y": 15,
       "z": 0,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 31,
+      "rotation": 1
     },
     {
       "x": -5,
@@ -3031,7 +3035,9 @@
       "x": -5,
       "y": 15,
       "z": 1,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 63,
+      "rotation": 1
     },
     {
       "x": -5,
@@ -4685,8 +4691,9 @@
       "x": -4,
       "y": 15,
       "z": -1,
-      "name": "Plant_Moss_Rug_Blue",
-      "support": 15
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 992,
+      "rotation": 1
     },
     {
       "x": -4,
@@ -4780,7 +4787,8 @@
       "x": -4,
       "y": 15,
       "z": 0,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "rotation": 1
     },
     {
       "x": -4,
@@ -4874,7 +4882,9 @@
       "x": -4,
       "y": 15,
       "z": 1,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 32,
+      "rotation": 1
     },
     {
       "x": -4,
@@ -6564,8 +6574,9 @@
       "x": -3,
       "y": 15,
       "z": -1,
-      "name": "Plant_Moss_Short_Blue",
-      "support": 15
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 993,
+      "rotation": 1
     },
     {
       "x": -3,
@@ -6651,7 +6662,9 @@
       "x": -3,
       "y": 15,
       "z": 0,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 1,
+      "rotation": 1
     },
     {
       "x": -3,
@@ -6675,7 +6688,7 @@
       "x": -3,
       "y": 19,
       "z": 0,
-      "name": "Furniture_Temple_Light_Lantern_Ceiling"
+      "name": "Empty"
     },
     {
       "x": -3,
@@ -6737,7 +6750,9 @@
       "x": -3,
       "y": 15,
       "z": 1,
-      "name": "Empty"
+      "name": "Forgotten_Temple_Portal_Exit",
+      "filler": 33,
+      "rotation": 1
     },
     {
       "x": -3,
@@ -8036,7 +8051,7 @@
       "x": -2,
       "y": 14,
       "z": -1,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": -2,
@@ -8129,7 +8144,7 @@
       "x": -2,
       "y": 14,
       "z": 0,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": -2,
@@ -8215,7 +8230,7 @@
       "x": -2,
       "y": 14,
       "z": 1,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": -2,
@@ -9431,7 +9446,7 @@
       "x": -1,
       "y": 14,
       "z": -2,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": -1,
@@ -9524,7 +9539,7 @@
       "x": -1,
       "y": 14,
       "z": -1,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": -1,
@@ -9610,7 +9625,7 @@
       "x": -1,
       "y": 14,
       "z": 0,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": -1,
@@ -9698,7 +9713,7 @@
       "x": -1,
       "y": 14,
       "z": 1,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": -1,
@@ -9790,7 +9805,7 @@
       "x": -1,
       "y": 14,
       "z": 2,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": -1,
@@ -11306,7 +11321,7 @@
       "x": 0,
       "y": 14,
       "z": -2,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 0,
@@ -11392,7 +11407,7 @@
       "x": 0,
       "y": 14,
       "z": -1,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 0,
@@ -11591,7 +11606,7 @@
       "x": 0,
       "y": 14,
       "z": 1,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 0,
@@ -11677,7 +11692,7 @@
       "x": 0,
       "y": 14,
       "z": 2,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 0,
@@ -13189,7 +13204,7 @@
       "x": 1,
       "y": 14,
       "z": -2,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 1,
@@ -13275,7 +13290,7 @@
       "x": 1,
       "y": 14,
       "z": -1,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 1,
@@ -13361,7 +13376,7 @@
       "x": 1,
       "y": 14,
       "z": 0,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 1,
@@ -13449,7 +13464,7 @@
       "x": 1,
       "y": 14,
       "z": 1,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 1,
@@ -13534,7 +13549,7 @@
       "x": 1,
       "y": 14,
       "z": 2,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 1,
@@ -14746,7 +14761,7 @@
       "x": 2,
       "y": 14,
       "z": -1,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 2,
@@ -14832,7 +14847,7 @@
       "x": 2,
       "y": 14,
       "z": 0,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 2,
@@ -14918,7 +14933,7 @@
       "x": 2,
       "y": 14,
       "z": 1,
-      "name": "Rock_Aqua_Brick_Pillar_Base"
+      "name": "Rock_Aqua"
     },
     {
       "x": 2,

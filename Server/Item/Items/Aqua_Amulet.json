@@ -1,11 +1,11 @@
 {
   "TranslationProperties": {
-    "Name": "items.Subterrain_Booster_Gem.name",
-    "Description": "items.Subterrain_Booster_Gem.description"
+    "Name": "items.Aqua_Amulet.name",
+    "Description": "items.Aqua_Amulet.description"
   },
-  "Model": "Resources/Ingredients/Essence.blockymodel",
-  "Texture": "Resources/Subterrain_Booster_Gem.png",
-  "Icon": "Icons/ItemsGenerated/Subterrain_Booster_Gem.png",
+  "Model": "Resources/Ingredients/Essence_Concentrated.blockymodel",
+  "Texture": "Resources/Aqua_Amulet.png",
+  "Icon": "Icons/ItemsGenerated/Aqua_Amulet.png",
   "Reticle": "DefaultMelee",
   "Quality": "Rare",
   "ItemLevel": 15,
@@ -13,20 +13,20 @@
     "Items.Weapons"
   ],
   "IconProperties": {
-    "Scale": 0.7,
+    "Scale": 0.9,
     "Rotation": [
-      39,
-      167,
-      15
+      22.5,
+      45,
+      22.5
     ],
     "Translation": [
-      -5,
-      -10
+      -4,
+      -12
     ]
   },
   "Interactions": {
-    "Secondary": "Root_Subterrain_Booster_Gem",
-    "Primary": "Root_Subterrain_Booster_Gem"
+    "Secondary": "Root_Aqua_Amulet",
+    "Primary": "Root_Aqua_Amulet"
   },
   "Tags": {
     "Type": [
@@ -50,11 +50,11 @@
         ]
       }
     ],
-    "TimeSeconds": 1,
+    "TimeSeconds": 3,
     "RequiredMemoriesLevel": 5,
     "Input": [
       {
-        "ItemId": "Ingredient_Crystal_Orange",
+        "ItemId": "Wood_Azure_Trunk",
         "Quantity": 32
       },
       {
@@ -64,7 +64,12 @@
     ]
   },
   "Light": {
-    "Color": "#445"
+    "Color": "#77b"
   },
+  "Particles": [
+    {
+      "SystemId": "Block_Gem_Sparks"
+    }
+  ],
   "MaxStack": 1
 }
