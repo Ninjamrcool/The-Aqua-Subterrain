@@ -23,7 +23,8 @@
         "Id": "Armor_Bench",
         "Categories": [
           "Armor_Head"
-        ]
+        ],
+        "RequiredTierLevel": 2
       }
     ],
     "TimeSeconds": 3

@@ -24,7 +24,8 @@
         "Id": "Armor_Bench",
         "Categories": [
           "Armor_Hands"
-        ]
+        ],
+        "RequiredTierLevel": 2
       }
     ],
     "TimeSeconds": 3

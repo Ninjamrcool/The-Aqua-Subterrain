@@ -25,7 +25,8 @@
         "Categories": [
           "Armor_Legs"
         ],
-        "Id": "Armor_Bench"
+        "Id": "Armor_Bench",
+        "RequiredTierLevel": 2
       }
     ],
     "TimeSeconds": 3
