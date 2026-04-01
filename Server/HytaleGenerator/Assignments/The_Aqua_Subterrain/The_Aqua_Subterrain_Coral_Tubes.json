@@ -3,92 +3,111 @@
 	"Type":	"Constant",
 	"ExportAs":	"The_Aqua_Subterrain_Coral_Tubes",
 	"Prop":	{
-		"$NodeId":	"RandomRotator.Prop-f7face88-51f3-4617-8769-67ea96e43b37",
-		"Type":	"RandomRotator",
+		"$NodeId":	"DensitySelector.Prop-effbe059-42c4-4b78-be63-6d4c933d452d",
+		"Type":	"DensitySelector",
 		"Skip":	false,
-		"HorizontalRotations":	true,
-		"Prop":	{
-			"$NodeId":	"Locator.Prop-b5e038d9-c328-4509-b23a-1d4bad514074",
-			"Type":	"Locator",
-			"Skip":	false,
-			"PlacementCap":	1,
-			"Prop":	{
-				"$NodeId":	"Prefab.Prop-a5fdb2c1-b6a1-4e09-b4d4-ded7d86a2c0d",
-				"Type":	"Prefab",
-				"Skip":	false,
-				"WeightedPrefabPaths":	[{
-						"$NodeId":	"WeightedPath.Prefab.Prop-89bc703d-3db5-4e97-b1fd-45f088109d06",
-						"Path":	"The_Aqua_Subterrain/Coral_Tubes",
-						"Weight":	100
-					}],
-				"LegacyPath":	false,
-				"LoadEntities":	false,
-				"MoldingDirection":	"None",
-				"MoldingChildren":	false
-			},
-			"Pattern":	{
-				"$NodeId":	"Floor.Pattern-fe187478-a210-4b05-a5d9-7cb5c42e2ad2",
-				"Type":	"Floor",
-				"ExportAs":	"",
-				"Skip":	false,
-				"Origin":	{
-					"$NodeId":	"BlockSet.Pattern-1877b479-2f66-40e8-83c7-e412b0e9e1de",
-					"Type":	"BlockSet",
+		"Delimiters":	[{
+				"$NodeId":	"Delimiter.DensitySelector.Prop-4131f478-8ce1-48dc-b186-fbb99a24f4c7",
+				"Prop":	{
+					"$NodeId":	"RandomRotator.Prop-f7face88-51f3-4617-8769-67ea96e43b37",
+					"Type":	"RandomRotator",
 					"Skip":	false,
-					"BlockSet":	{
-						"$NodeId":	"BlockSet.BlockMask-35736ecf-ba20-4813-b862-4c98f9a9a65b",
-						"Inclusive":	true,
-						"Materials":	[{
-								"$NodeId":	"Material-2b569120-5b35-482a-8932-24887a0d5163",
-								"Solid":	"",
-								"Fluid":	"Water_Source",
-								"SolidBottomUp":	false
-							}]
+					"HorizontalRotations":	true,
+					"Prop":	{
+						"$NodeId":	"Locator.Prop-b5e038d9-c328-4509-b23a-1d4bad514074",
+						"Type":	"Locator",
+						"Skip":	false,
+						"PlacementCap":	1,
+						"Prop":	{
+							"$NodeId":	"Prefab.Prop-a5fdb2c1-b6a1-4e09-b4d4-ded7d86a2c0d",
+							"Type":	"Prefab",
+							"Skip":	false,
+							"WeightedPrefabPaths":	[{
+									"$NodeId":	"WeightedPath.Prefab.Prop-89bc703d-3db5-4e97-b1fd-45f088109d06",
+									"Path":	"The_Aqua_Subterrain/Coral_Tubes",
+									"Weight":	100
+								}],
+							"LegacyPath":	false,
+							"LoadEntities":	false,
+							"MoldingDirection":	"None",
+							"MoldingChildren":	false
+						},
+						"Pattern":	{
+							"$NodeId":	"Floor.Pattern-fe187478-a210-4b05-a5d9-7cb5c42e2ad2",
+							"Type":	"Floor",
+							"ExportAs":	"",
+							"Skip":	false,
+							"Origin":	{
+								"$NodeId":	"BlockSet.Pattern-1877b479-2f66-40e8-83c7-e412b0e9e1de",
+								"Type":	"BlockSet",
+								"Skip":	false,
+								"BlockSet":	{
+									"$NodeId":	"BlockSet.BlockMask-35736ecf-ba20-4813-b862-4c98f9a9a65b",
+									"Inclusive":	true,
+									"Materials":	[{
+											"$NodeId":	"Material-2b569120-5b35-482a-8932-24887a0d5163",
+											"Solid":	"",
+											"Fluid":	"Water_Source",
+											"SolidBottomUp":	false
+										}]
+								}
+							},
+							"Floor":	{
+								"$NodeId":	"BlockSet.Pattern-17890eb2-3367-4492-94d1-c08d623c566e",
+								"Type":	"BlockSet",
+								"Skip":	false,
+								"BlockSet":	{
+									"$NodeId":	"BlockSet.BlockMask-55211f0b-ba7b-408b-8cca-fbe34ca82bd0",
+									"Inclusive":	true,
+									"Materials":	[{
+											"$NodeId":	"Material-0a79c367-f4dc-4601-9646-d6800407897a",
+											"Solid":	"Soil_Clay_Cyan",
+											"SolidBottomUp":	false
+										}, {
+											"$NodeId":	"Material-4c6d03c2-b593-4434-ab71-55d695dd1683",
+											"Solid":	"Rock_Aqua",
+											"SolidBottomUp":	false
+										}, {
+											"$NodeId":	"Material-96c80d7a-fc2c-4ba6-a8de-561f71a8c209",
+											"Solid":	"Rock_Aqua_Cobble",
+											"SolidBottomUp":	false
+										}, {
+											"$NodeId":	"Material-abfbf5de-c53f-440f-be67-477084a4455b",
+											"Solid":	"Soil_Clay_Ocean",
+											"SolidBottomUp":	false
+										}, {
+											"$NodeId":	"Material-e18ed37c-b121-49c7-b9a4-728daa79ef38",
+											"Solid":	"Soil_Clay_Smooth_Green",
+											"SolidBottomUp":	false
+										}]
+								}
+							}
+						},
+						"Scanner":	{
+							"$NodeId":	"Linear.Scanner-97113e9f-6b4d-47cf-bc4d-f2da6dc52b7f",
+							"Type":	"Linear",
+							"Skip":	false,
+							"Axis":	"Y",
+							"AscendingOrder":	false,
+							"Range":	{
+								"$NodeId":	"Integer.Range-b8c99b88-1cdf-49dd-bb1d-6c5033d8bc33",
+								"MinInclusive":	15,
+								"MaxExclusive":	35
+							}
+						}
 					}
 				},
-				"Floor":	{
-					"$NodeId":	"BlockSet.Pattern-17890eb2-3367-4492-94d1-c08d623c566e",
-					"Type":	"BlockSet",
-					"Skip":	false,
-					"BlockSet":	{
-						"$NodeId":	"BlockSet.BlockMask-55211f0b-ba7b-408b-8cca-fbe34ca82bd0",
-						"Inclusive":	true,
-						"Materials":	[{
-								"$NodeId":	"Material-0a79c367-f4dc-4601-9646-d6800407897a",
-								"Solid":	"Soil_Clay_Cyan",
-								"SolidBottomUp":	false
-							}, {
-								"$NodeId":	"Material-4c6d03c2-b593-4434-ab71-55d695dd1683",
-								"Solid":	"Rock_Aqua",
-								"SolidBottomUp":	false
-							}, {
-								"$NodeId":	"Material-96c80d7a-fc2c-4ba6-a8de-561f71a8c209",
-								"Solid":	"Rock_Aqua_Cobble",
-								"SolidBottomUp":	false
-							}, {
-								"$NodeId":	"Material-abfbf5de-c53f-440f-be67-477084a4455b",
-								"Solid":	"Soil_Clay_Ocean",
-								"SolidBottomUp":	false
-							}, {
-								"$NodeId":	"Material-e18ed37c-b121-49c7-b9a4-728daa79ef38",
-								"Solid":	"Soil_Clay_Smooth_Green",
-								"SolidBottomUp":	false
-							}]
-					}
-				}
-			},
-			"Scanner":	{
-				"$NodeId":	"Linear.Scanner-97113e9f-6b4d-47cf-bc4d-f2da6dc52b7f",
-				"Type":	"Linear",
-				"Skip":	false,
-				"Axis":	"Y",
-				"AscendingOrder":	false,
 				"Range":	{
-					"$NodeId":	"Integer.Range-b8c99b88-1cdf-49dd-bb1d-6c5033d8bc33",
-					"MinInclusive":	15,
-					"MaxExclusive":	35
+					"$NodeId":	"Decimal.Range-eb01fbae-bb5b-4e93-959b-3da369700658",
+					"MinInclusive":	0,
+					"MaxExclusive":	1
 				}
-			}
+			}],
+		"Density":	{
+			"$NodeId":	"ImportedDensityNode-ba83cfa6-902f-454f-9a4a-f1ffbb7f3872",
+			"Type":	"Imported",
+			"Skip":	false,
+			"Name":	"GroundPlateauDensity"
 		}
 	},
 	"$NodeEditorMetadata":	{
@@ -233,16 +252,40 @@
 			},
 			"RandomRotator.Prop-f7face88-51f3-4617-8769-67ea96e43b37":	{
 				"$Position":	{
-					"$x":	30,
-					"$y":	4492
+					"$x":	10,
+					"$y":	4488
 				}
 			},
 			"Constant.Assignments-16cda3e6-5070-4b8b-b297-8041404eace6":	{
 				"$Position":	{
-					"$x":	-689,
-					"$y":	4493
+					"$x":	-1821,
+					"$y":	4708
 				},
 				"$Title":	"[ROOT] Constant Assignments"
+			},
+			"Delimiter.DensitySelector.Prop-4131f478-8ce1-48dc-b186-fbb99a24f4c7":	{
+				"$Position":	{
+					"$x":	-473,
+					"$y":	4709
+				}
+			},
+			"DensitySelector.Prop-effbe059-42c4-4b78-be63-6d4c933d452d":	{
+				"$Position":	{
+					"$x":	-1156,
+					"$y":	4709
+				}
+			},
+			"ImportedDensityNode-ba83cfa6-902f-454f-9a4a-f1ffbb7f3872":	{
+				"$Position":	{
+					"$x":	-476,
+					"$y":	4940
+				}
+			},
+			"Decimal.Range-eb01fbae-bb5b-4e93-959b-3da369700658":	{
+				"$Position":	{
+					"$x":	6,
+					"$y":	4744
+				}
 			}
 		},
 		"$FloatingNodes":	[{

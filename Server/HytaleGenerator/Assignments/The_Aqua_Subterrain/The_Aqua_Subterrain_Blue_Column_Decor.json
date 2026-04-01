@@ -3,87 +3,115 @@
 	"Type":	"Constant",
 	"ExportAs":	"The_Aqua_Subterrain_Blue_Column_Decor",
 	"Prop":	{
-		"$NodeId":	"Union.Prop-57ba26cc-a257-45a8-9b6d-44327904c780",
-		"Type":	"Union",
+		"$NodeId":	"DensitySelector.Prop-c945ae3e-9672-4894-9281-b1eb0516d6c7",
+		"Type":	"DensitySelector",
 		"Skip":	false,
-		"Props":	[{
-				"$NodeId":	"Prefab.Prop-a5fdb2c1-b6a1-4e09-b4d4-ded7d86a2c0d",
-				"Type":	"Prefab",
-				"Skip":	false,
-				"WeightedPrefabPaths":	[{
-						"$NodeId":	"WeightedPath.Prefab.Prop-89bc703d-3db5-4e97-b1fd-45f088109d06",
-						"Path":	"The_Aqua_Subterrain/Blue_Column_Decor",
-						"Weight":	100
-					}],
-				"LegacyPath":	false,
-				"LoadEntities":	false,
-				"Directionality":	{
-					"$NodeId":	"Random.Directionality-4d25c5c0-eb70-4f90-b1b4-d8814cb1d082",
-					"Type":	"Random",
-					"Seed":	"A",
-					"Pattern":	{
-						"$NodeId":	"Floor.Pattern-fe187478-a210-4b05-a5d9-7cb5c42e2ad2",
-						"Type":	"Floor",
-						"ExportAs":	"",
+		"Delimiters":	[{
+				"$NodeId":	"Delimiter.DensitySelector.Prop-5bd158eb-9ee8-498d-9fd1-4d33b4edb156",
+				"Prop":	{
+					"$NodeId":	"RandomRotator.Prop-f07229d4-f597-4306-b847-80289ab2a8bd",
+					"Type":	"RandomRotator",
+					"Skip":	false,
+					"Seed":	"A19324i61928734",
+					"HorizontalRotations":	true,
+					"Prop":	{
+						"$NodeId":	"Locator.Prop-67d91c45-6cf7-4685-b516-0039e6fe3fd6",
+						"Type":	"Locator",
 						"Skip":	false,
-						"Origin":	{
-							"$NodeId":	"BlockSet.Pattern-1877b479-2f66-40e8-83c7-e412b0e9e1de",
-							"Type":	"BlockSet",
+						"PlacementCap":	2,
+						"Prop":	{
+							"$NodeId":	"Mask.Prop-d955c6a2-1dd1-46e4-a478-e51d05cf0fe9",
+							"Type":	"Mask",
 							"Skip":	false,
-							"BlockSet":	{
-								"$NodeId":	"BlockSet.BlockMask-35736ecf-ba20-4813-b862-4c98f9a9a65b",
-								"Inclusive":	true,
-								"Materials":	[{
-										"$NodeId":	"Material-2b569120-5b35-482a-8932-24887a0d5163",
-										"Solid":	"",
-										"Fluid":	"Water_Source",
-										"SolidBottomUp":	false
-									}]
+							"Prop":	{
+								"$NodeId":	"Prefab.Prop-a5fdb2c1-b6a1-4e09-b4d4-ded7d86a2c0d",
+								"Type":	"Prefab",
+								"Skip":	false,
+								"WeightedPrefabPaths":	[{
+										"$NodeId":	"WeightedPath.Prefab.Prop-89bc703d-3db5-4e97-b1fd-45f088109d06",
+										"Path":	"The_Aqua_Subterrain/Blue_Column_Decor",
+										"Weight":	100
+									}],
+								"LegacyPath":	false,
+								"LoadEntities":	false,
+								"MoldingDirection":	"None",
+								"MoldingChildren":	false
+							},
+							"Mask":	{
+								"$NodeId":	"BlockMask-708fb834-bf61-4212-a5f0-4b7ef88828e9",
+								"DontReplace":	{
+									"$NodeId":	"BlockSet.BlockMask-26c97a0e-b713-40ed-815b-ce30732c679a",
+									"Inclusive":	false,
+									"Materials":	[{
+											"$NodeId":	"Material-63a5cb13-dae1-46d0-8583-fe32784e32b4",
+											"Fluid":	"Water_Source",
+											"SolidBottomUp":	false
+										}]
+								}
 							}
 						},
-						"Floor":	{
-							"$NodeId":	"BlockSet.Pattern-17890eb2-3367-4492-94d1-c08d623c566e",
-							"Type":	"BlockSet",
+						"Pattern":	{
+							"$NodeId":	"Floor.Pattern-fe187478-a210-4b05-a5d9-7cb5c42e2ad2",
+							"Type":	"Floor",
+							"ExportAs":	"",
 							"Skip":	false,
-							"BlockSet":	{
-								"$NodeId":	"BlockSet.BlockMask-55211f0b-ba7b-408b-8cca-fbe34ca82bd0",
-								"Inclusive":	true,
-								"Materials":	[{
-										"$NodeId":	"Material-cfafff20-dda8-406a-951a-21372b436b2e",
-										"Solid":	"Plant_Coral_Block_Blue",
-										"SolidBottomUp":	false
-									}]
+							"Origin":	{
+								"$NodeId":	"BlockSet.Pattern-1877b479-2f66-40e8-83c7-e412b0e9e1de",
+								"Type":	"BlockSet",
+								"Skip":	false,
+								"BlockSet":	{
+									"$NodeId":	"BlockSet.BlockMask-35736ecf-ba20-4813-b862-4c98f9a9a65b",
+									"Inclusive":	true,
+									"Materials":	[{
+											"$NodeId":	"Material-2b569120-5b35-482a-8932-24887a0d5163",
+											"Solid":	"",
+											"Fluid":	"Water_Source",
+											"SolidBottomUp":	false
+										}]
+								}
+							},
+							"Floor":	{
+								"$NodeId":	"BlockSet.Pattern-17890eb2-3367-4492-94d1-c08d623c566e",
+								"Type":	"BlockSet",
+								"Skip":	false,
+								"BlockSet":	{
+									"$NodeId":	"BlockSet.BlockMask-55211f0b-ba7b-408b-8cca-fbe34ca82bd0",
+									"Inclusive":	true,
+									"Materials":	[{
+											"$NodeId":	"Material-cfafff20-dda8-406a-951a-21372b436b2e",
+											"Solid":	"Plant_Coral_Block_Blue",
+											"SolidBottomUp":	false
+										}]
+								}
+							}
+						},
+						"Scanner":	{
+							"$NodeId":	"Random.Scanner-cfb0e1b1-3fa2-4a5d-b582-09320c1028a9",
+							"Type":	"Random",
+							"Skip":	false,
+							"Axis":	"Y",
+							"Seed":	"ABCDEFG",
+							"Range":	{
+								"$NodeId":	"Integer.Range-91b72430-9b60-42a9-89bc-6fedec00cb99",
+								"MinInclusive":	39,
+								"MaxExclusive":	95
 							}
 						}
-					}
+					},
+					"Rotations":	[]
 				},
-				"Scanner":	{
-					"$NodeId":	"ColumnRandom.Scanner-bcb51a13-d721-4927-b255-d0c45146ba35",
-					"Type":	"ColumnRandom",
-					"Skip":	false,
-					"MaxY":	170,
-					"MinY":	114,
-					"Strategy":	"DART_THROW",
-					"Seed":	"ABCDEFG",
-					"RelativeToPosition":	false,
-					"BaseHeightName":	"",
-					"ResultCap":	1
-				},
-				"BlockMask":	{
-					"$NodeId":	"BlockMask-708fb834-bf61-4212-a5f0-4b7ef88828e9",
-					"DontReplace":	{
-						"$NodeId":	"BlockSet.BlockMask-26c97a0e-b713-40ed-815b-ce30732c679a",
-						"Inclusive":	false,
-						"Materials":	[{
-								"$NodeId":	"Material-63a5cb13-dae1-46d0-8583-fe32784e32b4",
-								"Fluid":	"Water_Source",
-								"SolidBottomUp":	false
-							}]
-					}
-				},
-				"MoldingDirection":	"None",
-				"MoldingChildren":	false
-			}]
+				"Range":	{
+					"$NodeId":	"Decimal.Range-eab8e8ff-eb3e-44b5-9d7a-9803411d0513",
+					"MinInclusive":	0.7,
+					"MaxExclusive":	1
+				}
+			}],
+		"Density":	{
+			"$NodeId":	"ImportedDensityNode-122465b7-3e95-4749-bed9-28ab309825ba",
+			"Type":	"Imported",
+			"Skip":	false,
+			"Name":	"GroundPlateauDensity"
+		}
 	},
 	"$NodeEditorMetadata":	{
 		"$Nodes":	{
@@ -94,94 +122,76 @@
 				},
 				"$Title":	"[ROOT] Constant Assignments"
 			},
-			"Union.Prop-57ba26cc-a257-45a8-9b6d-44327904c780":	{
-				"$Position":	{
-					"$x":	-13,
-					"$y":	4489
-				}
-			},
 			"Prefab.Prop-a5fdb2c1-b6a1-4e09-b4d4-ded7d86a2c0d":	{
 				"$Position":	{
-					"$x":	637,
-					"$y":	4473
+					"$x":	3354,
+					"$y":	3854
 				}
 			},
 			"WeightedPath.Prefab.Prop-89bc703d-3db5-4e97-b1fd-45f088109d06":	{
 				"$Position":	{
-					"$x":	1395,
-					"$y":	4469
-				}
-			},
-			"Random.Directionality-4d25c5c0-eb70-4f90-b1b4-d8814cb1d082":	{
-				"$Position":	{
-					"$x":	1393,
-					"$y":	4643
+					"$x":	4224,
+					"$y":	3853
 				}
 			},
 			"Floor.Pattern-fe187478-a210-4b05-a5d9-7cb5c42e2ad2":	{
 				"$Position":	{
-					"$x":	2201,
-					"$y":	4644
+					"$x":	2684,
+					"$y":	4668
 				}
 			},
 			"BlockSet.Pattern-1877b479-2f66-40e8-83c7-e412b0e9e1de":	{
 				"$Position":	{
-					"$x":	2849,
-					"$y":	4476
+					"$x":	3332,
+					"$y":	4500
 				}
 			},
 			"BlockSet.BlockMask-35736ecf-ba20-4813-b862-4c98f9a9a65b":	{
 				"$Position":	{
-					"$x":	3481,
-					"$y":	4481
+					"$x":	3964,
+					"$y":	4505
 				}
 			},
 			"Material-2b569120-5b35-482a-8932-24887a0d5163":	{
 				"$Position":	{
-					"$x":	4013,
-					"$y":	4480
+					"$x":	4496,
+					"$y":	4504
 				}
 			},
 			"BlockSet.Pattern-17890eb2-3367-4492-94d1-c08d623c566e":	{
 				"$Position":	{
-					"$x":	2871,
-					"$y":	4837
+					"$x":	3354,
+					"$y":	4861
 				}
 			},
 			"BlockSet.BlockMask-55211f0b-ba7b-408b-8cca-fbe34ca82bd0":	{
 				"$Position":	{
-					"$x":	3530,
-					"$y":	4847
+					"$x":	4013,
+					"$y":	4871
 				}
 			},
 			"Material-cfafff20-dda8-406a-951a-21372b436b2e":	{
 				"$Position":	{
-					"$x":	4064,
-					"$y":	4846
-				}
-			},
-			"ColumnRandom.Scanner-bcb51a13-d721-4927-b255-d0c45146ba35":	{
-				"$Position":	{
-					"$x":	1398,
-					"$y":	4851
+					"$x":	4547,
+					"$y":	4870
 				}
 			},
 			"BlockMask-708fb834-bf61-4212-a5f0-4b7ef88828e9":	{
 				"$Position":	{
-					"$x":	1413,
-					"$y":	5347
+					"$x":	3360,
+					"$y":	4262
 				}
 			},
 			"BlockSet.BlockMask-26c97a0e-b713-40ed-815b-ce30732c679a":	{
 				"$Position":	{
-					"$x":	2182,
-					"$y":	5389
+					"$x":	4129,
+					"$y":	4304
 				}
 			},
 			"Material-63a5cb13-dae1-46d0-8583-fe32784e32b4":	{
 				"$Position":	{
-					"$x":	2732,
-					"$y":	5387
+					"$x":	4679,
+					"$y":	4302
 				}
 			},
 			"FieldFunction.Assignments-c050199a-0aba-4388-baa8-0ff30c9ad3b2":	{
@@ -225,6 +235,60 @@
 					"$x":	747937,
 					"$y":	774565
 				}
+			},
+			"DensitySelector.Prop-c945ae3e-9672-4894-9281-b1eb0516d6c7":	{
+				"$Position":	{
+					"$x":	17,
+					"$y":	4497
+				}
+			},
+			"Delimiter.DensitySelector.Prop-5bd158eb-9ee8-498d-9fd1-4d33b4edb156":	{
+				"$Position":	{
+					"$x":	700,
+					"$y":	4497
+				}
+			},
+			"RandomRotator.Prop-f07229d4-f597-4306-b847-80289ab2a8bd":	{
+				"$Position":	{
+					"$x":	1183,
+					"$y":	4276
+				}
+			},
+			"Locator.Prop-67d91c45-6cf7-4685-b516-0039e6fe3fd6":	{
+				"$Position":	{
+					"$x":	1905,
+					"$y":	4282
+				}
+			},
+			"Integer.Range-91b72430-9b60-42a9-89bc-6fedec00cb99":	{
+				"$Position":	{
+					"$x":	3316,
+					"$y":	5170
+				}
+			},
+			"Decimal.Range-eab8e8ff-eb3e-44b5-9d7a-9803411d0513":	{
+				"$Position":	{
+					"$x":	1179,
+					"$y":	4532
+				}
+			},
+			"ImportedDensityNode-122465b7-3e95-4749-bed9-28ab309825ba":	{
+				"$Position":	{
+					"$x":	697,
+					"$y":	4728
+				}
+			},
+			"Random.Scanner-cfb0e1b1-3fa2-4a5d-b582-09320c1028a9":	{
+				"$Position":	{
+					"$x":	2651,
+					"$y":	5124
+				}
+			},
+			"Mask.Prop-d955c6a2-1dd1-46e4-a478-e51d05cf0fe9":	{
+				"$Position":	{
+					"$x":	2612,
+					"$y":	4284
+				}
 			}
 		},
 		"$FloatingNodes":	[{
@@ -265,16 +329,7 @@
 		"$Links":	{
 		},
 		"$Groups":	[],
-		"$Comments":	[{
-				"$Position":	{
-					"$x":	1936.125,
-					"$y":	5114
-				},
-				"$width":	250,
-				"$height":	150,
-				"$name":	"Comment",
-				"$text":	"For some reason using BaseHeightName \"Base\" wasnt working"
-			}],
+		"$Comments":	[],
 		"$WorkspaceID":	"HytaleGenerator - Assignments"
 	}
 }

@@ -13,32 +13,6 @@
 			}],
 		"LegacyPath":	false,
 		"LoadEntities":	false,
-		"Directionality":	{
-			"$NodeId":	"Static.Directionality-6adaf4e4-0b6d-44f1-912d-2bd14a2bc5df",
-			"Type":	"Static",
-			"Rotation":	0,
-			"Pattern":	{
-				"$NodeId":	"FieldFunction.Pattern-0cb7f55a-db11-4283-b18a-4882e1e056c0",
-				"Type":	"FieldFunction",
-				"Skip":	false,
-				"FieldFunction":	{
-					"$NodeId":	"ConstantDensityNode-5b65dd06-aeaf-4f6e-a126-7e8c5a1d83a6",
-					"Type":	"Constant",
-					"Skip":	false,
-					"Value":	0
-				},
-				"Delimiters":	[{
-						"$NodeId":	"Delimiter.FieldFunction.Pattern-3b8ea7d3-3dbb-49ac-a6b4-f8b98ab06453",
-						"Min":	-1,
-						"Max":	1
-					}]
-			}
-		},
-		"Scanner":	{
-			"$NodeId":	"Origin.Scanner-e4de2528-34a0-4047-8d27-b96577eca35a",
-			"Type":	"Origin",
-			"Skip":	false
-		},
 		"MoldingDirection":	"None",
 		"MoldingChildren":	false
 	},
@@ -53,14 +27,14 @@
 			},
 			"Prefab.Prop-a5fdb2c1-b6a1-4e09-b4d4-ded7d86a2c0d":	{
 				"$Position":	{
-					"$x":	637,
-					"$y":	4473
+					"$x":	1313,
+					"$y":	4482
 				}
 			},
 			"WeightedPath.Prefab.Prop-89bc703d-3db5-4e97-b1fd-45f088109d06":	{
 				"$Position":	{
-					"$x":	1395,
-					"$y":	4469
+					"$x":	2160,
+					"$y":	4486
 				}
 			},
 			"FieldFunction.Assignments-c050199a-0aba-4388-baa8-0ff30c9ad3b2":	{
@@ -103,36 +77,6 @@
 				"$Position":	{
 					"$x":	747937,
 					"$y":	774565
-				}
-			},
-			"Origin.Scanner-e4de2528-34a0-4047-8d27-b96577eca35a":	{
-				"$Position":	{
-					"$x":	1408,
-					"$y":	4811
-				}
-			},
-			"Static.Directionality-6adaf4e4-0b6d-44f1-912d-2bd14a2bc5df":	{
-				"$Position":	{
-					"$x":	1417,
-					"$y":	4623
-				}
-			},
-			"FieldFunction.Pattern-0cb7f55a-db11-4283-b18a-4882e1e056c0":	{
-				"$Position":	{
-					"$x":	2112,
-					"$y":	4698
-				}
-			},
-			"ConstantDensityNode-5b65dd06-aeaf-4f6e-a126-7e8c5a1d83a6":	{
-				"$Position":	{
-					"$x":	2813,
-					"$y":	4615
-				}
-			},
-			"Delimiter.FieldFunction.Pattern-3b8ea7d3-3dbb-49ac-a6b4-f8b98ab06453":	{
-				"$Position":	{
-					"$x":	2828,
-					"$y":	4846
 				}
 			}
 		},
