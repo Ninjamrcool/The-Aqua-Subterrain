@@ -120,6 +120,30 @@
 				},
 				"$Title":	"[ROOT] Constant Assignments"
 			},
+			"DensitySelector.Prop-6053eafc-3126-4909-9e37-8b6541d20766":	{
+				"$Position":	{
+					"$x":	613,
+					"$y":	4474
+				}
+			},
+			"Delimiter.DensitySelector.Prop-f83b0a15-adaa-40bd-b4b5-2fef87085ec2":	{
+				"$Position":	{
+					"$x":	1296,
+					"$y":	4474
+				}
+			},
+			"RandomRotator.Prop-689c811d-0126-4488-a71a-d34065ee20d8":	{
+				"$Position":	{
+					"$x":	1779,
+					"$y":	4253
+				}
+			},
+			"Locator.Prop-96e020e3-e807-486c-904a-1c6973ec866f":	{
+				"$Position":	{
+					"$x":	2501,
+					"$y":	4259
+				}
+			},
 			"Prefab.Prop-a5fdb2c1-b6a1-4e09-b4d4-ded7d86a2c0d":	{
 				"$Position":	{
 					"$x":	3245,
@@ -198,6 +222,30 @@
 					"$y":	5660
 				}
 			},
+			"Linear.Scanner-99da91e8-b144-47d1-80c5-2ddb10e56126":	{
+				"$Position":	{
+					"$x":	3265,
+					"$y":	5083
+				}
+			},
+			"Integer.Range-9899da22-d51e-4fa1-9692-31737195360a":	{
+				"$Position":	{
+					"$x":	3932,
+					"$y":	5122
+				}
+			},
+			"Decimal.Range-710d270f-5b96-4745-a60c-af2d3851e121":	{
+				"$Position":	{
+					"$x":	1775,
+					"$y":	4509
+				}
+			},
+			"ImportedDensityNode-9a5251e8-0b30-4960-a4b5-12184e5861cd":	{
+				"$Position":	{
+					"$x":	1293,
+					"$y":	4705
+				}
+			},
 			"FieldFunction.Assignments-c050199a-0aba-4388-baa8-0ff30c9ad3b2":	{
 				"$Position":	{
 					"$x":	747155,
@@ -238,54 +286,6 @@
 				"$Position":	{
 					"$x":	747937,
 					"$y":	774565
-				}
-			},
-			"DensitySelector.Prop-6053eafc-3126-4909-9e37-8b6541d20766":	{
-				"$Position":	{
-					"$x":	613,
-					"$y":	4474
-				}
-			},
-			"Delimiter.DensitySelector.Prop-f83b0a15-adaa-40bd-b4b5-2fef87085ec2":	{
-				"$Position":	{
-					"$x":	1296,
-					"$y":	4474
-				}
-			},
-			"RandomRotator.Prop-689c811d-0126-4488-a71a-d34065ee20d8":	{
-				"$Position":	{
-					"$x":	1779,
-					"$y":	4253
-				}
-			},
-			"Locator.Prop-96e020e3-e807-486c-904a-1c6973ec866f":	{
-				"$Position":	{
-					"$x":	2501,
-					"$y":	4259
-				}
-			},
-			"Linear.Scanner-99da91e8-b144-47d1-80c5-2ddb10e56126":	{
-				"$Position":	{
-					"$x":	3265,
-					"$y":	5083
-				}
-			},
-			"Integer.Range-9899da22-d51e-4fa1-9692-31737195360a":	{
-				"$Position":	{
-					"$x":	3932,
-					"$y":	5122
-				}
-			},
-			"Decimal.Range-710d270f-5b96-4745-a60c-af2d3851e121":	{
-				"$Position":	{
-					"$x":	1775,
-					"$y":	4509
-				}
-			},
-			"ImportedDensityNode-9a5251e8-0b30-4960-a4b5-12184e5861cd":	{
-				"$Position":	{
-					"$x":	1293,
-					"$y":	4705
 				}
 			}
 		},
