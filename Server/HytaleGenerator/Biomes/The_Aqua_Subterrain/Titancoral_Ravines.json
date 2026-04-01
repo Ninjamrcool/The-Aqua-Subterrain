@@ -1422,41 +1422,47 @@
 			"$NodeId":	"Runtime-8c06249b-cd14-425c-8d98-3c6b36ee0f0d",
 			"Skip":	false,
 			"Runtime":	3,
-			"Positions":	{
-				"$NodeId":	"Mesh2DPositions-b2429c87-2b9d-4471-9c05-824c5cfe725b",
-				"Type":	"Mesh2D",
-				"Skip":	false,
-				"PointsY":	0,
-				"PointGenerator":	{
-					"$NodeId":	"MeshPointGenerator-d6e17da2-07c7-4ba5-bdc0-c5ddad8ec241",
-					"Type":	"Mesh",
-					"Jitter":	0.4,
-					"ScaleX":	17,
-					"ScaleY":	17,
-					"ScaleZ":	17,
-					"Seed":	"mewhen"
-				}
-			},
-			"Assignments":	{
-				"$NodeId":	"FieldFunction.Assignments-81018179-bde8-4afc-88e0-88d73821e05b",
-				"Type":	"FieldFunction",
-				"ExportAs":	"",
-				"FieldFunction":	{
-					"$NodeId":	"ImportedDensityNode-0f7cec70-138d-43d5-8f1f-95adb7cdcb9c",
-					"Type":	"Imported",
-					"Skip":	false,
-					"Name":	"GroundPlateauDensity"
-				},
-				"Delimiters":	[{
-						"$NodeId":	"Delimiter.FieldFunction.Assignments-c8ecd3e8-b61b-41a0-8b0f-c4594262ffa6",
-						"Max":	1,
-						"Min":	0,
-						"Assignments":	{
-							"$NodeId":	"Imported.Assignments-1d52b15e-1f19-4aa3-ab1e-c244cce940e7",
-							"Type":	"Imported",
-							"Name":	"The_Aqua_Subterrain_Coral_Tubes"
+			"PropDistribution":	{
+				"$NodeId":	"Assigned.PropDistribution-43ac5412-4347-4090-822a-13ab4d30cb71",
+				"Type":	"Assigned",
+				"PropDistribution":	{
+					"$NodeId":	"Constant.PropDistribution-c45d128b-45fd-45b2-9b26-3d8710ba296e",
+					"Type":	"Constant",
+					"Positions":	{
+						"$NodeId":	"Scaler.Positions-da019872-3b8d-41a1-b95f-8e201a882fc8",
+						"Type":	"Scaler",
+						"Skip":	false,
+						"Scale":	{
+							"$NodeId":	"Point3D-66dd12d4-32b0-44e1-92c8-7d53c03fe744",
+							"X":	17,
+							"Y":	1,
+							"Z":	17
+						},
+						"Positions":	{
+							"$NodeId":	"BaseHeight.Positions-d73873e3-57c9-43e7-a11b-2b0a74ce1638",
+							"Type":	"BaseHeight",
+							"Skip":	false,
+							"BedName":	"Base",
+							"Positions":	{
+								"$NodeId":	"Jitter2d.Positions-21b8d6e4-0a57-4e96-bd6b-69d4b609c782",
+								"Type":	"Jitter2d",
+								"Skip":	false,
+								"Magnitude":	0.4,
+								"Seed":	"mewhen",
+								"Positions":	{
+									"$NodeId":	"SquareGrid2d.Positions-8fdc2d05-2f51-4367-9ce4-b20866a88542",
+									"Type":	"SquareGrid2d",
+									"Skip":	false
+								}
+							}
 						}
-					}]
+					}
+				},
+				"Assignments":	{
+					"$NodeId":	"Imported.Assignments-7601ba81-db54-4a24-a4bf-4661cd857b76",
+					"Type":	"Imported",
+					"Name":	"The_Aqua_Subterrain_Coral_Tubes"
+				}
 			}
 		}, {
 			"$NodeId":	"Runtime-1526cc17-1062-4882-9cbf-a0e86e0ca9f4",
@@ -3075,8 +3081,8 @@
 			},
 			"CachePositions-e9d9f32a-d967-4e9e-b317-dbb797aec1f8":	{
 				"$Position":	{
-					"$x":	-843,
-					"$y":	20974
+					"$x":	-799,
+					"$y":	20980
 				}
 			},
 			"Mesh2DPositions-07609244-3f34-41c5-a48c-d3636afdb937":	{
@@ -3433,81 +3439,45 @@
 					"$y":	30192
 				}
 			},
-			"Mesh2DPositions-b2429c87-2b9d-4471-9c05-824c5cfe725b":	{
-				"$Position":	{
-					"$x":	-1971,
-					"$y":	30158
-				}
-			},
-			"MeshPointGenerator-d6e17da2-07c7-4ba5-bdc0-c5ddad8ec241":	{
-				"$Position":	{
-					"$x":	-1168,
-					"$y":	30135
-				}
-			},
-			"FieldFunction.Assignments-81018179-bde8-4afc-88e0-88d73821e05b":	{
-				"$Position":	{
-					"$x":	-2039,
-					"$y":	30478
-				}
-			},
-			"ImportedDensityNode-0f7cec70-138d-43d5-8f1f-95adb7cdcb9c":	{
-				"$Position":	{
-					"$x":	-1257,
-					"$y":	30469
-				}
-			},
-			"Delimiter.FieldFunction.Assignments-c8ecd3e8-b61b-41a0-8b0f-c4594262ffa6":	{
-				"$Position":	{
-					"$x":	-1263,
-					"$y":	30731
-				}
-			},
-			"Imported.Assignments-1d52b15e-1f19-4aa3-ab1e-c244cce940e7":	{
-				"$Position":	{
-					"$x":	-668,
-					"$y":	30734
-				}
-			},
 			"Runtime-1526cc17-1062-4882-9cbf-a0e86e0ca9f4":	{
 				"$Position":	{
-					"$x":	-2803,
+					"$x":	-2804,
 					"$y":	31218
 				}
 			},
 			"Mesh2DPositions-d50a8129-3cd1-46e3-85ce-fbff72689aed":	{
 				"$Position":	{
-					"$x":	-2141,
+					"$x":	-2142,
 					"$y":	31184
 				}
 			},
 			"MeshPointGenerator-22798320-b31c-45d4-8544-f16e927bdab9":	{
 				"$Position":	{
-					"$x":	-1338,
+					"$x":	-1339,
 					"$y":	31161
 				}
 			},
 			"FieldFunction.Assignments-276fc77c-3571-4bb3-b857-4c756f7f347a":	{
 				"$Position":	{
-					"$x":	-2209,
+					"$x":	-2210,
 					"$y":	31504
 				}
 			},
 			"ImportedDensityNode-66b90741-5671-453b-b6a2-80371b8f7244":	{
 				"$Position":	{
-					"$x":	-1427,
+					"$x":	-1428,
 					"$y":	31495
 				}
 			},
 			"Delimiter.FieldFunction.Assignments-07dc21b8-9e87-4058-b47d-b6b4c1f243ba":	{
 				"$Position":	{
-					"$x":	-1433,
+					"$x":	-1434,
 					"$y":	31757
 				}
 			},
 			"Imported.Assignments-73ff7323-1af1-4094-80be-148de2b0ebf5":	{
 				"$Position":	{
-					"$x":	-838,
+					"$x":	-839,
 					"$y":	31760
 				}
 			},
@@ -3715,6 +3685,30 @@
 					"$y":	37058
 				}
 			},
+			"Runtime-1d00fdc5-97f5-431c-a1b9-3983ca310bb5":	{
+				"$Position":	{
+					"$x":	-3871,
+					"$y":	37465
+				}
+			},
+			"Mesh2DPositions-589d154f-d28e-47e4-9962-81856aeba8ad":	{
+				"$Position":	{
+					"$x":	-3209,
+					"$y":	37431
+				}
+			},
+			"MeshPointGenerator-505879f4-4739-4ea4-9da9-7f3ecd6c9a30":	{
+				"$Position":	{
+					"$x":	-2406,
+					"$y":	37408
+				}
+			},
+			"Imported.Assignments-c70ac234-70da-42fc-b787-eb8006739fcc":	{
+				"$Position":	{
+					"$x":	-3207,
+					"$y":	37701
+				}
+			},
 			"Runtime-b387e65b-2d8d-47e6-be4b-37f36482c819":	{
 				"$Position":	{
 					"$x":	-4112,
@@ -3835,28 +3829,52 @@
 					"$y":	18577
 				}
 			},
-			"Runtime-1d00fdc5-97f5-431c-a1b9-3983ca310bb5":	{
+			"Constant.PropDistribution-c45d128b-45fd-45b2-9b26-3d8710ba296e":	{
 				"$Position":	{
-					"$x":	-3871,
-					"$y":	37465
+					"$x":	-1177,
+					"$y":	30269
 				}
 			},
-			"Mesh2DPositions-589d154f-d28e-47e4-9962-81856aeba8ad":	{
+			"SquareGrid2d.Positions-8fdc2d05-2f51-4367-9ce4-b20866a88542":	{
 				"$Position":	{
-					"$x":	-3209,
-					"$y":	37431
+					"$x":	1673,
+					"$y":	30279
 				}
 			},
-			"MeshPointGenerator-505879f4-4739-4ea4-9da9-7f3ecd6c9a30":	{
+			"Jitter2d.Positions-21b8d6e4-0a57-4e96-bd6b-69d4b609c782":	{
 				"$Position":	{
-					"$x":	-2406,
-					"$y":	37408
+					"$x":	978,
+					"$y":	30278
 				}
 			},
-			"Imported.Assignments-c70ac234-70da-42fc-b787-eb8006739fcc":	{
+			"Scaler.Positions-da019872-3b8d-41a1-b95f-8e201a882fc8":	{
 				"$Position":	{
-					"$x":	-3207,
-					"$y":	37701
+					"$x":	-486,
+					"$y":	30269
+				}
+			},
+			"Point3D-66dd12d4-32b0-44e1-92c8-7d53c03fe744":	{
+				"$Position":	{
+					"$x":	254,
+					"$y":	30534
+				}
+			},
+			"BaseHeight.Positions-d73873e3-57c9-43e7-a11b-2b0a74ce1638":	{
+				"$Position":	{
+					"$x":	231,
+					"$y":	30272
+				}
+			},
+			"Assigned.PropDistribution-43ac5412-4347-4090-822a-13ab4d30cb71":	{
+				"$Position":	{
+					"$x":	-1946,
+					"$y":	30271
+				}
+			},
+			"Imported.Assignments-7601ba81-db54-4a24-a4bf-4661cd857b76":	{
+				"$Position":	{
+					"$x":	-1168,
+					"$y":	30571
 				}
 			}
 		},
@@ -4020,7 +4038,7 @@
 					"$x":	-2781.75,
 					"$y":	30001.3125
 				},
-				"$width":	2793.125,
+				"$width":	5120.75,
 				"$height":	1002.125,
 				"$name":	"Coral Tubes"
 			}, {
@@ -4169,7 +4187,7 @@
 				"$name":	"Blue Aloe"
 			}, {
 				"$Position":	{
-					"$x":	-2952.625,
+					"$x":	-2953.625,
 					"$y":	31027.9375
 				},
 				"$width":	2793.125,
