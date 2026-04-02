@@ -2,7 +2,7 @@
   "Type": "TeleportInstance",
   "InstanceName": "The_Aqua_Subterrain",
   "InstanceKey": "The_Aqua_Subterrain_Main",
-  "PersonalReturnPoint": false,
+  "PersonalReturnPoint": true,
   "Effects": {
     "LocalSoundEventId": "SFX_Portal_Neutral_Teleport_Local"
   },
