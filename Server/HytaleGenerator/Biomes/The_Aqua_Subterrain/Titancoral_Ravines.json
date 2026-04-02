@@ -1686,9 +1686,9 @@
 						"Skip":	false,
 						"Scale":	{
 							"$NodeId":	"Point3D-e97ab22f-d7b4-4fc9-bbbd-af70ea0ef899",
-							"X":	48,
+							"X":	55,
 							"Y":	1,
-							"Z":	48
+							"Z":	55
 						},
 						"Positions":	{
 							"$NodeId":	"BaseHeight.Positions-836501a3-a227-4ec5-94f2-5fa8d5204d43",
