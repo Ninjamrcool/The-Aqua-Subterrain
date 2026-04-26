@@ -356,18 +356,6 @@
     },
     {
       "x": -5,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -5,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -5,
       "y": 6,
       "z": 0,
       "name": "Rock_Aqua_Brick_Stairs",
@@ -1317,18 +1305,6 @@
       "y": 3,
       "z": 0,
       "name": "Rock_Aqua_Brick_Smooth"
-    },
-    {
-      "x": -4,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -4,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": -4,
@@ -2296,12 +2272,6 @@
     },
     {
       "x": -3,
-      "y": 4,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
       "y": 5,
       "z": -3,
       "name": "Furniture_Human_Ruins_Lantern_Ceiling"
@@ -2311,18 +2281,6 @@
       "y": 6,
       "z": -3,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
     },
     {
       "x": -3,
@@ -2431,39 +2389,9 @@
     },
     {
       "x": -3,
-      "y": 3,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
       "y": 6,
       "z": -2,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
     },
     {
       "x": -3,
@@ -2575,24 +2503,6 @@
     },
     {
       "x": -3,
-      "y": 3,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
       "y": 6,
       "z": -1,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -2604,12 +2514,6 @@
       "z": -1,
       "name": "Plant_Moss_Blue",
       "support": 15
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": -3,
@@ -2737,33 +2641,9 @@
     },
     {
       "x": -3,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
       "y": 7,
       "z": 0,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": -3,
@@ -2890,30 +2770,6 @@
       "y": 2,
       "z": 1,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
     },
     {
       "x": -3,
@@ -3044,30 +2900,6 @@
     },
     {
       "x": -3,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
       "y": 7,
       "z": 2,
       "name": "Rock_Aqua_Brick_Beam",
@@ -3170,25 +3002,6 @@
       "y": 3,
       "z": 3,
       "name": "Furniture_Human_Ruins_Planter"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 3,
-      "name": "Plant_Seaweed_Grass_Tall",
-      "support": 15
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
     },
     {
       "x": -3,
@@ -3713,39 +3526,9 @@
     },
     {
       "x": -2,
-      "y": 3,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
       "y": 6,
       "z": -3,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
     },
     {
       "x": -2,
@@ -3843,39 +3626,9 @@
     },
     {
       "x": -2,
-      "y": 3,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
       "y": 6,
       "z": -2,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
     },
     {
       "x": -2,
@@ -3975,40 +3728,10 @@
     },
     {
       "x": -2,
-      "y": 3,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
       "y": 6,
       "z": -1,
       "name": "Rock_Runic_Blue_Brick_Half",
       "rotation": 8
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": -2,
@@ -4136,12 +3859,6 @@
       "y": 7,
       "z": 0,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": -2,
@@ -4243,30 +3960,6 @@
       "y": 2,
       "z": 1,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": -2,
-      "y": 3,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
     },
     {
       "x": -2,
@@ -4385,36 +4078,6 @@
     },
     {
       "x": -2,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
       "y": 8,
       "z": 2,
       "name": "Rock_Runic_Blue_Brick_Half"
@@ -4510,30 +4173,6 @@
       "z": 3,
       "name": "Furniture_Temple_Dark_Stool",
       "rotation": 1
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 3,
-      "name": "Empty"
     },
     {
       "x": -2,
@@ -5128,12 +4767,6 @@
     },
     {
       "x": -1,
-      "y": 3,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
       "y": 4,
       "z": -3,
       "name": "Plant_Moss_Wall_Blue",
@@ -5145,24 +4778,6 @@
       "z": -3,
       "name": "Rock_Runic_Blue_Brick_Half",
       "rotation": 8
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -5275,12 +4890,6 @@
     },
     {
       "x": -1,
-      "y": 4,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
       "y": 5,
       "z": -2,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -5291,18 +4900,6 @@
       "y": 6,
       "z": -2,
       "name": "Cloth_Roof_Blue_Flat"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -5399,36 +4996,6 @@
     },
     {
       "x": -1,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
       "y": 11,
       "z": -1,
       "name": "Rock_Runic_Teal_Brick_Half",
@@ -5439,12 +5006,6 @@
       "y": 12,
       "z": -1,
       "name": "Rock_Aqua_Brick_Ornate"
-    },
-    {
-      "x": -1,
-      "y": 13,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -5551,36 +5112,6 @@
       "z": 0,
       "name": "Plant_Moss_Short_Blue",
       "support": 15
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -5694,42 +5225,6 @@
       "y": 2,
       "z": 1,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 1,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -5852,36 +5347,6 @@
     },
     {
       "x": -1,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
       "y": 8,
       "z": 2,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -5973,36 +5438,6 @@
       "y": 2,
       "z": 3,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 3,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -6657,33 +6092,9 @@
     },
     {
       "x": 0,
-      "y": 4,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 5,
       "z": -3,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
     },
     {
       "x": 0,
@@ -6814,24 +6225,6 @@
     },
     {
       "x": 0,
-      "y": 6,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 11,
       "z": -2,
       "name": "Rock_Runic_Teal_Brick_Half",
@@ -6930,42 +6323,6 @@
       "y": 2,
       "z": -1,
       "name": "Rock_Runic_Teal_Brick_Stairs"
-    },
-    {
-      "x": 0,
-      "y": 3,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": 0,
@@ -7078,42 +6435,6 @@
       "y": 2,
       "z": 0,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": 0,
-      "y": 3,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": 0,
@@ -7246,36 +6567,6 @@
     },
     {
       "x": 0,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 21,
       "z": 1,
       "name": "Rock_Aqua_Cobble"
@@ -7370,36 +6661,6 @@
       "y": 2,
       "z": 2,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": 0,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
     },
     {
       "x": 0,
@@ -7506,30 +6767,6 @@
       "z": 3,
       "name": "*Furniture_Temple_Dark_Trapdoor_State_Definitions_OpenDoorOut",
       "rotation": 2
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 3,
-      "name": "Empty"
     },
     {
       "x": 0,
@@ -7654,12 +6891,6 @@
       "y": 4,
       "z": 4,
       "name": "Furniture_Temple_Dark_Window"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 4,
-      "name": "Empty"
     },
     {
       "x": 0,
@@ -7789,18 +7020,6 @@
       "z": 5,
       "name": "Rock_Aqua_Half",
       "rotation": 4
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 5,
-      "name": "Empty"
     },
     {
       "x": 0,
@@ -8226,24 +7445,6 @@
     },
     {
       "x": 1,
-      "y": 6,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
       "y": 11,
       "z": -3,
       "name": "*Rock_Runic_Teal_Brick_Half_State_Definitions_Block",
@@ -8360,30 +7561,6 @@
     },
     {
       "x": 1,
-      "y": 5,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
       "y": 11,
       "z": -2,
       "name": "*Rock_Runic_Teal_Brick_Half_State_Definitions_Block",
@@ -8474,36 +7651,6 @@
       "z": -1,
       "name": "Plant_Moss_Blue",
       "support": 15
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": 1,
@@ -8628,36 +7775,6 @@
     },
     {
       "x": 1,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
       "y": 21,
       "z": 0,
       "name": "Rock_Aqua_Cobble"
@@ -8757,42 +7874,6 @@
     },
     {
       "x": 1,
-      "y": 3,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
       "y": 21,
       "z": 1,
       "name": "Rock_Aqua_Cobble"
@@ -8889,36 +7970,6 @@
       "y": 2,
       "z": 2,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": 1,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
     },
     {
       "x": 1,
@@ -9018,36 +8069,6 @@
       "z": 3,
       "name": "Rock_Runic_Teal_Brick_Stairs",
       "rotation": 2
-    },
-    {
-      "x": 1,
-      "y": 3,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 3,
-      "name": "Empty"
     },
     {
       "x": 1,
@@ -9652,30 +8673,6 @@
     },
     {
       "x": 2,
-      "y": 5,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
       "y": 10,
       "z": -3,
       "name": "Rock_Aqua_Brick_Wall"
@@ -9788,30 +8785,6 @@
     },
     {
       "x": 2,
-      "y": 5,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
       "y": 11,
       "z": -2,
       "name": "Rock_Runic_Blue_Brick_Half"
@@ -9919,30 +8892,6 @@
     },
     {
       "x": 2,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
       "y": 10,
       "z": -1,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -10038,36 +8987,6 @@
       "y": 3,
       "z": 0,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": 2,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": 2,
@@ -10178,36 +9097,6 @@
     },
     {
       "x": 2,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
       "y": 9,
       "z": 1,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -10298,42 +9187,6 @@
       "y": 2,
       "z": 2,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": 2,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 2,
-      "name": "Empty"
     },
     {
       "x": 2,
@@ -10441,30 +9294,6 @@
       "z": 3,
       "name": "Plant_Seaweed_Grass",
       "support": 15
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 3,
-      "name": "Empty"
     },
     {
       "x": 2,
@@ -10975,18 +9804,6 @@
     },
     {
       "x": 3,
-      "y": 5,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
       "y": 7,
       "z": -3,
       "name": "Furniture_Temple_Dark_Platform",
@@ -11111,28 +9928,10 @@
     },
     {
       "x": 3,
-      "y": 5,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
       "y": 7,
       "z": -2,
       "name": "Furniture_Temple_Dark_Trapdoor",
       "rotation": 3
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
     },
     {
       "x": 3,
@@ -11240,24 +10039,6 @@
       "z": -1,
       "name": "Rock_Runic_Blue_Brick_Half",
       "rotation": 8
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": 3,
@@ -11381,24 +10162,6 @@
       "y": 3,
       "z": 0,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": 3,
@@ -11537,36 +10300,6 @@
     },
     {
       "x": 3,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
       "y": 9,
       "z": 1,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -11684,30 +10417,6 @@
       "y": 4,
       "z": 2,
       "name": "Furniture_Human_Ruins_Lantern"
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 2,
-      "name": "Empty"
     },
     {
       "x": 3,
@@ -12742,12 +11451,6 @@
     },
     {
       "x": 4,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
       "y": 6,
       "z": 0,
       "name": "Rock_Aqua_Brick_Stairs",
@@ -13719,18 +12422,6 @@
       "z": 0,
       "name": "Rock_Aqua_Half",
       "rotation": 5
-    },
-    {
-      "x": 5,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": 5,
@@ -14882,6 +13573,13 @@
     },
     {
       "x": -3,
+      "y": 18,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
       "y": 3,
       "z": -1,
       "name": "Water_Source",
@@ -14932,6 +13630,13 @@
     {
       "x": -3,
       "y": 12,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 18,
       "z": -1,
       "name": "Water_Source",
       "level": 1
@@ -14994,6 +13699,13 @@
     },
     {
       "x": -3,
+      "y": 18,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
       "y": 3,
       "z": 1,
       "name": "Water_Source",
@@ -15050,6 +13762,13 @@
     },
     {
       "x": -3,
+      "y": 18,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
       "y": 3,
       "z": 2,
       "name": "Water_Source",
@@ -15086,6 +13805,13 @@
     {
       "x": -3,
       "y": 8,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 18,
       "z": 2,
       "name": "Water_Source",
       "level": 1
@@ -15316,63 +14042,70 @@
     },
     {
       "x": -2,
-      "y": 2,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 3,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 11,
-      "z": -2,
+      "y": 18,
+      "z": -3,
       "name": "Water_Source",
       "level": 1
     },
     {
       "x": -2,
       "y": 2,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
       "z": -1,
       "name": "Water_Source",
       "level": 1
@@ -15471,6 +14204,13 @@
     {
       "x": -2,
       "y": 11,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 20,
       "z": 0,
       "name": "Water_Source",
       "level": 1
@@ -15611,6 +14351,13 @@
     {
       "x": -2,
       "y": 8,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 18,
       "z": 3,
       "name": "Water_Source",
       "level": 1
@@ -15778,6 +14525,13 @@
     },
     {
       "x": -1,
+      "y": 18,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
       "y": 3,
       "z": -2,
       "name": "Water_Source",
@@ -16066,6 +14820,13 @@
     {
       "x": -1,
       "y": 8,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 18,
       "z": 3,
       "name": "Water_Source",
       "level": 1
@@ -16247,6 +15008,13 @@
     },
     {
       "x": 0,
+      "y": 18,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
       "y": 3,
       "z": -2,
       "name": "Water_Source",
@@ -16290,6 +15058,13 @@
     {
       "x": 0,
       "y": 11,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 20,
       "z": -2,
       "name": "Water_Source",
       "level": 1
@@ -16394,6 +15169,13 @@
     },
     {
       "x": 0,
+      "y": 20,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
       "y": 3,
       "z": 1,
       "name": "Water_Source",
@@ -16472,6 +15254,13 @@
     {
       "x": 0,
       "y": 8,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 20,
       "z": 2,
       "name": "Water_Source",
       "level": 1
@@ -16528,6 +15317,13 @@
     {
       "x": 0,
       "y": 14,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 18,
       "z": 3,
       "name": "Water_Source",
       "level": 1
@@ -16717,6 +15513,13 @@
     {
       "x": 1,
       "y": 8,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 18,
       "z": -3,
       "name": "Water_Source",
       "level": 1
@@ -16990,6 +15793,13 @@
     {
       "x": 1,
       "y": 8,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 18,
       "z": 3,
       "name": "Water_Source",
       "level": 1
@@ -17157,6 +15967,13 @@
     },
     {
       "x": 2,
+      "y": 18,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
       "y": 3,
       "z": -2,
       "name": "Water_Source",
@@ -17311,6 +16128,13 @@
     },
     {
       "x": 2,
+      "y": 20,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
       "y": 3,
       "z": 1,
       "name": "Water_Source",
@@ -17452,6 +16276,13 @@
     {
       "x": 2,
       "y": 9,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 18,
       "z": 3,
       "name": "Water_Source",
       "level": 1
@@ -17689,6 +16520,13 @@
     },
     {
       "x": 3,
+      "y": 18,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
       "y": 3,
       "z": -1,
       "name": "Water_Source",
@@ -17732,6 +16570,13 @@
     {
       "x": 3,
       "y": 10,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 18,
       "z": -1,
       "name": "Water_Source",
       "level": 1
@@ -17801,6 +16646,13 @@
     },
     {
       "x": 3,
+      "y": 18,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
       "y": 3,
       "z": 1,
       "name": "Water_Source",
@@ -17857,6 +16709,13 @@
     },
     {
       "x": 3,
+      "y": 18,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
       "y": 3,
       "z": 2,
       "name": "Water_Source",
@@ -17900,6 +16759,13 @@
     {
       "x": 3,
       "y": 9,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 18,
       "z": 2,
       "name": "Water_Source",
       "level": 1
