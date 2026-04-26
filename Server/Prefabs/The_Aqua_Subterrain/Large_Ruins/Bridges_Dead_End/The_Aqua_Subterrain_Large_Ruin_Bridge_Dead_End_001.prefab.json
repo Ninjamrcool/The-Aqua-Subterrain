@@ -1,0 +1,257 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": -1,
+  "anchorY": 2,
+  "anchorZ": -1,
+  "blocks": [
+    {
+      "x": -4,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -2,
+      "name": "*Rock_Aqua_Brick_Wall_State_Definitions_Corner",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Wall",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Wall",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -3,
+      "name": "*Rock_Aqua_Brick_Wall_State_Definitions_Corner",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -2,
+      "name": "*Rock_Aqua_Brick_Wall_State_Definitions_Corner",
+      "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Wall"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Wall"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Wall"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "*Rock_Aqua_Brick_Wall_State_Definitions_Corner"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "*Rock_Aqua_Brick_Wall_State_Definitions_Corner",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "*Rock_Aqua_Brick_Wall_State_Definitions_Corner"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Wall",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Wall",
+      "rotation": 1
+    }
+  ]
+}
