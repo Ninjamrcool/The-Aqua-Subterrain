@@ -137,6 +137,60 @@
     },
     {
       "x": -5,
+      "y": -17,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -16,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -15,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -5,
+      "y": -14,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -13,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -12,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -5,
+      "y": -11,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -10,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -9,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -5,
       "y": -8,
       "z": -1,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -295,6 +349,60 @@
     },
     {
       "x": -5,
+      "y": -17,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -16,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -15,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -5,
+      "y": -14,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -13,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -12,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -5,
+      "y": -11,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -10,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -9,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -5,
       "y": -8,
       "z": 0,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -356,18 +464,6 @@
     },
     {
       "x": -5,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -5,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -5,
       "y": 6,
       "z": 0,
       "name": "Rock_Aqua_Brick_Stairs",
@@ -420,6 +516,60 @@
       "z": 0,
       "name": "Rock_Aqua_Cobble_Roof",
       "rotation": 3
+    },
+    {
+      "x": -5,
+      "y": -17,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -16,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -15,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -5,
+      "y": -14,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -13,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -12,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -5,
+      "y": -11,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -10,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -5,
+      "y": -9,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": -5,
@@ -662,6 +812,60 @@
     },
     {
       "x": -4,
+      "y": -17,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -16,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -15,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -14,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -13,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -12,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -11,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -10,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -9,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
       "y": -8,
       "z": -4,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -726,6 +930,60 @@
       "z": -4,
       "name": "*Rock_Aqua_Cobble_Roof_State_Definitions_Corner_Left",
       "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": -17,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -16,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -15,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -14,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -13,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -12,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -11,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -10,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -9,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": -4,
@@ -907,6 +1165,60 @@
     },
     {
       "x": -4,
+      "y": -17,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -16,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -15,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -14,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -13,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -12,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -11,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -10,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -9,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
       "y": -8,
       "z": -2,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -1078,6 +1390,60 @@
     },
     {
       "x": -4,
+      "y": -17,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -16,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -15,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -14,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -13,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -12,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -11,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -10,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -9,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
       "y": -8,
       "z": -1,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -1248,6 +1614,60 @@
     },
     {
       "x": -4,
+      "y": -17,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -16,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -15,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -14,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -13,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -12,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -11,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -10,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -9,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
       "y": -8,
       "z": 0,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -1317,18 +1737,6 @@
       "y": 3,
       "z": 0,
       "name": "Rock_Aqua_Brick_Smooth"
-    },
-    {
-      "x": -4,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -4,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": -4,
@@ -1414,6 +1822,60 @@
     },
     {
       "x": -4,
+      "y": -17,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -16,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -15,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -14,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -13,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -12,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -11,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -10,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -9,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
       "y": -8,
       "z": 1,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -1581,6 +2043,60 @@
       "z": 1,
       "name": "Rock_Aqua_Cobble_Roof",
       "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": -17,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -16,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -15,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -14,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -13,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -12,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -11,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -10,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -9,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": -4,
@@ -1752,6 +2268,60 @@
       "z": 2,
       "name": "*Rock_Aqua_Cobble_Roof_State_Definitions_Corner_Left",
       "rotation": 3
+    },
+    {
+      "x": -4,
+      "y": -17,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -16,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -15,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -14,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -13,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -12,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": -4,
@@ -1932,6 +2502,60 @@
     },
     {
       "x": -4,
+      "y": -17,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -16,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -15,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -14,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -13,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -12,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
       "y": -8,
       "z": 4,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -2029,6 +2653,60 @@
       "z": -5,
       "name": "*Rock_Aqua_Cobble_Roof_State_Definitions_Corner_Left",
       "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": -17,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -16,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -15,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -3,
+      "y": -14,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -13,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -12,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -3,
+      "y": -11,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -10,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -9,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": -3,
@@ -2207,6 +2885,60 @@
       "z": -4,
       "name": "*Rock_Aqua_Cobble_Roof_State_Definitions_Inverted_Corner_Right",
       "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": -17,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -16,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -15,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -14,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -13,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -12,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -11,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -10,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -9,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -3,
@@ -2296,12 +3028,6 @@
     },
     {
       "x": -3,
-      "y": 4,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
       "y": 5,
       "z": -3,
       "name": "Furniture_Human_Ruins_Lantern_Ceiling"
@@ -2311,18 +3037,6 @@
       "y": 6,
       "z": -3,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
     },
     {
       "x": -3,
@@ -2362,6 +3076,60 @@
       "z": -3,
       "name": "*Rock_Aqua_Cobble_Roof_Hollow_State_Definitions_Corner_Left",
       "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": -17,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -16,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -15,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -14,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -13,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -12,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -11,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -10,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -9,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -3,
@@ -2431,39 +3199,9 @@
     },
     {
       "x": -3,
-      "y": 3,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
       "y": 6,
       "z": -2,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": -3,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
     },
     {
       "x": -3,
@@ -2509,6 +3247,60 @@
     },
     {
       "x": -3,
+      "y": -17,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -16,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -15,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -14,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -13,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -12,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -11,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -10,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -9,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
       "y": -8,
       "z": -1,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -2575,24 +3367,6 @@
     },
     {
       "x": -3,
-      "y": 3,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
       "y": 6,
       "z": -1,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -2604,12 +3378,6 @@
       "z": -1,
       "name": "Plant_Moss_Blue",
       "support": 15
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": -3,
@@ -2661,6 +3429,60 @@
       "z": -1,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": -17,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -16,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -15,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -14,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -13,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -12,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -11,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -10,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -9,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -3,
@@ -2737,33 +3559,9 @@
     },
     {
       "x": -3,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
       "y": 7,
       "z": 0,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": -3,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": -3,
@@ -2824,6 +3622,60 @@
       "z": 0,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": -17,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -16,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -15,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -14,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -13,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -12,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -11,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -10,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -9,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -3,
@@ -2890,30 +3742,6 @@
       "y": 2,
       "z": 1,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": -3,
-      "y": 3,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
     },
     {
       "x": -3,
@@ -2978,6 +3806,60 @@
     },
     {
       "x": -3,
+      "y": -17,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -16,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -15,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -14,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -13,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -12,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -11,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -10,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -9,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
       "y": -8,
       "z": 2,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -3044,30 +3926,6 @@
     },
     {
       "x": -3,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
       "y": 7,
       "z": 2,
       "name": "Rock_Aqua_Brick_Beam",
@@ -3098,6 +3956,60 @@
       "z": 2,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": -17,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -16,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -15,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -14,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -13,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -12,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -3,
@@ -3173,25 +4085,6 @@
     },
     {
       "x": -3,
-      "y": 4,
-      "z": 3,
-      "name": "Plant_Seaweed_Grass_Tall",
-      "support": 15
-    },
-    {
-      "x": -3,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -3,
       "y": 7,
       "z": 3,
       "name": "Rock_Aqua_Brick_Beam",
@@ -3230,6 +4123,60 @@
       "z": 3,
       "name": "*Rock_Aqua_Cobble_Roof_Hollow_State_Definitions_Corner_Left",
       "rotation": 3
+    },
+    {
+      "x": -3,
+      "y": -17,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -16,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -15,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -3,
+      "y": -14,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -13,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -12,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -3,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": -3,
@@ -3477,6 +4424,60 @@
     },
     {
       "x": -2,
+      "y": -17,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -16,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -15,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -2,
+      "y": -14,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -13,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -12,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -2,
+      "y": -11,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -10,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -9,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -2,
       "y": -8,
       "z": -4,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -3647,6 +4648,60 @@
     },
     {
       "x": -2,
+      "y": -17,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -16,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -15,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -14,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -13,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -12,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -11,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -10,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -9,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
       "y": -8,
       "z": -3,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -3713,39 +4768,9 @@
     },
     {
       "x": -2,
-      "y": 3,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
       "y": 6,
       "z": -3,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
     },
     {
       "x": -2,
@@ -3774,6 +4799,60 @@
       "z": -3,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": -17,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -16,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -15,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -14,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -13,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -12,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -11,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -10,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -9,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -2,
@@ -3843,39 +4922,9 @@
     },
     {
       "x": -2,
-      "y": 3,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
       "y": 6,
       "z": -2,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
     },
     {
       "x": -2,
@@ -3905,6 +4954,60 @@
       "z": -2,
       "name": "*Rock_Aqua_Cobble_Roof_Hollow_State_Definitions_Corner_Right",
       "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": -17,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -16,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -15,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -14,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -13,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -12,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -11,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -10,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -9,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -2,
@@ -3975,40 +5078,10 @@
     },
     {
       "x": -2,
-      "y": 3,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
       "y": 6,
       "z": -1,
       "name": "Rock_Runic_Blue_Brick_Half",
       "rotation": 8
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": -2,
@@ -4038,6 +5111,60 @@
       "z": -1,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": -17,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -16,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -15,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -14,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -13,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -12,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -11,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -10,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -9,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -2,
@@ -4139,12 +5266,6 @@
     },
     {
       "x": -2,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
       "y": 11,
       "z": 0,
       "name": "Rock_Runic_Teal_Brick_Half",
@@ -4177,6 +5298,60 @@
       "name": "Rock_Aqua_Cobble_Roof_Steep",
       "filler": 1024,
       "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": -17,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -16,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -15,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -14,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -13,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -12,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -11,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -10,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -9,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -2,
@@ -4246,30 +5421,6 @@
     },
     {
       "x": -2,
-      "y": 3,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
       "y": 7,
       "z": 1,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -4316,6 +5467,60 @@
       "z": 1,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": -17,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -16,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -15,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -14,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -13,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -12,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -11,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -10,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -9,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -2,
@@ -4385,36 +5590,6 @@
     },
     {
       "x": -2,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
       "y": 8,
       "z": 2,
       "name": "Rock_Runic_Blue_Brick_Half"
@@ -4437,6 +5612,60 @@
       "y": 23,
       "z": 2,
       "name": "*Rock_Aqua_Cobble_Roof_Hollow_State_Definitions_Corner_Right"
+    },
+    {
+      "x": -2,
+      "y": -17,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -16,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -15,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -14,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -13,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -12,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -2,
@@ -4513,30 +5742,6 @@
     },
     {
       "x": -2,
-      "y": 4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -2,
       "y": 8,
       "z": 3,
       "name": "Rock_Runic_Blue_Brick_Half"
@@ -4559,6 +5764,60 @@
       "y": 22,
       "z": 3,
       "name": "Rock_Aqua_Cobble_Roof_Hollow"
+    },
+    {
+      "x": -2,
+      "y": -17,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -16,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -15,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -2,
+      "y": -14,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -13,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -12,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -2,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": -2,
@@ -4772,6 +6031,60 @@
     },
     {
       "x": -1,
+      "y": -17,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -16,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -15,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -1,
+      "y": -14,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -13,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -12,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -1,
+      "y": -11,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -1,
       "y": -8,
       "z": -5,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -4890,6 +6203,60 @@
       "z": -5,
       "name": "Rock_Aqua_Cobble_Roof",
       "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": -17,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -16,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -15,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -14,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -13,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -12,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -11,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -1,
@@ -5062,6 +6429,60 @@
     },
     {
       "x": -1,
+      "y": -17,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -16,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -15,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -14,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -13,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -12,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -11,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
       "y": -8,
       "z": -3,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -5128,12 +6549,6 @@
     },
     {
       "x": -1,
-      "y": 3,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
       "y": 4,
       "z": -3,
       "name": "Plant_Moss_Wall_Blue",
@@ -5145,24 +6560,6 @@
       "z": -3,
       "name": "Rock_Runic_Blue_Brick_Half",
       "rotation": 8
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -5199,6 +6596,60 @@
       "z": -3,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": -17,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -16,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -15,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -14,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -13,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -12,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -11,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -1,
@@ -5275,12 +6726,6 @@
     },
     {
       "x": -1,
-      "y": 4,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
       "y": 5,
       "z": -2,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -5291,18 +6736,6 @@
       "y": 6,
       "z": -2,
       "name": "Cloth_Roof_Blue_Flat"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -5323,6 +6756,60 @@
       "z": -2,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": -17,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -16,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -15,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -14,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -13,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -12,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -11,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -1,
@@ -5399,36 +6886,6 @@
     },
     {
       "x": -1,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
       "y": 11,
       "z": -1,
       "name": "Rock_Runic_Teal_Brick_Half",
@@ -5439,12 +6896,6 @@
       "y": 12,
       "z": -1,
       "name": "Rock_Aqua_Brick_Ornate"
-    },
-    {
-      "x": -1,
-      "y": 13,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -5478,6 +6929,60 @@
       "name": "*Rock_Aqua_Cobble_Roof_Steep_State_Definitions_Corner_Left",
       "filler": 1024,
       "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": -17,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -16,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -15,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -14,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -13,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -12,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -11,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -1,
@@ -5554,36 +7059,6 @@
     },
     {
       "x": -1,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
       "y": 11,
       "z": 0,
       "name": "*Rock_Runic_Teal_Brick_Half_State_Definitions_Block",
@@ -5628,6 +7103,60 @@
       "name": "Rock_Aqua_Cobble_Roof_Steep",
       "filler": 1024,
       "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": -17,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -16,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -15,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -14,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -13,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -12,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -11,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -1,
@@ -5694,42 +7223,6 @@
       "y": 2,
       "z": 1,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 8,
-      "z": 1,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -5786,6 +7279,60 @@
     },
     {
       "x": -1,
+      "y": -17,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -16,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -15,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -14,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -13,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -12,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -11,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
       "y": -8,
       "z": 2,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -5849,36 +7396,6 @@
       "y": 2,
       "z": 2,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -5910,6 +7427,60 @@
     },
     {
       "x": -1,
+      "y": -17,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -16,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -15,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -14,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -13,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -12,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
       "y": -8,
       "z": 3,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -5973,36 +7544,6 @@
       "y": 2,
       "z": 3,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": -1,
-      "y": 3,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -1,
-      "y": 7,
-      "z": 3,
-      "name": "Empty"
     },
     {
       "x": -1,
@@ -6038,6 +7579,60 @@
       "y": 22,
       "z": 3,
       "name": "Rock_Aqua_Cobble_Roof_Hollow"
+    },
+    {
+      "x": -1,
+      "y": -17,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -16,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -15,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -14,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -13,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -12,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": -1,
@@ -6199,6 +7794,60 @@
     },
     {
       "x": -1,
+      "y": -17,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -16,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -15,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -1,
+      "y": -14,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -13,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -12,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -1,
+      "y": -11,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -10,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": -9,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -1,
       "y": -8,
       "z": 5,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -6318,6 +7967,60 @@
     },
     {
       "x": 0,
+      "y": -17,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -16,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -15,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 0,
+      "y": -14,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -13,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 0,
+      "y": -11,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 0,
       "y": -8,
       "z": -5,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -6417,6 +8120,60 @@
       "z": -5,
       "name": "Rock_Aqua_Cobble_Roof",
       "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": -17,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -16,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -15,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -14,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -13,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -11,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 0,
@@ -6584,6 +8341,60 @@
     },
     {
       "x": 0,
+      "y": -17,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -16,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -15,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -14,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -13,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -11,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
       "y": -8,
       "z": -3,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -6657,33 +8468,9 @@
     },
     {
       "x": 0,
-      "y": 4,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 5,
       "z": -3,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
     },
     {
       "x": 0,
@@ -6726,6 +8513,60 @@
       "z": -3,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": -17,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -16,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -15,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -14,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -13,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -11,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 0,
@@ -6814,24 +8655,6 @@
     },
     {
       "x": 0,
-      "y": 6,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 11,
       "z": -2,
       "name": "Rock_Runic_Teal_Brick_Half",
@@ -6864,6 +8687,60 @@
       "name": "Rock_Aqua_Cobble_Roof_Steep",
       "filler": 1024,
       "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": -17,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -16,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -15,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -14,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -13,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -11,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 0,
@@ -6933,42 +8810,6 @@
     },
     {
       "x": 0,
-      "y": 3,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 11,
       "z": -1,
       "name": "*Rock_Runic_Teal_Brick_Half_State_Definitions_Block",
@@ -7012,6 +8853,60 @@
       "name": "Rock_Aqua_Cobble_Roof_Steep",
       "filler": 1024,
       "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": -17,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -16,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -15,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -14,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -13,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -11,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 0,
@@ -7081,42 +8976,6 @@
     },
     {
       "x": 0,
-      "y": 3,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 20,
       "z": 0,
       "name": "Furniture_Temple_Light_Lantern_Ceiling"
@@ -7170,6 +9029,60 @@
       "z": 0,
       "name": "Rock_Aqua_Stalactite_Large",
       "filler": 1024
+    },
+    {
+      "x": 0,
+      "y": -17,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -16,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -15,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -14,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -13,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -11,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 0,
@@ -7246,36 +9159,6 @@
     },
     {
       "x": 0,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 8,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 21,
       "z": 1,
       "name": "Rock_Aqua_Cobble"
@@ -7304,6 +9187,60 @@
       "z": 1,
       "name": "Rock_Aqua_Cobble_Roof_Steep",
       "filler": 1024
+    },
+    {
+      "x": 0,
+      "y": -17,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -16,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -15,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -14,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -13,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -11,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 0,
@@ -7373,36 +9310,6 @@
     },
     {
       "x": 0,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 8,
       "z": 2,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -7433,6 +9340,60 @@
       "z": 2,
       "name": "Rock_Aqua_Cobble_Roof_Steep",
       "filler": 1024
+    },
+    {
+      "x": 0,
+      "y": -17,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -16,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -15,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -14,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -13,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 0,
@@ -7509,30 +9470,6 @@
     },
     {
       "x": 0,
-      "y": 4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 7,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 8,
       "z": 3,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -7576,6 +9513,60 @@
       "y": 22,
       "z": 3,
       "name": "Rock_Aqua_Cobble_Roof_Hollow"
+    },
+    {
+      "x": 0,
+      "y": -17,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -16,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -15,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -14,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -13,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 0,
@@ -7657,12 +9648,6 @@
     },
     {
       "x": 0,
-      "y": 5,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 6,
       "z": 4,
       "name": "Rock_Aqua_Brick_Stairs",
@@ -7731,6 +9716,60 @@
     },
     {
       "x": 0,
+      "y": -17,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -16,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -15,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 0,
+      "y": -14,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -13,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 0,
+      "y": -11,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -10,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": -9,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 0,
       "y": -8,
       "z": 5,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -7792,18 +9831,6 @@
     },
     {
       "x": 0,
-      "y": 4,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
-      "y": 5,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 0,
       "y": 6,
       "z": 5,
       "name": "Rock_Aqua_Brick_Stairs"
@@ -7846,6 +9873,60 @@
       "z": -6,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -17,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -16,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -15,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 1,
+      "y": -14,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -13,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": -5,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": 1,
@@ -7970,6 +10051,60 @@
     },
     {
       "x": 1,
+      "y": -17,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -16,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -15,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -14,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -13,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
       "y": -8,
       "z": -4,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -8140,6 +10275,60 @@
     },
     {
       "x": 1,
+      "y": -17,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -16,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -15,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -14,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -13,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
       "y": -8,
       "z": -3,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -8226,24 +10415,6 @@
     },
     {
       "x": 1,
-      "y": 6,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
       "y": 11,
       "z": -3,
       "name": "*Rock_Runic_Teal_Brick_Half_State_Definitions_Block",
@@ -8277,6 +10448,60 @@
       "z": -3,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -17,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -16,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -15,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -14,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -13,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 1,
@@ -8360,30 +10585,6 @@
     },
     {
       "x": 1,
-      "y": 5,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
       "y": 11,
       "z": -2,
       "name": "*Rock_Runic_Teal_Brick_Half_State_Definitions_Block",
@@ -8401,6 +10602,60 @@
       "z": -2,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": -17,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -16,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -15,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -14,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -13,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 1,
@@ -8474,36 +10729,6 @@
       "z": -1,
       "name": "Plant_Moss_Blue",
       "support": 15
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": 1,
@@ -8555,6 +10780,60 @@
     },
     {
       "x": 1,
+      "y": -17,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -16,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -15,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -14,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -13,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
       "y": -8,
       "z": 0,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -8628,36 +10907,6 @@
     },
     {
       "x": 1,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
       "y": 21,
       "z": 0,
       "name": "Rock_Aqua_Cobble"
@@ -8688,6 +10937,60 @@
       "name": "Rock_Aqua_Cobble_Roof_Steep",
       "filler": 1024,
       "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -17,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -16,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -15,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -14,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -13,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 1,
@@ -8757,42 +11060,6 @@
     },
     {
       "x": 1,
-      "y": 3,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 8,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
       "y": 21,
       "z": 1,
       "name": "Rock_Aqua_Cobble"
@@ -8823,6 +11090,60 @@
       "name": "*Rock_Aqua_Cobble_Roof_Steep_State_Definitions_Corner_Right",
       "filler": 1024,
       "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": -17,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -16,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -15,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -14,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -13,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 1,
@@ -8889,36 +11210,6 @@
       "y": 2,
       "z": 2,
       "name": "Rock_Runic_Teal_Brick"
-    },
-    {
-      "x": 1,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
     },
     {
       "x": 1,
@@ -8951,6 +11242,60 @@
       "y": 23,
       "z": 2,
       "name": "Rock_Aqua_Cobble_Roof_Hollow"
+    },
+    {
+      "x": 1,
+      "y": -17,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -16,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -15,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -14,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -13,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 1,
@@ -9021,36 +11366,6 @@
     },
     {
       "x": 1,
-      "y": 3,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
-      "y": 7,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 1,
       "y": 8,
       "z": 3,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -9083,6 +11398,60 @@
       "y": 22,
       "z": 3,
       "name": "Rock_Aqua_Cobble_Roof_Hollow"
+    },
+    {
+      "x": 1,
+      "y": -17,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -16,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -15,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -14,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -13,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 1,
@@ -9243,6 +11612,60 @@
     },
     {
       "x": 1,
+      "y": -17,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -16,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -15,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 1,
+      "y": -14,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -13,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -12,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 1,
+      "y": -11,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -10,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": -9,
+      "z": 5,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 1,
       "y": -8,
       "z": 5,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -9400,6 +11823,60 @@
       "z": -5,
       "name": "Rock_Aqua_Cobble_Roof",
       "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": -17,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -16,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -15,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 2,
+      "y": -14,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -13,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -12,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 2,
+      "y": -11,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -10,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -9,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": 2,
@@ -9573,6 +12050,60 @@
     },
     {
       "x": 2,
+      "y": -17,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -16,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -15,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -14,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -13,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -12,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -11,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -10,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -9,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
       "y": -8,
       "z": -3,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -9649,30 +12180,6 @@
       "y": 4,
       "z": -3,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -3,
-      "name": "Empty"
     },
     {
       "x": 2,
@@ -9709,6 +12216,60 @@
     },
     {
       "x": 2,
+      "y": -17,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -16,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -15,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -14,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -13,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -12,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -11,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -10,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -9,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
       "y": -8,
       "z": -2,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -9788,30 +12349,6 @@
     },
     {
       "x": 2,
-      "y": 5,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
       "y": 11,
       "z": -2,
       "name": "Rock_Runic_Blue_Brick_Half"
@@ -9837,6 +12374,60 @@
       "z": -2,
       "name": "*Rock_Aqua_Cobble_Roof_Hollow_State_Definitions_Corner_Right",
       "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": -17,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -16,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -15,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -14,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -13,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -12,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -11,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -10,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -9,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 2,
@@ -9916,30 +12507,6 @@
       "y": 4,
       "z": -1,
       "name": "Cloth_Roof_Blue_Flat"
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": 2,
@@ -9969,6 +12536,60 @@
     },
     {
       "x": 2,
+      "y": -17,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -16,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -15,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -14,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -13,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -12,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -11,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -10,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -9,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
       "y": -8,
       "z": 0,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -10038,36 +12659,6 @@
       "y": 3,
       "z": 0,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": 2,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": 2,
@@ -10102,6 +12693,60 @@
       "name": "Rock_Aqua_Cobble_Roof_Steep",
       "filler": 1024,
       "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -17,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -16,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -15,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -14,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -13,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -12,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -11,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -10,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -9,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 2,
@@ -10178,36 +12823,6 @@
     },
     {
       "x": 2,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
       "y": 9,
       "z": 1,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -10232,6 +12847,60 @@
       "z": 1,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -17,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -16,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -15,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -14,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -13,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -12,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -11,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -10,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -9,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 2,
@@ -10301,42 +12970,6 @@
     },
     {
       "x": 2,
-      "y": 3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
       "y": 9,
       "z": 2,
       "name": "Rock_Runic_Blue_Brick_Half"
@@ -10362,6 +12995,60 @@
       "z": 2,
       "name": "*Rock_Aqua_Cobble_Roof_Hollow_State_Definitions_Corner_Right",
       "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": -17,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -16,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -15,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -14,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -13,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -12,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 2,
@@ -10444,30 +13131,6 @@
     },
     {
       "x": 2,
-      "y": 5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 7,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
-      "y": 8,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 2,
       "y": 9,
       "z": 3,
       "name": "Rock_Runic_Blue_Brick_Half"
@@ -10491,6 +13154,60 @@
       "y": 22,
       "z": 3,
       "name": "Rock_Aqua_Cobble_Roof_Hollow"
+    },
+    {
+      "x": 2,
+      "y": -17,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -16,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -15,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 2,
+      "y": -14,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -13,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -12,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 2,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": 2,
@@ -10716,6 +13433,60 @@
     },
     {
       "x": 3,
+      "y": -17,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -16,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -15,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 3,
+      "y": -14,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -13,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -12,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 3,
+      "y": -11,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -10,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -9,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 3,
       "y": -8,
       "z": -4,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -10894,6 +13665,60 @@
     },
     {
       "x": 3,
+      "y": -17,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -16,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -15,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -14,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -13,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -12,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -11,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -10,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -9,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
       "y": -8,
       "z": -3,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -10975,18 +13800,6 @@
     },
     {
       "x": 3,
-      "y": 5,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": -3,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
       "y": 7,
       "z": -3,
       "name": "Furniture_Temple_Dark_Platform",
@@ -11029,6 +13842,60 @@
       "z": -3,
       "name": "*Rock_Aqua_Cobble_Roof_Hollow_State_Definitions_Corner_Left",
       "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -17,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -16,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -15,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -14,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -13,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -12,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -11,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -10,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -9,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 3,
@@ -11111,28 +13978,10 @@
     },
     {
       "x": 3,
-      "y": 5,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": -2,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
       "y": 7,
       "z": -2,
       "name": "Furniture_Temple_Dark_Trapdoor",
       "rotation": 3
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": -2,
-      "name": "Empty"
     },
     {
       "x": 3,
@@ -11167,6 +14016,60 @@
       "z": -2,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -17,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -16,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -15,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -14,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -13,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -12,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -11,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -10,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -9,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 3,
@@ -11240,24 +14143,6 @@
       "z": -1,
       "name": "Rock_Runic_Blue_Brick_Half",
       "rotation": 8
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": -1,
-      "name": "Empty"
     },
     {
       "x": 3,
@@ -11312,6 +14197,60 @@
     },
     {
       "x": 3,
+      "y": -17,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -16,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -15,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -14,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -13,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -12,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -11,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -10,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -9,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
       "y": -8,
       "z": 0,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -11381,24 +14320,6 @@
       "y": 3,
       "z": 0,
       "name": "Rock_Runic_Blue_Brick_Half"
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": 3,
@@ -11460,6 +14381,60 @@
       "z": 0,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -17,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -16,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -15,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -14,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -13,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -12,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -11,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -10,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -9,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 3,
@@ -11537,36 +14512,6 @@
     },
     {
       "x": 3,
-      "y": 4,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
       "y": 9,
       "z": 1,
       "name": "Rock_Runic_Blue_Brick_Half",
@@ -11606,6 +14551,60 @@
       "z": 1,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -17,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -16,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -15,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -14,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -13,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -12,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -11,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -10,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -9,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 3,
@@ -11687,30 +14686,6 @@
     },
     {
       "x": 3,
-      "y": 5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 7,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
-      "y": 8,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 3,
       "y": 9,
       "z": 2,
       "name": "Rock_Runic_Blue_Brick_Half"
@@ -11735,6 +14710,60 @@
       "z": 2,
       "name": "Rock_Aqua_Cobble_Roof_Hollow",
       "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": -17,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -16,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -15,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -14,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -13,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -12,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 3,
@@ -11868,6 +14897,60 @@
     },
     {
       "x": 3,
+      "y": -17,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -16,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -15,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 3,
+      "y": -14,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -13,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -12,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 3,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 3,
       "y": -8,
       "z": 4,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -12078,6 +15161,60 @@
     },
     {
       "x": 4,
+      "y": -17,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -16,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -15,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -14,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -13,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -12,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -11,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -10,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -9,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
       "y": -8,
       "z": -4,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -12142,6 +15279,60 @@
       "z": -4,
       "name": "*Rock_Aqua_Cobble_Roof_State_Definitions_Corner_Left",
       "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": -17,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -16,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -15,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -14,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -13,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -12,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -11,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -10,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -9,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": 4,
@@ -12323,6 +15514,60 @@
     },
     {
       "x": 4,
+      "y": -17,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -16,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -15,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -14,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -13,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -12,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -11,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -10,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -9,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
       "y": -8,
       "z": -2,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -12494,6 +15739,60 @@
     },
     {
       "x": 4,
+      "y": -17,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -16,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -15,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -14,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -13,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -12,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -11,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -10,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -9,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
       "y": -8,
       "z": -1,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -12663,6 +15962,60 @@
     },
     {
       "x": 4,
+      "y": -17,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -16,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -15,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -14,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -13,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -12,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -11,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -10,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -9,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
       "y": -8,
       "z": 0,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -12739,12 +16092,6 @@
       "z": 0,
       "name": "Furniture_Temple_Dark_Window",
       "rotation": 1
-    },
-    {
-      "x": 4,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
     },
     {
       "x": 4,
@@ -12834,6 +16181,60 @@
       "z": 0,
       "name": "Rock_Aqua_Cobble_Roof",
       "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": -17,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -16,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -15,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -14,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -13,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -12,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -11,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -10,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -9,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
     },
     {
       "x": 4,
@@ -13007,6 +16408,60 @@
     },
     {
       "x": 4,
+      "y": -17,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -16,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -15,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -14,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -13,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -12,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -11,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -10,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -9,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
       "y": -8,
       "z": 2,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -13174,6 +16629,60 @@
       "y": 19,
       "z": 2,
       "name": "*Rock_Aqua_Cobble_Roof_State_Definitions_Corner_Left"
+    },
+    {
+      "x": 4,
+      "y": -17,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -16,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -15,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -14,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -13,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -12,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -11,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -10,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -9,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": 4,
@@ -13352,6 +16861,60 @@
       "z": 3,
       "name": "*Rock_Aqua_Cobble_Roof_State_Definitions_Inverted_Corner_Right",
       "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": -17,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -16,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -15,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -14,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -13,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -12,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": -11,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -10,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": -9,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": 4,
@@ -13503,6 +17066,60 @@
     },
     {
       "x": 5,
+      "y": -17,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -16,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -15,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 5,
+      "y": -14,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -13,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -12,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 5,
+      "y": -11,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -10,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -9,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 5,
       "y": -8,
       "z": -1,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -13661,6 +17278,60 @@
     },
     {
       "x": 5,
+      "y": -17,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -16,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -15,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 5,
+      "y": -14,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -13,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -12,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 5,
+      "y": -11,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -10,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -9,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 5,
       "y": -8,
       "z": 0,
       "name": "Rock_Aqua_Brick_Smooth"
@@ -13722,18 +17393,6 @@
     },
     {
       "x": 5,
-      "y": 4,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": 5,
-      "z": 0,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
       "y": 6,
       "z": 0,
       "name": "Rock_Aqua_Brick_Stairs",
@@ -13786,6 +17445,60 @@
       "z": 0,
       "name": "Rock_Aqua_Cobble_Roof",
       "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": -17,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -16,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -15,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 5,
+      "y": -14,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -13,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -12,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 5,
+      "y": -11,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -10,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 5,
+      "y": -9,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Decorative"
     },
     {
       "x": 5,
@@ -14882,6 +18595,13 @@
     },
     {
       "x": -3,
+      "y": 18,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
       "y": 3,
       "z": -1,
       "name": "Water_Source",
@@ -14932,6 +18652,13 @@
     {
       "x": -3,
       "y": 12,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 18,
       "z": -1,
       "name": "Water_Source",
       "level": 1
@@ -14994,6 +18721,13 @@
     },
     {
       "x": -3,
+      "y": 18,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
       "y": 3,
       "z": 1,
       "name": "Water_Source",
@@ -15050,6 +18784,13 @@
     },
     {
       "x": -3,
+      "y": 18,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
       "y": 3,
       "z": 2,
       "name": "Water_Source",
@@ -15086,6 +18827,13 @@
     {
       "x": -3,
       "y": 8,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 18,
       "z": 2,
       "name": "Water_Source",
       "level": 1
@@ -15316,63 +19064,70 @@
     },
     {
       "x": -2,
-      "y": 2,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 3,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 4,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 5,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 6,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 7,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 8,
-      "z": -2,
-      "name": "Water_Source",
-      "level": 1
-    },
-    {
-      "x": -2,
-      "y": 11,
-      "z": -2,
+      "y": 18,
+      "z": -3,
       "name": "Water_Source",
       "level": 1
     },
     {
       "x": -2,
       "y": 2,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
       "z": -1,
       "name": "Water_Source",
       "level": 1
@@ -15471,6 +19226,13 @@
     {
       "x": -2,
       "y": 11,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 20,
       "z": 0,
       "name": "Water_Source",
       "level": 1
@@ -15611,6 +19373,13 @@
     {
       "x": -2,
       "y": 8,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 18,
       "z": 3,
       "name": "Water_Source",
       "level": 1
@@ -15778,6 +19547,13 @@
     },
     {
       "x": -1,
+      "y": 18,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
       "y": 3,
       "z": -2,
       "name": "Water_Source",
@@ -16066,6 +19842,13 @@
     {
       "x": -1,
       "y": 8,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 18,
       "z": 3,
       "name": "Water_Source",
       "level": 1
@@ -16247,6 +20030,13 @@
     },
     {
       "x": 0,
+      "y": 18,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
       "y": 3,
       "z": -2,
       "name": "Water_Source",
@@ -16290,6 +20080,13 @@
     {
       "x": 0,
       "y": 11,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 20,
       "z": -2,
       "name": "Water_Source",
       "level": 1
@@ -16394,6 +20191,13 @@
     },
     {
       "x": 0,
+      "y": 20,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
       "y": 3,
       "z": 1,
       "name": "Water_Source",
@@ -16472,6 +20276,13 @@
     {
       "x": 0,
       "y": 8,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 20,
       "z": 2,
       "name": "Water_Source",
       "level": 1
@@ -16528,6 +20339,13 @@
     {
       "x": 0,
       "y": 14,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 18,
       "z": 3,
       "name": "Water_Source",
       "level": 1
@@ -16717,6 +20535,13 @@
     {
       "x": 1,
       "y": 8,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 18,
       "z": -3,
       "name": "Water_Source",
       "level": 1
@@ -16990,6 +20815,13 @@
     {
       "x": 1,
       "y": 8,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 18,
       "z": 3,
       "name": "Water_Source",
       "level": 1
@@ -17157,6 +20989,13 @@
     },
     {
       "x": 2,
+      "y": 18,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
       "y": 3,
       "z": -2,
       "name": "Water_Source",
@@ -17311,6 +21150,13 @@
     },
     {
       "x": 2,
+      "y": 20,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
       "y": 3,
       "z": 1,
       "name": "Water_Source",
@@ -17452,6 +21298,13 @@
     {
       "x": 2,
       "y": 9,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 18,
       "z": 3,
       "name": "Water_Source",
       "level": 1
@@ -17689,6 +21542,13 @@
     },
     {
       "x": 3,
+      "y": 18,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
       "y": 3,
       "z": -1,
       "name": "Water_Source",
@@ -17732,6 +21592,13 @@
     {
       "x": 3,
       "y": 10,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 18,
       "z": -1,
       "name": "Water_Source",
       "level": 1
@@ -17801,6 +21668,13 @@
     },
     {
       "x": 3,
+      "y": 18,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
       "y": 3,
       "z": 1,
       "name": "Water_Source",
@@ -17857,6 +21731,13 @@
     },
     {
       "x": 3,
+      "y": 18,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
       "y": 3,
       "z": 2,
       "name": "Water_Source",
@@ -17900,6 +21781,13 @@
     {
       "x": 3,
       "y": 9,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 18,
       "z": 2,
       "name": "Water_Source",
       "level": 1
