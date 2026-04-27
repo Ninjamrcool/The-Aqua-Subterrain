@@ -6418,5 +6418,497 @@
       "name": "Rock_Aqua_Brick_Wall",
       "rotation": 1
     }
+  ],
+  "fluids": [
+    {
+      "x": -1,
+      "y": 17,
+      "z": -11,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": -11,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 19,
+      "z": -10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 20,
+      "z": -10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 22,
+      "z": -9,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 25,
+      "z": -8,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 24,
+      "z": -7,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 25,
+      "z": -7,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 24,
+      "z": -6,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 24,
+      "z": -5,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 25,
+      "z": -5,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 22,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 19,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 20,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 19,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 20,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 25,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 22,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 25,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 25,
+      "z": 4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 24,
+      "z": 6,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 25,
+      "z": 6,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 24,
+      "z": 7,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 22,
+      "z": 9,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 23,
+      "z": 9,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 19,
+      "z": 10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 20,
+      "z": 10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 19,
+      "z": -10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 20,
+      "z": -10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 22,
+      "z": -9,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 24,
+      "z": -7,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 24,
+      "z": -6,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 24,
+      "z": -5,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 22,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 19,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 20,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 19,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 20,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 21,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 22,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 24,
+      "z": 7,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 22,
+      "z": 9,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 19,
+      "z": 10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 20,
+      "z": 10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 21,
+      "z": 10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 19,
+      "z": -10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 20,
+      "z": -10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 21,
+      "z": -10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 22,
+      "z": -9,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 24,
+      "z": -7,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 24,
+      "z": -6,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 24,
+      "z": -5,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 22,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 25,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 19,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 20,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 25,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 19,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 20,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 22,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 23,
+      "z": 4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 25,
+      "z": 4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 24,
+      "z": 7,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 22,
+      "z": 9,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 19,
+      "z": 10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 20,
+      "z": 10,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 21,
+      "z": 10,
+      "name": "Water_Source",
+      "level": 1
+    }
   ]
 }

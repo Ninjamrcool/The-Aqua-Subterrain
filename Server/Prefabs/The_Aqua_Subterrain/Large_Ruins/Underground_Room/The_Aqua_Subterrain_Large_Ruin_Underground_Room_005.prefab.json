@@ -1,0 +1,4773 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": -4,
+  "blocks": [
+    {
+      "x": -4,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Pillar_Base"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Pillar_Middle"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Pillar_Middle"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Beam"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Furniture_Human_Ruins_Lantern"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Temple_Dark_Stool",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Aqua_Stalactite_Small"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Pillar_Base"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Pillar_Middle"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Pillar_Middle"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Temple_Dark_Table",
+      "filler": 992,
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Rubble_Aqua",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Furniture_Temple_Dark_Table",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Potion_Mana_Small"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Rubble_Aqua_Medium",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Rubble_Aqua",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Temple_Dark_Table",
+      "filler": 993,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Furniture_Temple_Dark_Table",
+      "filler": 1,
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Furniture_Temple_Dark_Stool",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Aqua_Stalactite_Small"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Rubble_Aqua",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Rubble_Aqua_Medium",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -4,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Furniture_Temple_Dark_Stool",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Temple_Dark_Table",
+      "filler": 992,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Temple_Dark_Table",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Rubble_Aqua_Medium",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Rubble_Aqua",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Temple_Dark_Table",
+      "filler": 993,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Potion_Mana"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Temple_Dark_Table",
+      "filler": 1,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Stone_Aqua_Brick_Smooth_Half",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Human_Ruins_Planter"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Seaweed_Blue_Stack"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 3,
+      "name": "Plant_Seaweed_Blue_Stack"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 3,
+      "name": "Empty"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Pillar_Base"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Pillar_Middle"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Pillar_Middle"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Furniture_Human_Ruins_Planter"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Flower_Orchid_Blue"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Temple_Dark_Stool",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Beam"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Furniture_Human_Ruins_Lantern"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Pillar_Base"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Pillar_Middle"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Pillar_Middle"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Pillar_Base",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Stone_Aqua"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Aqua_Brick"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Decorative"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "Rock_Aqua_Brick_Smooth"
+    }
+  ],
+  "fluids": [
+    {
+      "x": -4,
+      "y": 2,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 1,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 2,
+      "name": "Water_Source",
+      "level": 1
+    }
+  ]
+}
