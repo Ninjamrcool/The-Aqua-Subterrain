@@ -1139,48 +1139,9 @@
 				}
 			}
 		}, {
-			"$NodeId":	"Runtime-87c573dd-e0dd-43b1-b8db-575f444b3550",
-			"Skip":	false,
-			"Runtime":	1,
-			"PropDistribution":	{
-				"$NodeId":	"Assigned.PropDistribution-d2ac3339-917b-4f75-a115-e8ac67824c46",
-				"Type":	"Assigned",
-				"PropDistribution":	{
-					"$NodeId":	"Constant.PropDistribution-a3f3e286-9462-4fe4-867c-9fd4fe2ab492",
-					"Type":	"Constant",
-					"Positions":	{
-						"$NodeId":	"ImportedPositions-4b7a818b-eb81-42bc-b0cd-897a7ee7fbc6",
-						"Type":	"Imported",
-						"Name":	"CoralColumnsPositions",
-						"Skip":	false
-					}
-				},
-				"Assignments":	{
-					"$NodeId":	"FieldFunction.Assignments-94239f9c-9135-4867-bf1d-61a5fabd4fbf",
-					"Type":	"FieldFunction",
-					"ExportAs":	"",
-					"FieldFunction":	{
-						"$NodeId":	"ImportedDensityNode-bb1b060f-da4f-42f3-9097-6cf76d6a03bc",
-						"Type":	"Imported",
-						"Skip":	false,
-						"Name":	"GroundPlateauDensity"
-					},
-					"Delimiters":	[{
-							"$NodeId":	"Delimiter.FieldFunction.Assignments-acebe687-e83c-4bd2-af28-e28575ad5654",
-							"Max":	1,
-							"Min":	0.8,
-							"Assignments":	{
-								"$NodeId":	"Imported.Assignments-6d0e8abc-1fa2-48d9-b3f1-1cbbdc364659",
-								"Type":	"Imported",
-								"Name":	"The_Aqua_Subterrain_Columns_Upper"
-							}
-						}]
-				}
-			}
-		}, {
 			"$NodeId":	"Runtime-33168841-e6cf-46e0-8f31-fcac88bf1565",
 			"Skip":	false,
-			"Runtime":	1,
+			"Runtime":	0,
 			"PropDistribution":	{
 				"$NodeId":	"Assigned.PropDistribution-72d4763f-b832-42ac-be19-cdefbcaab93d",
 				"Type":	"Assigned",
@@ -1236,6 +1197,45 @@
 								"$NodeId":	"Imported.Assignments-bd977fc6-a527-4b60-a5de-44326238af4c",
 								"Type":	"Imported",
 								"Name":	"The_Aqua_Subterrain_Large_Ruins"
+							}
+						}]
+				}
+			}
+		}, {
+			"$NodeId":	"Runtime-87c573dd-e0dd-43b1-b8db-575f444b3550",
+			"Skip":	false,
+			"Runtime":	1,
+			"PropDistribution":	{
+				"$NodeId":	"Assigned.PropDistribution-d2ac3339-917b-4f75-a115-e8ac67824c46",
+				"Type":	"Assigned",
+				"PropDistribution":	{
+					"$NodeId":	"Constant.PropDistribution-a3f3e286-9462-4fe4-867c-9fd4fe2ab492",
+					"Type":	"Constant",
+					"Positions":	{
+						"$NodeId":	"ImportedPositions-4b7a818b-eb81-42bc-b0cd-897a7ee7fbc6",
+						"Type":	"Imported",
+						"Name":	"CoralColumnsPositions",
+						"Skip":	false
+					}
+				},
+				"Assignments":	{
+					"$NodeId":	"FieldFunction.Assignments-94239f9c-9135-4867-bf1d-61a5fabd4fbf",
+					"Type":	"FieldFunction",
+					"ExportAs":	"",
+					"FieldFunction":	{
+						"$NodeId":	"ImportedDensityNode-bb1b060f-da4f-42f3-9097-6cf76d6a03bc",
+						"Type":	"Imported",
+						"Skip":	false,
+						"Name":	"GroundPlateauDensity"
+					},
+					"Delimiters":	[{
+							"$NodeId":	"Delimiter.FieldFunction.Assignments-acebe687-e83c-4bd2-af28-e28575ad5654",
+							"Max":	1,
+							"Min":	0.8,
+							"Assignments":	{
+								"$NodeId":	"Imported.Assignments-6d0e8abc-1fa2-48d9-b3f1-1cbbdc364659",
+								"Type":	"Imported",
+								"Name":	"The_Aqua_Subterrain_Columns_Upper"
 							}
 						}]
 				}
@@ -3453,50 +3453,50 @@
 			},
 			"Runtime-87c573dd-e0dd-43b1-b8db-575f444b3550":	{
 				"$Position":	{
-					"$x":	-1506,
-					"$y":	20912
+					"$x":	-1703,
+					"$y":	22111
 				}
 			},
 			"Assigned.PropDistribution-d2ac3339-917b-4f75-a115-e8ac67824c46":	{
 				"$Position":	{
-					"$x":	-844,
-					"$y":	20987
+					"$x":	-1041,
+					"$y":	22186
 				}
 			},
 			"Constant.PropDistribution-a3f3e286-9462-4fe4-867c-9fd4fe2ab492":	{
 				"$Position":	{
-					"$x":	-75,
-					"$y":	20985
+					"$x":	-272,
+					"$y":	22184
 				}
 			},
 			"ImportedPositions-4b7a818b-eb81-42bc-b0cd-897a7ee7fbc6":	{
 				"$Position":	{
-					"$x":	650,
-					"$y":	20985
+					"$x":	453,
+					"$y":	22184
 				}
 			},
 			"FieldFunction.Assignments-94239f9c-9135-4867-bf1d-61a5fabd4fbf":	{
 				"$Position":	{
-					"$x":	-69,
-					"$y":	21256
+					"$x":	-266,
+					"$y":	22455
 				}
 			},
 			"ImportedDensityNode-bb1b060f-da4f-42f3-9097-6cf76d6a03bc":	{
 				"$Position":	{
-					"$x":	711,
-					"$y":	21247
+					"$x":	514,
+					"$y":	22446
 				}
 			},
 			"Delimiter.FieldFunction.Assignments-acebe687-e83c-4bd2-af28-e28575ad5654":	{
 				"$Position":	{
-					"$x":	705,
-					"$y":	21509
+					"$x":	508,
+					"$y":	22708
 				}
 			},
 			"Imported.Assignments-6d0e8abc-1fa2-48d9-b3f1-1cbbdc364659":	{
 				"$Position":	{
-					"$x":	1288,
-					"$y":	21510
+					"$x":	1091,
+					"$y":	22709
 				}
 			},
 			"Runtime-7d9f3ffb-f284-4a5c-9a18-69f8bf1e2c98":	{
@@ -4545,74 +4545,74 @@
 			},
 			"Runtime-33168841-e6cf-46e0-8f31-fcac88bf1565":	{
 				"$Position":	{
-					"$x":	-1680,
-					"$y":	22061
+					"$x":	-1655,
+					"$y":	20862
 				}
 			},
 			"Assigned.PropDistribution-72d4763f-b832-42ac-be19-cdefbcaab93d":	{
 				"$Position":	{
-					"$x":	-1000,
-					"$y":	22140
+					"$x":	-975,
+					"$y":	20941
 				}
 			},
 			"Constant.PropDistribution-ef4e5ed9-b1ef-49e0-981e-3e2ba2db29f4":	{
 				"$Position":	{
-					"$x":	-231,
-					"$y":	22138
+					"$x":	-206,
+					"$y":	20939
 				}
 			},
 			"Scaler.Positions-fd7c2843-2fde-447e-b710-7943826e1aa2":	{
 				"$Position":	{
-					"$x":	484,
-					"$y":	22128
+					"$x":	509,
+					"$y":	20929
 				}
 			},
 			"Point3D-75cb2b92-5a85-4fa6-b3cf-a31e85ca7201":	{
 				"$Position":	{
-					"$x":	1222,
-					"$y":	22393
+					"$x":	1247,
+					"$y":	21194
 				}
 			},
 			"BaseHeight.Positions-723fd10b-50dc-4806-bb84-a644310ceb26":	{
 				"$Position":	{
-					"$x":	1193,
-					"$y":	22127
+					"$x":	1218,
+					"$y":	20928
 				}
 			},
 			"Jitter2d.Positions-d1dc62b2-b1b5-45b4-bdd1-afb9e5c8f355":	{
 				"$Position":	{
-					"$x":	1933,
-					"$y":	22127
+					"$x":	1958,
+					"$y":	20928
 				}
 			},
 			"SquareGrid2d.Positions-6ee24909-1fc4-463d-9b98-4cddfcdaf927":	{
 				"$Position":	{
-					"$x":	2625,
-					"$y":	22127
+					"$x":	2650,
+					"$y":	20928
 				}
 			},
 			"FieldFunction.Assignments-c9a60278-414e-4880-9d45-4497cd4d1f0d":	{
 				"$Position":	{
-					"$x":	-250,
-					"$y":	22472
+					"$x":	-225,
+					"$y":	21273
 				}
 			},
 			"ImportedDensityNode-aa794590-8283-42ae-b238-809c5cf3a26f":	{
 				"$Position":	{
-					"$x":	512,
-					"$y":	22483
+					"$x":	537,
+					"$y":	21284
 				}
 			},
 			"Delimiter.FieldFunction.Assignments-0606523c-e2a6-43b8-89de-afda7bca3c4f":	{
 				"$Position":	{
-					"$x":	520,
-					"$y":	22733
+					"$x":	545,
+					"$y":	21534
 				}
 			},
 			"Imported.Assignments-bd977fc6-a527-4b60-a5de-44326238af4c":	{
 				"$Position":	{
-					"$x":	1127,
-					"$y":	22737
+					"$x":	1152,
+					"$y":	21538
 				}
 			}
 		},
@@ -4821,11 +4821,11 @@
 				"$name":	"Blue Seaweed"
 			}, {
 				"$Position":	{
-					"$x":	-1653.5,
-					"$y":	20723
+					"$x":	-1850.4375,
+					"$y":	21922
 				},
-				"$width":	3593.3125,
-				"$height":	1018.3125,
+				"$width":	3586.5,
+				"$height":	1027.625,
 				"$name":	"Coral Columns Upper"
 			}, {
 				"$Position":	{
@@ -4949,8 +4949,8 @@
 				"$name":	"Small Ruins"
 			}, {
 				"$Position":	{
-					"$x":	-1830.375,
-					"$y":	21868.0625
+					"$x":	-1804.6875,
+					"$y":	20668.9375
 				},
 				"$width":	5079,
 				"$height":	1096.8125,
