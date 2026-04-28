@@ -1,0 +1,829 @@
+{
+	"$NodeId":	"Constant.Assignments-16cda3e6-5070-4b8b-b297-8041404eace6",
+	"Type":	"Constant",
+	"ExportAs":	"The_Aqua_Subterrain_Cave_Orange_Crystals",
+	"Prop":	{
+		"$NodeId":	"Weighted.Prop-275683e5-dd02-4f12-80df-8ab6896bfe6f",
+		"Type":	"Weighted",
+		"Skip":	false,
+		"Seed":	"orang",
+		"Entries":	[{
+				"$NodeId":	"Entry.Weighted.Prop-bf4e1524-91ca-4e46-b41c-0a9b9404f20a",
+				"Prop":	{
+					"$NodeId":	"Locator.Prop-3c5b9cef-8352-4067-bdc4-420a80c464c8",
+					"Type":	"Locator",
+					"Skip":	false,
+					"PlacementCap":	1,
+					"Prop":	{
+						"$NodeId":	"StaticRotator.Prop-51120b7c-6a8d-4417-b97d-462c2c09e652",
+						"Type":	"StaticRotator",
+						"Skip":	false,
+						"Prop":	{
+							"$NodeId":	"Prefab.Prop-29dd49ad-640d-43fb-aa09-b534751fd309",
+							"Type":	"Prefab",
+							"Skip":	false,
+							"WeightedPrefabPaths":	[{
+									"$NodeId":	"WeightedPath.Prefab.Prop-5543d828-bf06-44e4-a46d-22ffe2c99772",
+									"Path":	"The_Aqua_Subterrain/Cave_Crystals/Orange",
+									"Weight":	100
+								}],
+							"LegacyPath":	false,
+							"LoadEntities":	false,
+							"MoldingDirection":	"NONE",
+							"MoldingChildren":	false
+						},
+						"Rotation":	{
+							"$NodeId":	"OrthogonalRotation-128d5404-59dd-444a-a189-55a31b275af5",
+							"Yaw":	"TwoSeventy",
+							"Pitch":	"None",
+							"Roll":	"None"
+						}
+					},
+					"Pattern":	{
+						"$NodeId":	"And.Pattern-9ba11aae-061c-4b53-b01e-f423b0c0080a",
+						"Type":	"And",
+						"Skip":	false,
+						"Patterns":	[{
+								"$NodeId":	"Imported.Pattern-596b4c4d-c6fd-4572-a4ac-1169efd052ca",
+								"Type":	"Imported",
+								"Skip":	false,
+								"Name":	"Cave_Crystals_Static_Mask"
+							}, {
+								"$NodeId":	"Wall.Pattern-00056b5e-95b9-4084-85c6-adf42ff142d8",
+								"Type":	"Wall",
+								"Skip":	false,
+								"Wall":	{
+									"$NodeId":	"Imported.Pattern-7a8c0953-3a95-4ffd-8ac0-9b774538ef7d",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Cave_Crystals_Ground_Mask"
+								},
+								"Origin":	{
+									"$NodeId":	"Imported.Pattern-15a96be6-b362-4a8a-8107-990b6591f410",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Cave_Crystals_Origin_Mask"
+								},
+								"Directions":	["S", "E"],
+								"RequireAllDirections":	true
+							}]
+					},
+					"Scanner":	{
+						"$NodeId":	"Imported.Scanner-44d439da-7b60-4ed8-a600-b77ae58a6661",
+						"Type":	"Imported",
+						"Skip":	false,
+						"Name":	"Cave_Crystals_Scanner"
+					}
+				},
+				"Weight":	1
+			}, {
+				"$NodeId":	"Entry.Weighted.Prop-93fe1c77-fdff-4783-a9fe-13287fc8d277",
+				"Prop":	{
+					"$NodeId":	"Locator.Prop-bb2f5fea-c369-451b-bf4e-1b09638399b6",
+					"Type":	"Locator",
+					"Skip":	false,
+					"PlacementCap":	1,
+					"Prop":	{
+						"$NodeId":	"StaticRotator.Prop-ca8e22f4-0ab0-4daf-a13b-a36ab3b857db",
+						"Type":	"StaticRotator",
+						"Skip":	false,
+						"Prop":	{
+							"$NodeId":	"Prefab.Prop-9ebfb685-afbc-41db-8834-d3c049c60c04",
+							"Type":	"Prefab",
+							"Skip":	false,
+							"WeightedPrefabPaths":	[{
+									"$NodeId":	"WeightedPath.Prefab.Prop-db87ee65-89c8-44c2-a724-f71d187d4df8",
+									"Path":	"The_Aqua_Subterrain/Cave_Crystals/Orange",
+									"Weight":	100
+								}],
+							"LegacyPath":	false,
+							"LoadEntities":	false,
+							"MoldingDirection":	"NONE",
+							"MoldingChildren":	false
+						},
+						"Rotation":	{
+							"$NodeId":	"OrthogonalRotation-88eabebd-1651-4b40-8d62-8296c61aa551",
+							"Yaw":	"OneEighty",
+							"Pitch":	"None",
+							"Roll":	"None"
+						}
+					},
+					"Pattern":	{
+						"$NodeId":	"And.Pattern-d00833b1-43b7-4a9a-b3d3-431bfad0282b",
+						"Type":	"And",
+						"Skip":	false,
+						"Patterns":	[{
+								"$NodeId":	"Imported.Pattern-d0cddc90-f1d4-4213-95af-7cbf15dbe34f",
+								"Type":	"Imported",
+								"Skip":	false,
+								"Name":	"Cave_Crystals_Static_Mask"
+							}, {
+								"$NodeId":	"Wall.Pattern-3100d257-0ba4-4eda-8f68-61918eb2437a",
+								"Type":	"Wall",
+								"Skip":	false,
+								"Wall":	{
+									"$NodeId":	"Imported.Pattern-5a768c43-17b5-4e0f-a1b9-69bb17a68e1d",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Cave_Crystals_Ground_Mask"
+								},
+								"Origin":	{
+									"$NodeId":	"Imported.Pattern-7e585094-80a7-47d7-8119-16c87ac33d99",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Cave_Crystals_Origin_Mask"
+								},
+								"Directions":	["N", "E"],
+								"RequireAllDirections":	true
+							}]
+					},
+					"Scanner":	{
+						"$NodeId":	"Imported.Scanner-cdcb30fc-849d-48cc-bf15-9751e0a86970",
+						"Type":	"Imported",
+						"Skip":	false,
+						"Name":	"Cave_Crystals_Scanner"
+					}
+				},
+				"Weight":	1
+			}, {
+				"$NodeId":	"Entry.Weighted.Prop-f1de6fa4-bb3e-468f-abb7-2bbae9696a96",
+				"Prop":	{
+					"$NodeId":	"Locator.Prop-d8558aff-d5a1-4b7e-958f-4c9645a68567",
+					"Type":	"Locator",
+					"Skip":	false,
+					"PlacementCap":	1,
+					"Prop":	{
+						"$NodeId":	"StaticRotator.Prop-c396d437-0e04-4f69-bab6-bd645f150b9c",
+						"Type":	"StaticRotator",
+						"Skip":	false,
+						"Prop":	{
+							"$NodeId":	"Prefab.Prop-3a4df384-be84-49ed-ae1a-5020a6df3e18",
+							"Type":	"Prefab",
+							"Skip":	false,
+							"WeightedPrefabPaths":	[{
+									"$NodeId":	"WeightedPath.Prefab.Prop-e2028722-f24b-4c19-b9b4-1f9c07f6ab7c",
+									"Path":	"The_Aqua_Subterrain/Cave_Crystals/Orange",
+									"Weight":	100
+								}],
+							"LegacyPath":	false,
+							"LoadEntities":	false,
+							"MoldingDirection":	"NONE",
+							"MoldingChildren":	false
+						},
+						"Rotation":	{
+							"$NodeId":	"OrthogonalRotation-d174dfd3-ea1f-4d8b-b0e8-a0dbed337281",
+							"Yaw":	"Ninety",
+							"Pitch":	"None",
+							"Roll":	"None"
+						}
+					},
+					"Pattern":	{
+						"$NodeId":	"And.Pattern-9f90c622-ff28-4717-98e3-746944a6ee6a",
+						"Type":	"And",
+						"Skip":	false,
+						"Patterns":	[{
+								"$NodeId":	"Imported.Pattern-3219a051-6698-4102-8452-de7023abeff8",
+								"Type":	"Imported",
+								"Skip":	false,
+								"Name":	"Cave_Crystals_Static_Mask"
+							}, {
+								"$NodeId":	"Wall.Pattern-36a4f092-6f15-4d76-b787-52f5f013ced8",
+								"Type":	"Wall",
+								"Skip":	false,
+								"Wall":	{
+									"$NodeId":	"Imported.Pattern-cd5cb15c-97ba-46db-98f0-c09c802d8c89",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Cave_Crystals_Ground_Mask"
+								},
+								"Origin":	{
+									"$NodeId":	"Imported.Pattern-b4cc3036-5c75-4771-bb43-57d212b1a103",
+									"Type":	"Imported",
+									"Skip":	false,
+									"Name":	"Cave_Crystals_Origin_Mask"
+								},
+								"Directions":	["N", "W"],
+								"RequireAllDirections":	true
+							}]
+					},
+					"Scanner":	{
+						"$NodeId":	"Imported.Scanner-6534b3db-a465-442e-9066-a91672f79bc3",
+						"Type":	"Imported",
+						"Skip":	false,
+						"Name":	"Cave_Crystals_Scanner"
+					}
+				},
+				"Weight":	1
+			}, {
+				"$NodeId":	"Entry.Weighted.Prop-577d401e-92a2-4e91-995d-7c383fd1ca54",
+				"Prop":	{
+					"$NodeId":	"Locator.Prop-529e57f4-cc24-4016-92c8-023580793778",
+					"Type":	"Locator",
+					"Skip":	false,
+					"PlacementCap":	1,
+					"Prop":	{
+						"$NodeId":	"Prefab.Prop-ae2272af-6c0b-43d0-a486-47793d862a17",
+						"Type":	"Prefab",
+						"Skip":	false,
+						"WeightedPrefabPaths":	[{
+								"$NodeId":	"WeightedPath.Prefab.Prop-7fecf48c-0076-4648-bf82-4bda488274a3",
+								"Path":	"The_Aqua_Subterrain/Cave_Crystals/Orange",
+								"Weight":	100
+							}],
+						"LegacyPath":	false,
+						"LoadEntities":	false,
+						"MoldingDirection":	"NONE",
+						"MoldingChildren":	false
+					},
+					"Pattern":	{
+						"$NodeId":	"And.Pattern-b99b42c9-9d9f-4837-ac3a-40fc8f75200c",
+						"Type":	"And",
+						"Skip":	false,
+						"Patterns":	[{
+								"$NodeId":	"And.Pattern-0198a2f6-8a26-4a27-bb9e-bb9446fce4ba",
+								"Type":	"And",
+								"ExportAs":	"Cave_Crystals_Static_Mask",
+								"Skip":	false,
+								"Patterns":	[{
+										"$NodeId":	"Floor.Pattern-eea71d70-2476-4216-ba02-68f03aabf0b9",
+										"Type":	"Floor",
+										"Skip":	false,
+										"Origin":	{
+											"$NodeId":	"Imported.Pattern-6cbcb0df-bca5-439b-97e6-e95fed3e0aca",
+											"Type":	"Imported",
+											"Skip":	false,
+											"Name":	"Cave_Crystals_Origin_Mask"
+										},
+										"Floor":	{
+											"$NodeId":	"Imported.Pattern-0fc981ad-a208-4d91-b11e-81e1fb250b26",
+											"Type":	"Imported",
+											"Skip":	false,
+											"Name":	"Cave_Crystals_Ground_Mask"
+										}
+									}, {
+										"$NodeId":	"Cuboid.Pattern-0df9356f-bafd-42ce-ad21-f395f7c9524d",
+										"Type":	"Cuboid",
+										"Skip":	false,
+										"Max":	{
+											"$NodeId":	"Point3D-c0148ddd-396b-4def-9291-9921efd3530c",
+											"X":	0,
+											"Y":	6,
+											"Z":	0
+										},
+										"Min":	{
+											"$NodeId":	"Point3D-7eff2d82-851f-4ada-bec0-e7230e7b53e4",
+											"X":	0,
+											"Y":	0,
+											"Z":	0
+										},
+										"SubPattern":	{
+											"$NodeId":	"BlockSet.Pattern-0dd0bb98-be5c-4e45-99cf-61e9a8611dad",
+											"Type":	"BlockSet",
+											"Skip":	false,
+											"BlockSet":	{
+												"$NodeId":	"BlockSet.BlockMask-b001a544-41da-4ce8-a0dd-61a932bbfb7e",
+												"Inclusive":	true,
+												"Materials":	[{
+														"$NodeId":	"Material-2166b22a-7cda-43fd-919f-1b13c0649a48",
+														"Solid":	"",
+														"Fluid":	"Water_Source",
+														"SolidBottomUp":	false
+													}]
+											}
+										}
+									}]
+							}, {
+								"$NodeId":	"Wall.Pattern-4d372191-0836-4cda-8c4c-95cd11f31840",
+								"Type":	"Wall",
+								"Skip":	false,
+								"Wall":	{
+									"$NodeId":	"BlockSet.Pattern-1b108154-eb20-4c5c-9dbe-6eab2fd7e3ab",
+									"Type":	"BlockSet",
+									"ExportAs":	"Cave_Crystals_Ground_Mask",
+									"Skip":	false,
+									"BlockSet":	{
+										"$NodeId":	"BlockSet.BlockMask-faabbe37-40a1-484d-9907-3535be2fa5e4",
+										"Inclusive":	true,
+										"Materials":	[{
+												"$NodeId":	"Material-94285b32-6510-4a5e-898b-a4db6a7255f5",
+												"Solid":	"Soil_Clay_Smooth_Green",
+												"SolidBottomUp":	false
+											}, {
+												"$NodeId":	"Material-ab0c9686-e7a7-489a-83db-e2ded0a8afd0",
+												"Solid":	"Soil_Clay_Ocean",
+												"SolidBottomUp":	false
+											}]
+									}
+								},
+								"Origin":	{
+									"$NodeId":	"BlockSet.Pattern-440775bf-4d19-4efb-919a-f72cc61c3a78",
+									"Type":	"BlockSet",
+									"ExportAs":	"Cave_Crystals_Origin_Mask",
+									"Skip":	false,
+									"BlockSet":	{
+										"$NodeId":	"BlockSet.BlockMask-438fd85d-d9ca-455c-a968-1fd6f8e3b0c5",
+										"Inclusive":	true,
+										"Materials":	[{
+												"$NodeId":	"Material-270659ef-1d49-4476-bdc5-39d4dc1e5c73",
+												"Solid":	"",
+												"Fluid":	"Water_Source",
+												"SolidBottomUp":	false
+											}]
+									}
+								},
+								"Directions":	["S", "W"],
+								"RequireAllDirections":	true
+							}]
+					},
+					"Scanner":	{
+						"$NodeId":	"Linear.Scanner-74eef49b-17a7-47fb-9424-961ae837c209",
+						"Type":	"Linear",
+						"ExportAs":	"Cave_Crystals_Scanner",
+						"Skip":	false,
+						"Axis":	"Y",
+						"AscendingOrder":	true,
+						"Range":	{
+							"$NodeId":	"Integer.Range-e7b66b40-3e4f-4949-8b9c-240b99208d38",
+							"MinInclusive":	-70,
+							"MaxExclusive":	-15
+						}
+					}
+				},
+				"Weight":	1
+			}]
+	},
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Constant.Assignments-16cda3e6-5070-4b8b-b297-8041404eace6":	{
+				"$Position":	{
+					"$x":	-638,
+					"$y":	1663
+				},
+				"$Title":	"[ROOT] Constant Assignments"
+			},
+			"Weighted.Prop-275683e5-dd02-4f12-80df-8ab6896bfe6f":	{
+				"$Position":	{
+					"$x":	129,
+					"$y":	1658
+				}
+			},
+			"Entry.Weighted.Prop-bf4e1524-91ca-4e46-b41c-0a9b9404f20a":	{
+				"$Position":	{
+					"$x":	1246,
+					"$y":	-3477
+				}
+			},
+			"Locator.Prop-3c5b9cef-8352-4067-bdc4-420a80c464c8":	{
+				"$Position":	{
+					"$x":	1696,
+					"$y":	-3479
+				}
+			},
+			"StaticRotator.Prop-51120b7c-6a8d-4417-b97d-462c2c09e652":	{
+				"$Position":	{
+					"$x":	2404,
+					"$y":	-3866
+				}
+			},
+			"Prefab.Prop-29dd49ad-640d-43fb-aa09-b534751fd309":	{
+				"$Position":	{
+					"$x":	3102,
+					"$y":	-4187
+				}
+			},
+			"WeightedPath.Prefab.Prop-5543d828-bf06-44e4-a46d-22ffe2c99772":	{
+				"$Position":	{
+					"$x":	3966,
+					"$y":	-4187
+				}
+			},
+			"OrthogonalRotation-128d5404-59dd-444a-a189-55a31b275af5":	{
+				"$Position":	{
+					"$x":	3093,
+					"$y":	-3825
+				}
+			},
+			"And.Pattern-9ba11aae-061c-4b53-b01e-f423b0c0080a":	{
+				"$Position":	{
+					"$x":	2548,
+					"$y":	-3215
+				}
+			},
+			"Imported.Pattern-596b4c4d-c6fd-4572-a4ac-1169efd052ca":	{
+				"$Position":	{
+					"$x":	3274,
+					"$y":	-3396
+				}
+			},
+			"Wall.Pattern-00056b5e-95b9-4084-85c6-adf42ff142d8":	{
+				"$Position":	{
+					"$x":	3270,
+					"$y":	-3207
+				}
+			},
+			"Imported.Pattern-7a8c0953-3a95-4ffd-8ac0-9b774538ef7d":	{
+				"$Position":	{
+					"$x":	3955,
+					"$y":	-3207
+				}
+			},
+			"Imported.Pattern-15a96be6-b362-4a8a-8107-990b6591f410":	{
+				"$Position":	{
+					"$x":	3953,
+					"$y":	-3026
+				}
+			},
+			"Imported.Scanner-44d439da-7b60-4ed8-a600-b77ae58a6661":	{
+				"$Position":	{
+					"$x":	2541,
+					"$y":	-2979
+				}
+			},
+			"Entry.Weighted.Prop-93fe1c77-fdff-4783-a9fe-13287fc8d277":	{
+				"$Position":	{
+					"$x":	1231,
+					"$y":	-1826
+				}
+			},
+			"Locator.Prop-bb2f5fea-c369-451b-bf4e-1b09638399b6":	{
+				"$Position":	{
+					"$x":	1689,
+					"$y":	-1829
+				}
+			},
+			"StaticRotator.Prop-ca8e22f4-0ab0-4daf-a13b-a36ab3b857db":	{
+				"$Position":	{
+					"$x":	2397,
+					"$y":	-2216
+				}
+			},
+			"Prefab.Prop-9ebfb685-afbc-41db-8834-d3c049c60c04":	{
+				"$Position":	{
+					"$x":	3095,
+					"$y":	-2537
+				}
+			},
+			"WeightedPath.Prefab.Prop-db87ee65-89c8-44c2-a724-f71d187d4df8":	{
+				"$Position":	{
+					"$x":	3959,
+					"$y":	-2537
+				}
+			},
+			"OrthogonalRotation-88eabebd-1651-4b40-8d62-8296c61aa551":	{
+				"$Position":	{
+					"$x":	3086,
+					"$y":	-2175
+				}
+			},
+			"And.Pattern-d00833b1-43b7-4a9a-b3d3-431bfad0282b":	{
+				"$Position":	{
+					"$x":	2541,
+					"$y":	-1565
+				}
+			},
+			"Imported.Pattern-d0cddc90-f1d4-4213-95af-7cbf15dbe34f":	{
+				"$Position":	{
+					"$x":	3267,
+					"$y":	-1763
+				}
+			},
+			"Wall.Pattern-3100d257-0ba4-4eda-8f68-61918eb2437a":	{
+				"$Position":	{
+					"$x":	3263,
+					"$y":	-1557
+				}
+			},
+			"Imported.Pattern-5a768c43-17b5-4e0f-a1b9-69bb17a68e1d":	{
+				"$Position":	{
+					"$x":	3948,
+					"$y":	-1557
+				}
+			},
+			"Imported.Pattern-7e585094-80a7-47d7-8119-16c87ac33d99":	{
+				"$Position":	{
+					"$x":	3946,
+					"$y":	-1376
+				}
+			},
+			"Imported.Scanner-cdcb30fc-849d-48cc-bf15-9751e0a86970":	{
+				"$Position":	{
+					"$x":	2534,
+					"$y":	-1329
+				}
+			},
+			"Entry.Weighted.Prop-f1de6fa4-bb3e-468f-abb7-2bbae9696a96":	{
+				"$Position":	{
+					"$x":	1252,
+					"$y":	-118
+				}
+			},
+			"Locator.Prop-d8558aff-d5a1-4b7e-958f-4c9645a68567":	{
+				"$Position":	{
+					"$x":	1694,
+					"$y":	-119
+				}
+			},
+			"StaticRotator.Prop-c396d437-0e04-4f69-bab6-bd645f150b9c":	{
+				"$Position":	{
+					"$x":	2402,
+					"$y":	-507
+				}
+			},
+			"Prefab.Prop-3a4df384-be84-49ed-ae1a-5020a6df3e18":	{
+				"$Position":	{
+					"$x":	3100,
+					"$y":	-828
+				}
+			},
+			"WeightedPath.Prefab.Prop-e2028722-f24b-4c19-b9b4-1f9c07f6ab7c":	{
+				"$Position":	{
+					"$x":	3963,
+					"$y":	-828
+				}
+			},
+			"OrthogonalRotation-d174dfd3-ea1f-4d8b-b0e8-a0dbed337281":	{
+				"$Position":	{
+					"$x":	3091,
+					"$y":	-466
+				}
+			},
+			"And.Pattern-9f90c622-ff28-4717-98e3-746944a6ee6a":	{
+				"$Position":	{
+					"$x":	2546,
+					"$y":	144
+				}
+			},
+			"Imported.Pattern-3219a051-6698-4102-8452-de7023abeff8":	{
+				"$Position":	{
+					"$x":	3276,
+					"$y":	-60
+				}
+			},
+			"Wall.Pattern-36a4f092-6f15-4d76-b787-52f5f013ced8":	{
+				"$Position":	{
+					"$x":	3268,
+					"$y":	152
+				}
+			},
+			"Imported.Pattern-cd5cb15c-97ba-46db-98f0-c09c802d8c89":	{
+				"$Position":	{
+					"$x":	3953,
+					"$y":	152
+				}
+			},
+			"Imported.Pattern-b4cc3036-5c75-4771-bb43-57d212b1a103":	{
+				"$Position":	{
+					"$x":	3950,
+					"$y":	333
+				}
+			},
+			"Imported.Scanner-6534b3db-a465-442e-9066-a91672f79bc3":	{
+				"$Position":	{
+					"$x":	2538,
+					"$y":	380
+				}
+			},
+			"Entry.Weighted.Prop-577d401e-92a2-4e91-995d-7c383fd1ca54":	{
+				"$Position":	{
+					"$x":	1238,
+					"$y":	1666
+				}
+			},
+			"Locator.Prop-529e57f4-cc24-4016-92c8-023580793778":	{
+				"$Position":	{
+					"$x":	1685,
+					"$y":	1664
+				}
+			},
+			"Prefab.Prop-ae2272af-6c0b-43d0-a486-47793d862a17":	{
+				"$Position":	{
+					"$x":	2427,
+					"$y":	812
+				}
+			},
+			"WeightedPath.Prefab.Prop-7fecf48c-0076-4648-bf82-4bda488274a3":	{
+				"$Position":	{
+					"$x":	3298,
+					"$y":	810
+				}
+			},
+			"And.Pattern-b99b42c9-9d9f-4837-ac3a-40fc8f75200c":	{
+				"$Position":	{
+					"$x":	2504,
+					"$y":	1937
+				}
+			},
+			"And.Pattern-0198a2f6-8a26-4a27-bb9e-bb9446fce4ba":	{
+				"$Position":	{
+					"$x":	3166,
+					"$y":	1416
+				}
+			},
+			"Floor.Pattern-eea71d70-2476-4216-ba02-68f03aabf0b9":	{
+				"$Position":	{
+					"$x":	3856,
+					"$y":	1015
+				}
+			},
+			"Imported.Pattern-6cbcb0df-bca5-439b-97e6-e95fed3e0aca":	{
+				"$Position":	{
+					"$x":	4543,
+					"$y":	1013
+				}
+			},
+			"Imported.Pattern-0fc981ad-a208-4d91-b11e-81e1fb250b26":	{
+				"$Position":	{
+					"$x":	4544,
+					"$y":	1204
+				}
+			},
+			"Cuboid.Pattern-0df9356f-bafd-42ce-ad21-f395f7c9524d":	{
+				"$Position":	{
+					"$x":	3861,
+					"$y":	1413
+				}
+			},
+			"Point3D-c0148ddd-396b-4def-9291-9921efd3530c":	{
+				"$Position":	{
+					"$x":	4550,
+					"$y":	1360
+				}
+			},
+			"Point3D-7eff2d82-851f-4ada-bec0-e7230e7b53e4":	{
+				"$Position":	{
+					"$x":	4553,
+					"$y":	1546
+				}
+			},
+			"BlockSet.Pattern-0dd0bb98-be5c-4e45-99cf-61e9a8611dad":	{
+				"$Position":	{
+					"$x":	4552,
+					"$y":	1749
+				}
+			},
+			"BlockSet.BlockMask-b001a544-41da-4ce8-a0dd-61a932bbfb7e":	{
+				"$Position":	{
+					"$x":	5222,
+					"$y":	1752
+				}
+			},
+			"Material-2166b22a-7cda-43fd-919f-1b13c0649a48":	{
+				"$Position":	{
+					"$x":	5749,
+					"$y":	1754
+				}
+			},
+			"Wall.Pattern-4d372191-0836-4cda-8c4c-95cd11f31840":	{
+				"$Position":	{
+					"$x":	3259,
+					"$y":	1936
+				}
+			},
+			"BlockSet.Pattern-1b108154-eb20-4c5c-9dbe-6eab2fd7e3ab":	{
+				"$Position":	{
+					"$x":	3952,
+					"$y":	1935
+				}
+			},
+			"BlockSet.BlockMask-faabbe37-40a1-484d-9907-3535be2fa5e4":	{
+				"$Position":	{
+					"$x":	4605,
+					"$y":	1932
+				}
+			},
+			"Material-94285b32-6510-4a5e-898b-a4db6a7255f5":	{
+				"$Position":	{
+					"$x":	5156,
+					"$y":	1933
+				}
+			},
+			"Material-ab0c9686-e7a7-489a-83db-e2ded0a8afd0":	{
+				"$Position":	{
+					"$x":	5159,
+					"$y":	2148
+				}
+			},
+			"BlockSet.Pattern-440775bf-4d19-4efb-919a-f72cc61c3a78":	{
+				"$Position":	{
+					"$x":	3956,
+					"$y":	2387
+				}
+			},
+			"BlockSet.BlockMask-438fd85d-d9ca-455c-a968-1fd6f8e3b0c5":	{
+				"$Position":	{
+					"$x":	4596,
+					"$y":	2389
+				}
+			},
+			"Material-270659ef-1d49-4476-bdc5-39d4dc1e5c73":	{
+				"$Position":	{
+					"$x":	5120,
+					"$y":	2388
+				}
+			},
+			"Linear.Scanner-74eef49b-17a7-47fb-9424-961ae837c209":	{
+				"$Position":	{
+					"$x":	2437,
+					"$y":	2319
+				}
+			},
+			"Integer.Range-e7b66b40-3e4f-4949-8b9c-240b99208d38":	{
+				"$Position":	{
+					"$x":	3091,
+					"$y":	2358
+				}
+			},
+			"FieldFunction.Assignments-c050199a-0aba-4388-baa8-0ff30c9ad3b2":	{
+				"$Position":	{
+					"$x":	747155,
+					"$y":	774574
+				}
+			},
+			"Runtime-0e90f5d1-0871-48fd-923c-222aa36d5a38":	{
+				"$Position":	{
+					"$x":	746561,
+					"$y":	774288
+				}
+			},
+			"Mesh2DPositions-8a7e5fa5-dd9e-4c9b-9feb-6cd21313227f":	{
+				"$Position":	{
+					"$x":	747225,
+					"$y":	774209
+				}
+			},
+			"MeshPointGenerator-f3c3227c-e2a7-459f-85e9-ad3fd1b6a3a6":	{
+				"$Position":	{
+					"$x":	747979,
+					"$y":	774178
+				}
+			},
+			"Delimiter.FieldFunction.Assignments-bc020ae0-a2f2-4d65-b2f5-3d7c55c6e02e":	{
+				"$Position":	{
+					"$x":	747931,
+					"$y":	774827
+				}
+			},
+			"Imported.Assignments-b0a26225-8ea2-4b96-9086-bd5ec1664304":	{
+				"$Position":	{
+					"$x":	748556,
+					"$y":	774839
+				}
+			},
+			"ImportedDensityNode-54d002b4-de40-44d3-8e53-97c497492332":	{
+				"$Position":	{
+					"$x":	747937,
+					"$y":	774565
+				}
+			}
+		},
+		"$FloatingNodes":	[{
+				"$NodeId":	"FieldFunction.Assignments-c050199a-0aba-4388-baa8-0ff30c9ad3b2",
+				"Type":	"FieldFunction",
+				"Delimiters":	[]
+			}, {
+				"$NodeId":	"Runtime-0e90f5d1-0871-48fd-923c-222aa36d5a38",
+				"Skip":	false,
+				"Runtime":	2
+			}, {
+				"$NodeId":	"Mesh2DPositions-8a7e5fa5-dd9e-4c9b-9feb-6cd21313227f",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0
+			}, {
+				"$NodeId":	"MeshPointGenerator-f3c3227c-e2a7-459f-85e9-ad3fd1b6a3a6",
+				"Type":	"Mesh",
+				"Jitter":	0.4,
+				"ScaleX":	35,
+				"ScaleY":	35,
+				"ScaleZ":	35,
+				"Seed":	"F"
+			}, {
+				"$NodeId":	"Delimiter.FieldFunction.Assignments-bc020ae0-a2f2-4d65-b2f5-3d7c55c6e02e",
+				"Max":	1,
+				"Min":	0.8
+			}, {
+				"$NodeId":	"Imported.Assignments-b0a26225-8ea2-4b96-9086-bd5ec1664304",
+				"Type":	"Imported",
+				"Name":	"The_Aqua_Subterrain_Small_Columns"
+			}, {
+				"$NodeId":	"ImportedDensityNode-54d002b4-de40-44d3-8e53-97c497492332",
+				"Type":	"Imported",
+				"Skip":	false,
+				"Name":	"GroundPlateauDensity"
+			}],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[{
+				"$Position":	{
+					"$x":	751936.125,
+					"$y":	755114
+				},
+				"$width":	250,
+				"$height":	150,
+				"$name":	"Comment",
+				"$text":	"For some reason using BaseHeightName \"Base\" wasnt working"
+			}],
+		"$WorkspaceID":	"HytaleGenerator - Assignments"
+	}
+}
