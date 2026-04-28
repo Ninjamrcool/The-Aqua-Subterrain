@@ -1,6 +1,7 @@
 {
   "Environments": [
-    "Env_Titancoral_Ravines"
+    "Env_Titancoral_Ravines",
+    "Env_Titancoral_Ravines_Caves"
   ],
   "NPCs": [
     {

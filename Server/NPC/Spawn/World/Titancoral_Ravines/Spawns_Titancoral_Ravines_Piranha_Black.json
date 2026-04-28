@@ -1,13 +1,12 @@
 {
   "Environments": [
-    "Env_Titancoral_Ravines",
     "Env_Titancoral_Ravines_Caves"
   ],
   "NPCs": [
     {
       "Weight": 15,
-      "Id": "Jellyfish_Blue",
-      "Flock": "Group_Large",
+      "Id": "Piranha_Black",
+      "Flock": "Group_Medium",
       "SpawnFluidTag": "Water"
     }
   ],

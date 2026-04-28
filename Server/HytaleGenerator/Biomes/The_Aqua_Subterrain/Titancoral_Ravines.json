@@ -2641,10 +2641,11 @@
 		"$NodeId":	"DensityDelimited.EnvironmentProvider-60ccd1a8-3932-414d-b362-6601fb90b839",
 		"Type":	"DensityDelimited",
 		"Density":	{
-			"$NodeId":	"ConstantDensityNode-12c374ec-12e5-49a0-9006-0f6aed282eb8",
-			"Type":	"Constant",
+			"$NodeId":	"BaseHeight.Density-893b77ae-0eff-4703-b631-3728f9bf2ddf",
+			"Type":	"BaseHeight",
 			"Skip":	false,
-			"Value":	0
+			"BaseHeightName":	"Base",
+			"Distance":	true
 		},
 		"Delimiters":	[{
 				"$NodeId":	"Delimiter.DensityDelimited.EnvironmentProvider-3ba8c033-c28f-4303-9dca-8af3166401be",
@@ -2655,8 +2656,20 @@
 				},
 				"Range":	{
 					"$NodeId":	"Decimal.Range-0b4336a8-30cf-49dc-a350-a2e453c50055",
-					"MinInclusive":	-1,
-					"MaxExclusive":	1
+					"MinInclusive":	-10,
+					"MaxExclusive":	999
+				}
+			}, {
+				"$NodeId":	"Delimiter.DensityDelimited.EnvironmentProvider-6a43d6d2-a2a0-4c03-a313-1268d9e5ea97",
+				"Environment":	{
+					"$NodeId":	"Constant.EnvironmentProvider-833b623c-6e2c-4cf7-b47e-5215dab4edc5",
+					"Type":	"Constant",
+					"Environment":	"Env_Titancoral_Ravines_Caves"
+				},
+				"Range":	{
+					"$NodeId":	"Decimal.Range-61a8b98f-47ab-4334-afff-5b533bc796d3",
+					"MinInclusive":	-999,
+					"MaxExclusive":	-10
 				}
 			}]
 	},
@@ -5030,12 +5043,6 @@
 					"$y":	18261
 				}
 			},
-			"ConstantDensityNode-12c374ec-12e5-49a0-9006-0f6aed282eb8":	{
-				"$Position":	{
-					"$x":	-4864,
-					"$y":	18262
-				}
-			},
 			"Delimiter.DensityDelimited.EnvironmentProvider-3ba8c033-c28f-4303-9dca-8af3166401be":	{
 				"$Position":	{
 					"$x":	-5057,
@@ -5056,68 +5063,68 @@
 			},
 			"DensityDelimited.TintProvider-2729fd3c-42d3-4042-b5ce-29c6db5f8936":	{
 				"$Position":	{
-					"$x":	-6907,
-					"$y":	19268
+					"$x":	-6560,
+					"$y":	19636
 				}
 			},
 			"SimplexNoise2DDensityNode-618097a7-be5f-478e-8606-ea331d82159c":	{
 				"$Position":	{
-					"$x":	-5252,
-					"$y":	19086
+					"$x":	-4905,
+					"$y":	19454
 				}
 			},
 			"Delimiter.DensityDelimited.TintProvider-59a0261b-4f9b-452e-b665-37d142e01c51":	{
 				"$Position":	{
-					"$x":	-6164,
-					"$y":	19373
+					"$x":	-5817,
+					"$y":	19741
 				}
 			},
 			"Constant.TintProvider-7e7f3a9f-5ca8-44ef-93ae-94aec5295586":	{
 				"$Position":	{
-					"$x":	-5825,
-					"$y":	19283
+					"$x":	-5478,
+					"$y":	19651
 				}
 			},
 			"Decimal.Range-b199508f-4be2-45bb-acba-42a0157ccce7":	{
 				"$Position":	{
-					"$x":	-5831,
-					"$y":	19441
+					"$x":	-5484,
+					"$y":	19809
 				}
 			},
 			"Delimiter.DensityDelimited.TintProvider-5aa67c63-1459-4e15-968f-64006bcb015c":	{
 				"$Position":	{
-					"$x":	-6135,
-					"$y":	19746
+					"$x":	-5788,
+					"$y":	20114
 				}
 			},
 			"Constant.TintProvider-af0760ee-d937-41d0-85f2-0cdfa234b05b":	{
 				"$Position":	{
-					"$x":	-5829,
-					"$y":	19683
+					"$x":	-5482,
+					"$y":	20051
 				}
 			},
 			"Decimal.Range-bc525321-54e3-465e-babb-385ec3750edb":	{
 				"$Position":	{
-					"$x":	-5842,
-					"$y":	19829
+					"$x":	-5495,
+					"$y":	20197
 				}
 			},
 			"Delimiter.DensityDelimited.TintProvider-3680b5b9-5558-4b3c-b117-15db23cc77f5":	{
 				"$Position":	{
-					"$x":	-6117,
-					"$y":	20191
+					"$x":	-5770,
+					"$y":	20559
 				}
 			},
 			"Constant.TintProvider-521b314d-88e2-44b0-bb60-3942bd77f28a":	{
 				"$Position":	{
-					"$x":	-5857,
-					"$y":	20118
+					"$x":	-5510,
+					"$y":	20486
 				}
 			},
 			"Decimal.Range-bed6d4a7-75d3-441c-a539-aca9e74489c3":	{
 				"$Position":	{
-					"$x":	-5851,
-					"$y":	20263
+					"$x":	-5504,
+					"$y":	20631
 				}
 			},
 			"Runtime-33168841-e6cf-46e0-8f31-fcac88bf1565":	{
@@ -5857,6 +5864,30 @@
 					"$x":	-10760,
 					"$y":	24875
 				}
+			},
+			"BaseHeight.Density-893b77ae-0eff-4703-b631-3728f9bf2ddf":	{
+				"$Position":	{
+					"$x":	-4943,
+					"$y":	18255
+				}
+			},
+			"Delimiter.DensityDelimited.EnvironmentProvider-6a43d6d2-a2a0-4c03-a313-1268d9e5ea97":	{
+				"$Position":	{
+					"$x":	-5054,
+					"$y":	18908
+				}
+			},
+			"Constant.EnvironmentProvider-833b623c-6e2c-4cf7-b47e-5215dab4edc5":	{
+				"$Position":	{
+					"$x":	-4769,
+					"$y":	18910
+				}
+			},
+			"Decimal.Range-61a8b98f-47ab-4334-afff-5b533bc796d3":	{
+				"$Position":	{
+					"$x":	-4760,
+					"$y":	19068
+				}
 			}
 		},
 		"$FloatingNodes":	[],
@@ -5864,16 +5895,16 @@
 		},
 		"$Groups":	[{
 				"$Position":	{
-					"$x":	-6172.25,
+					"$x":	-5832.375,
 					"$y":	18006.125
 				},
-				"$width":	2741.8125,
-				"$height":	932.25,
+				"$width":	1802.6875,
+				"$height":	1329.125,
 				"$name":	"Environments"
 			}, {
 				"$Position":	{
-					"$x":	-7079.5,
-					"$y":	19024.625
+					"$x":	-6732.625,
+					"$y":	19392.875
 				},
 				"$width":	2394.5,
 				"$height":	1432.875,
